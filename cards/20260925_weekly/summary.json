@@ -30,6 +30,26 @@
       ]
     },
     {
+      "keyword": "반도체 기판·PCB(FC-BGA/SOCAMM)",
+      "days": 2,
+      "dates": [
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "week_return": 17.91,
+      "leader": "코리아써키트",
+      "stocks": [
+        "네오티스",
+        "덕산하이메탈",
+        "이수페타시스",
+        "인터플렉스",
+        "인텍플러스",
+        "코리아써키트",
+        "티에프이",
+        "티엘비"
+      ]
+    },
+    {
       "keyword": "2026 하반기 신규상장",
       "days": 1,
       "dates": [
@@ -57,36 +77,6 @@
         "삼기에너지솔루션즈",
         "솔브레인",
         "알멕"
-      ]
-    },
-    {
-      "keyword": "반도체 기판·PCB(FC-BGA/SOCAMM)",
-      "days": 1,
-      "dates": [
-        "2026-09-22"
-      ],
-      "week_return": 19.02,
-      "leader": "코리아써키트",
-      "stocks": [
-        "네오티스",
-        "인터플렉스",
-        "코리아써키트",
-        "티에프이",
-        "티엘비"
-      ]
-    },
-    {
-      "keyword": "반도체 기판·AI PCB",
-      "days": 1,
-      "dates": [
-        "2026-09-21"
-      ],
-      "week_return": 16.07,
-      "leader": "인텍플러스",
-      "stocks": [
-        "덕산하이메탈",
-        "이수페타시스",
-        "인텍플러스"
       ]
     },
     {
@@ -277,7 +267,7 @@
       "name": "인텍플러스",
       "week_return": 17.52,
       "days": 1,
-      "theme": "반도체 기판·AI PCB"
+      "theme": "반도체 기판·PCB(FC-BGA/SOCAMM)"
     },
     {
       "name": "노타",
@@ -289,7 +279,7 @@
       "name": "이수페타시스",
       "week_return": 16.41,
       "days": 1,
-      "theme": "반도체 기판·AI PCB"
+      "theme": "반도체 기판·PCB(FC-BGA/SOCAMM)"
     },
     {
       "name": "제우스",
@@ -313,7 +303,7 @@
       "name": "덕산하이메탈",
       "week_return": 14.29,
       "days": 1,
-      "theme": "반도체 기판·AI PCB"
+      "theme": "반도체 기판·PCB(FC-BGA/SOCAMM)"
     },
     {
       "name": "브이엠",
