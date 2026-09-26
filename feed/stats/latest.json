@@ -1,190 +1,190 @@
 {
-  "generated_at": "2026-09-26T10:56:33+09:00",
+  "generated_at": "2026-09-26T11:02:01+09:00",
   "period": {
     "from": "2025-06-05",
-    "to": "2026-09-25"
+    "to": "2026-09-23"
   },
   "entry": "다음 거래일 시가",
   "sample": {
-    "days": 284,
-    "theme_days": 1178,
+    "days": 282,
+    "theme_days": 1172,
     "stocks": 1197,
     "priced_stocks": 1075
   },
   "by_streak": {
     "1일차": {
-      "n": 927,
-      "continue_pct": 18.7,
+      "n": 915,
+      "continue_pct": 19.1,
       "leader": {
         "gap": {
-          "n": 870,
-          "mean": 2.6,
+          "n": 864,
+          "mean": 2.61,
           "median": 0.89,
           "win": 60.1
         },
         "r1": {
-          "n": 870,
-          "mean": -0.92,
-          "median": -1.09,
-          "win": 40.0
+          "n": 864,
+          "mean": -0.96,
+          "median": -1.11,
+          "win": 39.8
         },
         "r3": {
-          "n": 862,
-          "mean": -1.32,
-          "median": -2.25,
+          "n": 856,
+          "mean": -1.36,
+          "median": -2.27,
           "win": 40.0
         },
         "r5": {
-          "n": 856,
-          "mean": -1.5,
+          "n": 850,
+          "mean": -1.53,
           "median": -2.24,
           "win": 40.8
         }
       },
       "group_avg": {
         "gap": {
-          "n": 917,
+          "n": 911,
           "mean": 1.32,
           "median": 0.7,
-          "win": 62.1
+          "win": 62.0
         },
         "r1": {
-          "n": 917,
-          "mean": -0.78,
-          "median": -0.81,
-          "win": 39.3
+          "n": 911,
+          "mean": -0.8,
+          "median": -0.85,
+          "win": 39.1
         },
         "r3": {
-          "n": 909,
-          "mean": -0.77,
+          "n": 903,
+          "mean": -0.78,
           "median": -1.04,
-          "win": 43.7
+          "win": 43.6
         },
         "r5": {
-          "n": 903,
-          "mean": -0.89,
-          "median": -0.96,
-          "win": 46.5
+          "n": 897,
+          "mean": -0.92,
+          "median": -1.0,
+          "win": 46.4
         }
       }
     },
     "2일차": {
-      "n": 166,
-      "continue_pct": 28.4,
+      "n": 169,
+      "continue_pct": 29.7,
       "leader": {
         "gap": {
-          "n": 160,
-          "mean": 2.49,
-          "median": 1.05,
-          "win": 60.0
+          "n": 163,
+          "mean": 2.4,
+          "median": 1.04,
+          "win": 60.1
         },
         "r1": {
-          "n": 160,
-          "mean": -0.72,
-          "median": -1.19,
-          "win": 40.0
+          "n": 163,
+          "mean": -0.55,
+          "median": -1.08,
+          "win": 40.5
         },
         "r3": {
-          "n": 160,
-          "mean": -0.77,
-          "median": -0.98,
-          "win": 45.6
+          "n": 163,
+          "mean": -0.55,
+          "median": -0.94,
+          "win": 46.0
         },
         "r5": {
-          "n": 158,
-          "mean": -0.77,
-          "median": -1.9,
-          "win": 42.4
+          "n": 161,
+          "mean": -0.5,
+          "median": -1.83,
+          "win": 42.9
         }
       },
       "group_avg": {
         "gap": {
-          "n": 165,
-          "mean": 1.22,
-          "median": 0.71,
-          "win": 63.0
+          "n": 168,
+          "mean": 1.19,
+          "median": 0.7,
+          "win": 62.5
         },
         "r1": {
-          "n": 165,
-          "mean": -0.92,
-          "median": -1.32,
-          "win": 37.0
+          "n": 168,
+          "mean": -0.8,
+          "median": -1.31,
+          "win": 38.1
         },
         "r3": {
-          "n": 165,
-          "mean": -0.65,
-          "median": -0.24,
-          "win": 48.5
+          "n": 168,
+          "mean": -0.57,
+          "median": -0.17,
+          "win": 49.4
         },
         "r5": {
-          "n": 163,
-          "mean": -0.71,
-          "median": -0.8,
-          "win": 47.9
+          "n": 166,
+          "mean": -0.5,
+          "median": -0.36,
+          "win": 49.4
         }
       }
     },
     "3일차+": {
-      "n": 85,
-      "continue_pct": 45.8,
+      "n": 88,
+      "continue_pct": 44.2,
       "leader": {
         "gap": {
-          "n": 79,
-          "mean": 4.11,
-          "median": 0.93,
-          "win": 58.2
+          "n": 82,
+          "mean": 4.16,
+          "median": 0.96,
+          "win": 58.5
         },
         "r1": {
-          "n": 79,
-          "mean": -0.9,
-          "median": -1.14,
-          "win": 36.7
+          "n": 82,
+          "mean": -0.86,
+          "median": -1.04,
+          "win": 37.8
         },
         "r3": {
-          "n": 79,
-          "mean": -0.9,
-          "median": -2.52,
-          "win": 38.0
+          "n": 82,
+          "mean": -0.92,
+          "median": -2.33,
+          "win": 37.8
         },
         "r5": {
-          "n": 77,
-          "mean": 1.17,
-          "median": -3.69,
-          "win": 44.2
+          "n": 80,
+          "mean": 0.83,
+          "median": -3.83,
+          "win": 42.5
         }
       },
       "group_avg": {
         "gap": {
-          "n": 85,
+          "n": 88,
           "mean": 1.99,
-          "median": 0.54,
-          "win": 57.6
+          "median": 0.68,
+          "win": 59.1
         },
         "r1": {
-          "n": 85,
-          "mean": -0.72,
-          "median": -0.25,
-          "win": 45.9
+          "n": 88,
+          "mean": -0.78,
+          "median": -0.38,
+          "win": 45.5
         },
         "r3": {
-          "n": 85,
-          "mean": -0.77,
-          "median": -0.55,
-          "win": 48.2
+          "n": 88,
+          "mean": -0.81,
+          "median": -0.84,
+          "win": 46.6
         },
         "r5": {
-          "n": 83,
-          "mean": -0.0,
-          "median": -0.92,
-          "win": 45.8
+          "n": 86,
+          "mean": -0.13,
+          "median": -1.02,
+          "win": 44.2
         }
       }
     }
   },
   "by_leader_rate": {
     "a.상한가": {
-      "n": 410,
-      "continue_pct": 29.1,
+      "n": 406,
+      "continue_pct": 29.6,
       "leader": {
         "gap": {
           "n": 377,
@@ -239,8 +239,8 @@
       }
     },
     "b.15~30%": {
-      "n": 383,
-      "continue_pct": 20.6,
+      "n": 381,
+      "continue_pct": 20.9,
       "leader": {
         "gap": {
           "n": 362,
@@ -296,7 +296,7 @@
     },
     "c.15% 미만": {
       "n": 385,
-      "continue_pct": 16.1,
+      "continue_pct": 16.9,
       "leader": {
         "gap": {
           "n": 370,
@@ -353,8 +353,8 @@
   },
   "by_size": {
     "a.5종목+": {
-      "n": 567,
-      "continue_pct": 27.2,
+      "n": 563,
+      "continue_pct": 27.9,
       "leader": {
         "gap": {
           "n": 538,
@@ -409,8 +409,8 @@
       }
     },
     "b.3~4종목": {
-      "n": 485,
-      "continue_pct": 16.8,
+      "n": 483,
+      "continue_pct": 17.0,
       "leader": {
         "gap": {
           "n": 453,
@@ -466,7 +466,7 @@
     },
     "c.1~2종목": {
       "n": 126,
-      "continue_pct": 18.5,
+      "continue_pct": 19.4,
       "leader": {
         "gap": {
           "n": 118,
@@ -677,18 +677,18 @@
       "bucket": "1일차",
       "leader": "HT로보틱스",
       "history": {
-        "n": 927,
-        "continue_pct": 18.7,
+        "n": 915,
+        "continue_pct": 19.1,
         "leader_r1": {
-          "n": 870,
-          "mean": -0.92,
-          "median": -1.09,
-          "win": 40.0
+          "n": 864,
+          "mean": -0.96,
+          "median": -1.11,
+          "win": 39.8
         },
         "leader_r3": {
-          "n": 862,
-          "mean": -1.32,
-          "median": -2.25,
+          "n": 856,
+          "mean": -1.36,
+          "median": -2.27,
           "win": 40.0
         }
       }
@@ -699,40 +699,40 @@
       "bucket": "1일차",
       "leader": "우리넷",
       "history": {
-        "n": 927,
-        "continue_pct": 18.7,
+        "n": 915,
+        "continue_pct": 19.1,
         "leader_r1": {
-          "n": 870,
-          "mean": -0.92,
-          "median": -1.09,
-          "win": 40.0
+          "n": 864,
+          "mean": -0.96,
+          "median": -1.11,
+          "win": 39.8
         },
         "leader_r3": {
-          "n": 862,
-          "mean": -1.32,
-          "median": -2.25,
+          "n": 856,
+          "mean": -1.36,
+          "median": -2.27,
           "win": 40.0
         }
       }
     },
     {
-      "keyword": "반도체 소재·장비·HBM",
+      "keyword": "반도체(장비·소재·HBM/CXL)",
       "streak": 1,
       "bucket": "1일차",
       "leader": "아스플로",
       "history": {
-        "n": 927,
-        "continue_pct": 18.7,
+        "n": 915,
+        "continue_pct": 19.1,
         "leader_r1": {
-          "n": 870,
-          "mean": -0.92,
-          "median": -1.09,
-          "win": 40.0
+          "n": 864,
+          "mean": -0.96,
+          "median": -1.11,
+          "win": 39.8
         },
         "leader_r3": {
-          "n": 862,
-          "mean": -1.32,
-          "median": -2.25,
+          "n": 856,
+          "mean": -1.36,
+          "median": -2.27,
           "win": 40.0
         }
       }
