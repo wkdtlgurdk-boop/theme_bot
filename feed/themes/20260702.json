@@ -1,0 +1,90 @@
+{
+  "date": "20260702",
+  "label": "7/2",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "신원종합개발",
+          "code": "017000",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "우원개발",
+          "code": "046940",
+          "rate": 15.83,
+          "amount": null
+        },
+        {
+          "name": "동신건설",
+          "code": "025950",
+          "rate": 14.66,
+          "amount": null
+        },
+        {
+          "name": "계룡건설",
+          "code": "013580",
+          "rate": 8.4,
+          "amount": null
+        },
+        {
+          "name": "남화토건",
+          "code": "091590",
+          "rate": 7.58,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "은행",
+      "stocks": [
+        {
+          "name": "신한지주",
+          "code": "055550",
+          "rate": 6.02,
+          "amount": null
+        },
+        {
+          "name": "KB금융",
+          "code": "105560",
+          "rate": 4.1,
+          "amount": null
+        },
+        {
+          "name": "하나금융지주",
+          "code": "086790",
+          "rate": 3.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "한국콜마",
+          "code": "161890",
+          "rate": 6.46,
+          "amount": null
+        },
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "rate": 5.11,
+          "amount": null
+        },
+        {
+          "name": "코스메카코리아",
+          "code": "241710",
+          "rate": 4.59,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

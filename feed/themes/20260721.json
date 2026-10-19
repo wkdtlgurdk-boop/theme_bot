@@ -1,0 +1,143 @@
+{
+  "date": "20260721",
+  "label": "7/21",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 6.15,
+          "amount": null
+        },
+        {
+          "name": "이수페타시스",
+          "code": "007660",
+          "rate": 4.98,
+          "amount": null
+        },
+        {
+          "name": "LG이노텍",
+          "code": "011070",
+          "rate": 4.49,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 4.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "코스모로보틱스",
+          "code": "439960",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "에브리봇",
+          "code": "270660",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "이랜시스",
+          "code": "264850",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "티엑스알로보틱스",
+          "code": "484810",
+          "rate": 23.72,
+          "amount": null
+        },
+        {
+          "name": "나우로보틱스",
+          "code": "459510",
+          "rate": 16.41,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 9.73,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 6.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 8.23,
+          "amount": null
+        },
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 5.57,
+          "amount": null
+        },
+        {
+          "name": "KBI메탈",
+          "code": "024840",
+          "rate": 5.02,
+          "amount": null
+        },
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 4.75,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 4.02,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 3.91,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "미용기기",
+      "stocks": [
+        {
+          "name": "달바글로벌",
+          "code": "483650",
+          "rate": 8.76,
+          "amount": null
+        },
+        {
+          "name": "파마리서치",
+          "code": "214450",
+          "rate": 4.43,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

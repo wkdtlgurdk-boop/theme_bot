@@ -1,0 +1,100 @@
+{
+  "date": "20260827",
+  "label": "8/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "엔켐",
+          "code": "348370",
+          "rate": 19.56,
+          "amount": null
+        },
+        {
+          "name": "서진시스템",
+          "code": "178320",
+          "rate": 11.16,
+          "amount": null
+        },
+        {
+          "name": "삼성sdi",
+          "code": "",
+          "rate": 10.27,
+          "amount": null
+        },
+        {
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "rate": 9.07,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 6.22,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 25.0,
+          "amount": null
+        },
+        {
+          "name": "산일전기",
+          "code": "062040",
+          "rate": 13.91,
+          "amount": null
+        },
+        {
+          "name": "hd현대일렉트릭",
+          "code": "",
+          "rate": 12.01,
+          "amount": null
+        },
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 10.08,
+          "amount": null
+        },
+        {
+          "name": "ls electric",
+          "code": "",
+          "rate": 8.89,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "철강",
+      "stocks": [
+        {
+          "name": "동국제강",
+          "code": "460860",
+          "rate": 12.22,
+          "amount": null
+        },
+        {
+          "name": "현대제철",
+          "code": "004020",
+          "rate": 5.89,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "hd현대일렉트릭",
+    "ls electric",
+    "삼성sdi"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "date": "20260722",
+  "label": "7/22",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "코스모로보틱스",
+          "code": "439960",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "앤로보틱스",
+          "code": "138360",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 25.15,
+          "amount": null
+        },
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 24.73,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 16.78,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 16.28,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 11.42,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "해운",
+      "stocks": [
+        {
+          "name": "STX그린로지스",
+          "code": "465770",
+          "rate": 24.19,
+          "amount": null
+        },
+        {
+          "name": "흥아해운",
+          "code": "003280",
+          "rate": 5.19,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 13.67,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 5.12,
+          "amount": null
+        },
+        {
+          "name": "DL이앤씨",
+          "code": "375500",
+          "rate": 4.07,
+          "amount": null
+        },
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 3.18,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "연료전지/에너지",
+      "stocks": [
+        {
+          "name": "비나텍",
+          "code": "126340",
+          "rate": 12.19,
+          "amount": null
+        },
+        {
+          "name": "코세스",
+          "code": "089890",
+          "rate": 12.09,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 10.91,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 9.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "피지컬ai",
+      "stocks": [
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 6.99,
+          "amount": null
+        },
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 6.64,
+          "amount": null
+        },
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 6.64,
+          "amount": null
+        },
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 5.48,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 4.76,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

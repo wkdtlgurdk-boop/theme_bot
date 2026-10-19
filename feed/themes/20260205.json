@@ -1,0 +1,113 @@
+{
+  "date": "20260205",
+  "label": "2/5",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "엔터",
+      "stocks": [
+        {
+          "name": "디어유",
+          "code": "376300",
+          "rate": 14.08,
+          "amount": null
+        },
+        {
+          "name": "노머스",
+          "code": "473980",
+          "rate": 4.63,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "여행/호텔",
+      "stocks": [
+        {
+          "name": "모두투어",
+          "code": "080160",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 10.14,
+          "amount": null
+        },
+        {
+          "name": "이마트",
+          "code": "139480",
+          "rate": 9.51,
+          "amount": null
+        },
+        {
+          "name": "노랑풍선",
+          "code": "104620",
+          "rate": 7.62,
+          "amount": null
+        },
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 6.2,
+          "amount": null
+        },
+        {
+          "name": "호텔신라",
+          "code": "008770",
+          "rate": 5.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "씨엔플러스",
+          "code": "115530",
+          "rate": 29.84,
+          "amount": null
+        },
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 16.17,
+          "amount": null
+        },
+        {
+          "name": "신성이엔지",
+          "code": "011930",
+          "rate": 7.45,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우크라이나 재건",
+      "stocks": [
+        {
+          "name": "대동금속",
+          "code": "020400",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "대동기어",
+          "code": "008830",
+          "rate": 15.99,
+          "amount": null
+        },
+        {
+          "name": "대동",
+          "code": "000490",
+          "rate": 8.85,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

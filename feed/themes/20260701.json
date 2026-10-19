@@ -1,0 +1,97 @@
+{
+  "date": "20260701",
+  "label": "7/1",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "동신건설",
+          "code": "025950",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "남화토건",
+          "code": "091590",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "일성건설",
+          "code": "013360",
+          "rate": 29.93,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 28.69,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "코스메카코리아",
+          "code": "241710",
+          "rate": 15.46,
+          "amount": null
+        },
+        {
+          "name": "실리콘투",
+          "code": "257720",
+          "rate": 13.05,
+          "amount": null
+        },
+        {
+          "name": "에이블씨엔시",
+          "code": "",
+          "rate": 10.68,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주항공",
+      "stocks": [
+        {
+          "name": "스피어",
+          "code": "347700",
+          "rate": 16.39,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "rate": 10.7,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 8.21,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "에이블씨엔시"
+  ]
+}

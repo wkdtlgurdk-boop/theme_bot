@@ -1,0 +1,208 @@
+{
+  "date": "20260420",
+  "label": "4/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "사이버 보안/양자",
+      "stocks": [
+        {
+          "name": "드림시큐리티",
+          "code": "203650",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "SGA솔루션즈",
+          "code": "184230",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "라닉스",
+          "code": "317120",
+          "rate": 20.72,
+          "amount": null
+        },
+        {
+          "name": "한컴위드",
+          "code": "054920",
+          "rate": 15.47,
+          "amount": null
+        },
+        {
+          "name": "나노실리칸첨단소재",
+          "code": "286750",
+          "rate": 15.36,
+          "amount": null
+        },
+        {
+          "name": "소프트캠프",
+          "code": "258790",
+          "rate": 15.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "제이오",
+          "code": "418550",
+          "rate": 26.4,
+          "amount": null
+        },
+        {
+          "name": "상신이디피",
+          "code": "091580",
+          "rate": 20.22,
+          "amount": null
+        },
+        {
+          "name": "미코",
+          "code": "059090",
+          "rate": 17.03,
+          "amount": null
+        },
+        {
+          "name": "솔브레인홀딩스",
+          "code": "036830",
+          "rate": 11.93,
+          "amount": null
+        },
+        {
+          "name": "나노신소재",
+          "code": "121600",
+          "rate": 8.18,
+          "amount": null
+        },
+        {
+          "name": "하나기술",
+          "code": "299030",
+          "rate": 5.37,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 4.87,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "NFT",
+      "stocks": [
+        {
+          "name": "위메이드",
+          "code": "112040",
+          "rate": 19.31,
+          "amount": null
+        },
+        {
+          "name": "초록뱀미디어",
+          "code": "047820",
+          "rate": 15.02,
+          "amount": null
+        },
+        {
+          "name": "아톤",
+          "code": "158430",
+          "rate": 12.49,
+          "amount": null
+        },
+        {
+          "name": "폴라리스오피스",
+          "code": "041020",
+          "rate": 9.86,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "PCB/유리기판",
+      "stocks": [
+        {
+          "name": "이수페타시스",
+          "code": "007660",
+          "rate": 10.81,
+          "amount": null
+        },
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 10.05,
+          "amount": null
+        },
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 10.05,
+          "amount": null
+        },
+        {
+          "name": "한빛레이저",
+          "code": "452190",
+          "rate": 6.83,
+          "amount": null
+        },
+        {
+          "name": "네오티스",
+          "code": "085910",
+          "rate": 6.59,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "더코디",
+          "code": "224060",
+          "rate": 22.37,
+          "amount": null
+        },
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 18.52,
+          "amount": null
+        },
+        {
+          "name": "코세스",
+          "code": "089890",
+          "rate": 9.06,
+          "amount": null
+        },
+        {
+          "name": "아이엠티",
+          "code": "451220",
+          "rate": 8.44,
+          "amount": null
+        },
+        {
+          "name": "하나마이크론",
+          "code": "067310",
+          "rate": 7.35,
+          "amount": null
+        },
+        {
+          "name": "한화비전",
+          "code": "489790",
+          "rate": 7.06,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

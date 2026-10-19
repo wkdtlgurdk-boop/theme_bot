@@ -1,0 +1,196 @@
+{
+  "date": "20251120",
+  "label": "11/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "호텔/카지노",
+      "stocks": [
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 14.97,
+          "amount": null
+        },
+        {
+          "name": "파라다이스",
+          "code": "034230",
+          "rate": 13.65,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 12.84,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 11.23,
+          "amount": null
+        },
+        {
+          "name": "GKL",
+          "code": "114090",
+          "rate": 5.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 17.96,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 6.01,
+          "amount": null
+        },
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 5.56,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 4.78,
+          "amount": null
+        },
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 4.38,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "ESS",
+      "stocks": [
+        {
+          "name": "비나텍",
+          "code": "126340",
+          "rate": 12.23,
+          "amount": null
+        },
+        {
+          "name": "원익피앤이",
+          "code": "217820",
+          "rate": 12.11,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 9.16,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 6.53,
+          "amount": null
+        },
+        {
+          "name": "신성에스티",
+          "code": "416180",
+          "rate": 5.21,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "토니모리",
+          "code": "214420",
+          "rate": 7.19,
+          "amount": null
+        },
+        {
+          "name": "파미셀",
+          "code": "005690",
+          "rate": 7.11,
+          "amount": null
+        },
+        {
+          "name": "파마리서치",
+          "code": "214450",
+          "rate": 6.71,
+          "amount": null
+        },
+        {
+          "name": "펌텍코리아",
+          "code": "251970",
+          "rate": 6.07,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 5.57,
+          "amount": null
+        },
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "rate": 5.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 15.4,
+          "amount": null
+        },
+        {
+          "name": "코오롱생명과학",
+          "code": "102940",
+          "rate": 10.98,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 9.12,
+          "amount": null
+        },
+        {
+          "name": "보로노이",
+          "code": "310210",
+          "rate": 8.39,
+          "amount": null
+        },
+        {
+          "name": "코오롱티슈진",
+          "code": "950160",
+          "rate": 8.36,
+          "amount": null
+        },
+        {
+          "name": "케어젠",
+          "code": "214370",
+          "rate": 5.08,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

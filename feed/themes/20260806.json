@@ -1,0 +1,65 @@
+{
+  "date": "20260806",
+  "label": "8/6",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "lg생활건강",
+          "code": "",
+          "rate": 0.1077,
+          "amount": null
+        },
+        {
+          "name": "코스메카코리아",
+          "code": "241710",
+          "rate": 0.1074,
+          "amount": null
+        },
+        {
+          "name": "제닉",
+          "code": "123330",
+          "rate": 0.106,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 0.0573,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "온코닉테라퓨틱스",
+          "code": "",
+          "rate": 0.2233,
+          "amount": null
+        },
+        {
+          "name": "jw신약",
+          "code": "",
+          "rate": 0.1621,
+          "amount": null
+        },
+        {
+          "name": "현대약품",
+          "code": "004310",
+          "rate": 0.1265,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "jw신약",
+    "lg생활건강",
+    "온코닉테라퓨틱스"
+  ]
+}

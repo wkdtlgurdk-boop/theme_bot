@@ -1,0 +1,43 @@
+{
+  "date": "20260623",
+  "label": "6/23",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "고속버스",
+      "stocks": [
+        {
+          "name": "동양고속",
+          "code": "084670",
+          "rate": 18.52,
+          "amount": null
+        },
+        {
+          "name": "천일고속",
+          "code": "000650",
+          "rate": 12.91,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "음료",
+      "stocks": [
+        {
+          "name": "보해양조",
+          "code": "000890",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "국순당",
+          "code": "043650",
+          "rate": 20.85,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

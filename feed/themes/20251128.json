@@ -1,0 +1,99 @@
+{
+  "date": "20251128",
+  "label": "11/28",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "티앤알바이오팹",
+          "code": "246710",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "삼양바이오팜",
+          "code": "0120G0",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 20.72,
+          "amount": null
+        },
+        {
+          "name": "피로스아이바이오",
+          "code": "",
+          "rate": 18.2,
+          "amount": null
+        },
+        {
+          "name": "뉴로핏",
+          "code": "380550",
+          "rate": 15.37,
+          "amount": null
+        },
+        {
+          "name": "뷰노",
+          "code": "338220",
+          "rate": 14.86,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "우림피티에스",
+          "code": "101170",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 26.13,
+          "amount": null
+        },
+        {
+          "name": "디아이씨",
+          "code": "092200",
+          "rate": 24.35,
+          "amount": null
+        },
+        {
+          "name": "에스비비테크",
+          "code": "389500",
+          "rate": 22.7,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 20.72,
+          "amount": null
+        },
+        {
+          "name": "에스피시스템스",
+          "code": "317830",
+          "rate": 14.18,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 13.43,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "피로스아이바이오"
+  ]
+}

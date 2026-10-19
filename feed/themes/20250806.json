@@ -1,0 +1,186 @@
+{
+  "date": "20250806",
+  "label": "8/6",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "화장품/미용기기",
+      "stocks": [
+        {
+          "name": "지에프씨생명과학학",
+          "code": "",
+          "rate": 25.36,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 11.32,
+          "amount": null
+        },
+        {
+          "name": "한국화장품",
+          "code": "123690",
+          "rate": 9.93,
+          "amount": null
+        },
+        {
+          "name": "파마리서치",
+          "code": "214450",
+          "rate": 6.03,
+          "amount": null
+        },
+        {
+          "name": "휴젤",
+          "code": "145020",
+          "rate": 4.59,
+          "amount": null
+        },
+        {
+          "name": "달바글로벌",
+          "code": "483650",
+          "rate": 4.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "한국전력",
+          "code": "015760",
+          "rate": 7.4,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 6.88,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 5.5,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 5.4,
+          "amount": null
+        },
+        {
+          "name": "에너토크",
+          "code": "019990",
+          "rate": 4.8,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 9.48,
+          "amount": null
+        },
+        {
+          "name": "대한조선",
+          "code": "439260",
+          "rate": 3.76,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "호텔/면세점(중국)",
+      "stocks": [
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 15.8,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 8.07,
+          "amount": null
+        },
+        {
+          "name": "현대백화점",
+          "code": "069960",
+          "rate": 7.1,
+          "amount": null
+        },
+        {
+          "name": "호텔신라",
+          "code": "008770",
+          "rate": 4.8,
+          "amount": null
+        },
+        {
+          "name": "글로벌텍스프리",
+          "code": "204620",
+          "rate": 4.6,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "여행(중국)",
+      "stocks": [
+        {
+          "name": "노랑풍선",
+          "code": "104620",
+          "rate": 24.82,
+          "amount": null
+        },
+        {
+          "name": "참좋은여행",
+          "code": "094850",
+          "rate": 9.8,
+          "amount": null
+        },
+        {
+          "name": "모두투어",
+          "code": "080160",
+          "rate": 3.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "프로티나",
+          "code": "",
+          "rate": 9.2,
+          "amount": null
+        },
+        {
+          "name": "리가켐바이오",
+          "code": "141080",
+          "rate": 7.9,
+          "amount": null
+        },
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 6.1,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "지에프씨생명과학학",
+    "프로티나"
+  ]
+}

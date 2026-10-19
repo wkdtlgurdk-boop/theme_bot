@@ -1,0 +1,185 @@
+{
+  "date": "20251021",
+  "label": "10/21",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "케이프",
+          "code": "064820",
+          "rate": 23.33,
+          "amount": null
+        },
+        {
+          "name": "삼영엠텍",
+          "code": "054540",
+          "rate": 23.06,
+          "amount": null
+        },
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 15.53,
+          "amount": null
+        },
+        {
+          "name": "오리엔탈정공",
+          "code": "014940",
+          "rate": 13.64,
+          "amount": null
+        },
+        {
+          "name": "케이에스피",
+          "code": "073010",
+          "rate": 10.3,
+          "amount": null
+        },
+        {
+          "name": "일승",
+          "code": "333430",
+          "rate": 10.23,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린솔루션",
+          "code": "443060",
+          "rate": 6.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "HD현대미포",
+          "code": "",
+          "rate": 10.89,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 9.96,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 8.35,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 6.16,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "코스모신소재",
+          "code": "005070",
+          "rate": 13.15,
+          "amount": null
+        },
+        {
+          "name": "나노신소재",
+          "code": "121600",
+          "rate": 11.54,
+          "amount": null
+        },
+        {
+          "name": "하나기술",
+          "code": "299030",
+          "rate": 9.69,
+          "amount": null
+        },
+        {
+          "name": "코스모화학",
+          "code": "005420",
+          "rate": 5.36,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 7.38,
+          "amount": null
+        },
+        {
+          "name": "큐렉소",
+          "code": "060280",
+          "rate": 6.76,
+          "amount": null
+        },
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 5.85,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "HLB(바이오)",
+      "stocks": [
+        {
+          "name": "HLB",
+          "code": "028300",
+          "rate": 11.17,
+          "amount": null
+        },
+        {
+          "name": "HLB생명과학",
+          "code": "067630",
+          "rate": 8.8,
+          "amount": null
+        },
+        {
+          "name": "HLB제약",
+          "code": "047920",
+          "rate": 5.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "카카오",
+      "stocks": [
+        {
+          "name": "카카오",
+          "code": "035720",
+          "rate": 5.95,
+          "amount": null
+        },
+        {
+          "name": "카카오뱅크",
+          "code": "323410",
+          "rate": 3.91,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 2.84,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HD현대미포"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "20260225",
+  "label": "2/25",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "자동차",
+      "stocks": [
+        {
+          "name": "엠에스오토텍",
+          "code": "123040",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "모베이스전자",
+          "code": "012860",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "에스엘",
+          "code": "005850",
+          "rate": 17.97,
+          "amount": null
+        },
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 14.45,
+          "amount": null
+        },
+        {
+          "name": "기아",
+          "code": "000270",
+          "rate": 12.7,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 9.16,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "항공우주",
+      "stocks": [
+        {
+          "name": "그린광학",
+          "code": "0015G0",
+          "rate": 17.06,
+          "amount": null
+        },
+        {
+          "name": "대한항공",
+          "code": "003490",
+          "rate": 9.25,
+          "amount": null
+        },
+        {
+          "name": "한양이엔지",
+          "code": "045100",
+          "rate": 8.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "서울반도체",
+          "code": "046890",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "루멘스",
+          "code": "",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "영우디에스피",
+          "code": "143540",
+          "rate": 8.7,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "루멘스"
+  ]
+}

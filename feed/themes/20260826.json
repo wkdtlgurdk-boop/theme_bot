@@ -1,0 +1,64 @@
+{
+  "date": "20260826",
+  "label": "8/26",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "원전",
+      "stocks": [
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 13.63,
+          "amount": null
+        },
+        {
+          "name": "성관벤드",
+          "code": "",
+          "rate": 13.55,
+          "amount": null
+        },
+        {
+          "name": "한전산업",
+          "code": "130660",
+          "rate": 12.74,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 6.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 8.4,
+          "amount": null
+        },
+        {
+          "name": "gs건설",
+          "code": "",
+          "rate": 8.0,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 7.5,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "gs건설",
+    "성관벤드"
+  ]
+}

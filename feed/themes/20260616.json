@@ -1,0 +1,61 @@
+{
+  "date": "20260616",
+  "label": "6/16",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "신재생에너지",
+      "stocks": [
+        {
+          "name": "씨에스윈드",
+          "code": "112610",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "씨에스베어링",
+          "code": "297090",
+          "rate": 29.79,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 26.92,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 22.37,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "일성건설",
+          "code": "013360",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 19.87,
+          "amount": null
+        },
+        {
+          "name": "DL이앤씨",
+          "code": "375500",
+          "rate": 13.16,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

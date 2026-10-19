@@ -1,0 +1,57 @@
+{
+  "date": "20260520",
+  "label": "5/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "코칩",
+          "code": "126730",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 23.0,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 9.73,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "LED",
+      "stocks": [
+        {
+          "name": "광전자",
+          "code": "017900",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "영우디에스피",
+          "code": "143540",
+          "rate": 8.88,
+          "amount": null
+        },
+        {
+          "name": "루멘스",
+          "code": "",
+          "rate": 8.11,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "루멘스"
+  ]
+}

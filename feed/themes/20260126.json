@@ -1,0 +1,247 @@
+{
+  "date": "20260126",
+  "label": "1/26",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "유일로보틱스",
+          "code": "388720",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 25.97,
+          "amount": null
+        },
+        {
+          "name": "와이투솔루션",
+          "code": "011690",
+          "rate": 23.33,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 15.5,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 12.88,
+          "amount": null
+        },
+        {
+          "name": "유진로봇",
+          "code": "056080",
+          "rate": 11.95,
+          "amount": null
+        },
+        {
+          "name": "고영",
+          "code": "098460",
+          "rate": 9.52,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 22.95,
+          "amount": null
+        },
+        {
+          "name": "원준",
+          "code": "382840",
+          "rate": 22.33,
+          "amount": null
+        },
+        {
+          "name": "레이크머티리얼즈",
+          "code": "281740",
+          "rate": 21.43,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 19.91,
+          "amount": null
+        },
+        {
+          "name": "씨아이에스",
+          "code": "",
+          "rate": 16.23,
+          "amount": null
+        },
+        {
+          "name": "이브이첨단소재",
+          "code": "",
+          "rate": 13.77,
+          "amount": null
+        },
+        {
+          "name": "메가터치",
+          "code": "446540",
+          "rate": 12.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "STO/스테이블코인",
+      "stocks": [
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 23.08,
+          "amount": null
+        },
+        {
+          "name": "NHN KCP",
+          "code": "060250",
+          "rate": 10.6,
+          "amount": null
+        },
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 10.11,
+          "amount": null
+        },
+        {
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "rate": 9.0,
+          "amount": null
+        },
+        {
+          "name": "아톤",
+          "code": "158430",
+          "rate": 7.72,
+          "amount": null
+        },
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 7.01,
+          "amount": null
+        },
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 5.04,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 21.72,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 15.62,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 12.7,
+          "amount": null
+        },
+        {
+          "name": "리가켐바이오",
+          "code": "141080",
+          "rate": 11.87,
+          "amount": null
+        },
+        {
+          "name": "셀트리온제약",
+          "code": "068760",
+          "rate": 10.24,
+          "amount": null
+        },
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 10.24,
+          "amount": null
+        },
+        {
+          "name": "삼천당제약",
+          "code": "000250",
+          "rate": 8.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "엑시콘",
+          "code": "092870",
+          "rate": 15.15,
+          "amount": null
+        },
+        {
+          "name": "알에스오토메이션",
+          "code": "140670",
+          "rate": 13.69,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 13.63,
+          "amount": null
+        },
+        {
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "rate": 13.41,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 11.23,
+          "amount": null
+        },
+        {
+          "name": "유진테크",
+          "code": "084370",
+          "rate": 10.73,
+          "amount": null
+        },
+        {
+          "name": "리노공업",
+          "code": "058470",
+          "rate": 9.61,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨아이에스",
+    "이브이첨단소재"
+  ]
+}

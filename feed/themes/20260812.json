@@ -1,0 +1,161 @@
+{
+  "date": "20260812",
+  "label": "8/12",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 17.31,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 10.4,
+          "amount": null
+        },
+        {
+          "name": "KBI메탈",
+          "code": "024840",
+          "rate": 6.07,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 4.5,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 4.06,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "두산테스나",
+          "code": "131970",
+          "rate": 15.14,
+          "amount": null
+        },
+        {
+          "name": "티씨케이",
+          "code": "064760",
+          "rate": 14.21,
+          "amount": null
+        },
+        {
+          "name": "SK스퀘어",
+          "code": "402340",
+          "rate": 8.36,
+          "amount": null
+        },
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 7.14,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 6.68,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 5.78,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 5.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "한국콜마",
+          "code": "161890",
+          "rate": 22.8,
+          "amount": null
+        },
+        {
+          "name": "코스맥스",
+          "code": "192820",
+          "rate": 18.81,
+          "amount": null
+        },
+        {
+          "name": "펌텍코리아",
+          "code": "251970",
+          "rate": 15.04,
+          "amount": null
+        },
+        {
+          "name": "한국화장품제조",
+          "code": "003350",
+          "rate": 14.6,
+          "amount": null
+        },
+        {
+          "name": "실리콘투",
+          "code": "257720",
+          "rate": 12.98,
+          "amount": null
+        },
+        {
+          "name": "코스메카코리아",
+          "code": "241710",
+          "rate": 12.8,
+          "amount": null
+        },
+        {
+          "name": "달바글로벌",
+          "code": "483650",
+          "rate": 6.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설인프라",
+      "stocks": [
+        {
+          "name": "금호건설",
+          "code": "002990",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "남화토건",
+          "code": "091590",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "코오롱글로벌",
+          "code": "003070",
+          "rate": 13.51,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

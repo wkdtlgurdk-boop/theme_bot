@@ -1,0 +1,263 @@
+{
+  "date": "20260514",
+  "label": "5/14",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "보험",
+      "stocks": [
+        {
+          "name": "한화손해보험",
+          "code": "000370",
+          "rate": 9.08,
+          "amount": null
+        },
+        {
+          "name": "현대해상",
+          "code": "001450",
+          "rate": 8.26,
+          "amount": null
+        },
+        {
+          "name": "삼성화재",
+          "code": "000810",
+          "rate": 8.03,
+          "amount": null
+        },
+        {
+          "name": "DB손해보험",
+          "code": "005830",
+          "rate": 7.59,
+          "amount": null
+        },
+        {
+          "name": "흥국화재",
+          "code": "000540",
+          "rate": 6.63,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "유통/편의점",
+      "stocks": [
+        {
+          "name": "이마트",
+          "code": "139480",
+          "rate": 11.98,
+          "amount": null
+        },
+        {
+          "name": "BGF리테일",
+          "code": "282330",
+          "rate": 9.2,
+          "amount": null
+        },
+        {
+          "name": "GS리테일",
+          "code": "007070",
+          "rate": 9.09,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "호텔카지노",
+      "stocks": [
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 12.84,
+          "amount": null
+        },
+        {
+          "name": "이마트",
+          "code": "139480",
+          "rate": 11.98,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 10.75,
+          "amount": null
+        },
+        {
+          "name": "호텔신라",
+          "code": "008770",
+          "rate": 8.02,
+          "amount": null
+        },
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 7.36,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "인터넷 대표주",
+      "stocks": [
+        {
+          "name": "카카오",
+          "code": "035720",
+          "rate": 6.98,
+          "amount": null
+        },
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "rate": 5.71,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 12.61,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 5.35,
+          "amount": null
+        },
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 4.97,
+          "amount": null
+        },
+        {
+          "name": "IPARK현대산업개발",
+          "code": "294870",
+          "rate": 3.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "항공",
+      "stocks": [
+        {
+          "name": "아시아나항공",
+          "code": "020560",
+          "rate": 16.94,
+          "amount": null
+        },
+        {
+          "name": "한진칼",
+          "code": "180640",
+          "rate": 9.71,
+          "amount": null
+        },
+        {
+          "name": "에어부산",
+          "code": "298690",
+          "rate": 6.49,
+          "amount": null
+        },
+        {
+          "name": "대한항공",
+          "code": "003490",
+          "rate": 6.02,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "백화점",
+      "stocks": [
+        {
+          "name": "신세계",
+          "code": "004170",
+          "rate": 10.88,
+          "amount": null
+        },
+        {
+          "name": "현대백화점",
+          "code": "069960",
+          "rate": 9.94,
+          "amount": null
+        },
+        {
+          "name": "롯데쇼핑",
+          "code": "023530",
+          "rate": 9.74,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 15.09,
+          "amount": null
+        },
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 10.78,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 9.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "제주반도체",
+          "code": "080220",
+          "rate": 28.35,
+          "amount": null
+        },
+        {
+          "name": "미래반도체",
+          "code": "254490",
+          "rate": 13.76,
+          "amount": null
+        },
+        {
+          "name": "케이씨텍",
+          "code": "281820",
+          "rate": 10.09,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 4.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "액침냉각",
+      "stocks": [
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 13.38,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

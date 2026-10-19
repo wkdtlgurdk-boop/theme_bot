@@ -1,0 +1,132 @@
+{
+  "date": "20260330",
+  "label": "3/30",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "신재생(태양광/풍력)",
+      "stocks": [
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 21.25,
+          "amount": null
+        },
+        {
+          "name": "금양그린파워",
+          "code": "282720",
+          "rate": 15.88,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 10.5,
+          "amount": null
+        },
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 9.66,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 6.43,
+          "amount": null
+        },
+        {
+          "name": "씨에스윈드",
+          "code": "112610",
+          "rate": 4.82,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 3.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "석유/화학",
+      "stocks": [
+        {
+          "name": "애경케미칼",
+          "code": "161000",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "그린케미칼",
+          "code": "083420",
+          "rate": 4.01,
+          "amount": null
+        },
+        {
+          "name": "LG화학",
+          "code": "051910",
+          "rate": 2.88,
+          "amount": null
+        },
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 2.66,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 1.8,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "피노",
+          "code": "033790",
+          "rate": 14.9,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 3.93,
+          "amount": null
+        },
+        {
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "rate": 2.63,
+          "amount": null
+        },
+        {
+          "name": "더블유씨피",
+          "code": "393890",
+          "rate": 2.3,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 1.73,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 0.49,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

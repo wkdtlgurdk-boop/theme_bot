@@ -1,0 +1,162 @@
+{
+  "date": "20250909",
+  "label": "9/9",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "상상인증권",
+          "code": "001290",
+          "rate": 21.0,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 11.68,
+          "amount": null
+        },
+        {
+          "name": "키움증권",
+          "code": "039490",
+          "rate": 8.71,
+          "amount": null
+        },
+        {
+          "name": "부국증권",
+          "code": "001270",
+          "rate": 8.02,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 6.79,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 20.77,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 17.01,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 14.08,
+          "amount": null
+        },
+        {
+          "name": "기가비스",
+          "code": "420770",
+          "rate": 13.65,
+          "amount": null
+        },
+        {
+          "name": "하나마이크론",
+          "code": "067310",
+          "rate": 12.41,
+          "amount": null
+        },
+        {
+          "name": "티에프이",
+          "code": "425420",
+          "rate": 11.13,
+          "amount": null
+        },
+        {
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "rate": 8.38,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "CXL",
+      "stocks": [
+        {
+          "name": "코리아써키트",
+          "code": "007810",
+          "rate": 15.5,
+          "amount": null
+        },
+        {
+          "name": "티엘비",
+          "code": "356860",
+          "rate": 9.75,
+          "amount": null
+        },
+        {
+          "name": "네오셈",
+          "code": "253590",
+          "rate": 8.79,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 3.97,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 2.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "인스코비",
+          "code": "",
+          "rate": 14.0,
+          "amount": null
+        },
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 9.48,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 8.59,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "인스코비"
+  ]
+}

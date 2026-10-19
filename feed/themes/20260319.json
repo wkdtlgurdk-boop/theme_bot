@@ -1,0 +1,102 @@
+{
+  "date": "20260319",
+  "label": "3/19",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "쏘캠",
+      "stocks": [
+        {
+          "name": "엠케이전자",
+          "code": "033160",
+          "rate": 22.56,
+          "amount": null
+        },
+        {
+          "name": "티엘비",
+          "code": "356860",
+          "rate": 12.24,
+          "amount": null
+        },
+        {
+          "name": "ISC",
+          "code": "095340",
+          "rate": 6.3,
+          "amount": null
+        },
+        {
+          "name": "티에프이",
+          "code": "425420",
+          "rate": 5.38,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 14.22,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 8.62,
+          "amount": null
+        },
+        {
+          "name": "머큐리",
+          "code": "100590",
+          "rate": 5.9,
+          "amount": null
+        },
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 5.12,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광/풍력",
+      "stocks": [
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 26.06,
+          "amount": null
+        },
+        {
+          "name": "대창솔루션",
+          "code": "096350",
+          "rate": 19.54,
+          "amount": null
+        },
+        {
+          "name": "그리드위즈",
+          "code": "453450",
+          "rate": 14.57,
+          "amount": null
+        },
+        {
+          "name": "씨에스윈드",
+          "code": "112610",
+          "rate": 9.81,
+          "amount": null
+        },
+        {
+          "name": "세아제강지주",
+          "code": "003030",
+          "rate": 4.12,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,101 @@
+{
+  "date": "20251114",
+  "label": "11/14",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선기자재/조선",
+      "stocks": [
+        {
+          "name": "삼영엠텍",
+          "code": "054540",
+          "rate": 16.37,
+          "amount": null
+        },
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 10.94,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 4.36,
+          "amount": null
+        },
+        {
+          "name": "대한조선",
+          "code": "439260",
+          "rate": 4.31,
+          "amount": null
+        },
+        {
+          "name": "HD현대미포",
+          "code": "",
+          "rate": 3.36,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 3.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "피플바이오",
+          "code": "",
+          "rate": 16.61,
+          "amount": null
+        },
+        {
+          "name": "퓨처켐",
+          "code": "",
+          "rate": 14.78,
+          "amount": null
+        },
+        {
+          "name": "대웅제약",
+          "code": "069620",
+          "rate": 6.82,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 6.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의료AI",
+      "stocks": [
+        {
+          "name": "씨어스테크놀로즈",
+          "code": "",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "셀바스헬스케어",
+          "code": "208370",
+          "rate": 14.23,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HD현대미포",
+    "씨어스테크놀로즈",
+    "퓨처켐",
+    "피플바이오"
+  ]
+}

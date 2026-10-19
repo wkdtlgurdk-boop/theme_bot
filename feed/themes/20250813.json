@@ -1,0 +1,133 @@
+{
+  "date": "20250813",
+  "label": "8/13",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "ISC",
+          "code": "095340",
+          "rate": 10.27,
+          "amount": null
+        },
+        {
+          "name": "케이씨텍",
+          "code": "281820",
+          "rate": 9.68,
+          "amount": null
+        },
+        {
+          "name": "유니셈",
+          "code": "036200",
+          "rate": 9.25,
+          "amount": null
+        },
+        {
+          "name": "티씨케이",
+          "code": "064760",
+          "rate": 8.27,
+          "amount": null
+        },
+        {
+          "name": "이녹스첨단소재",
+          "code": "272290",
+          "rate": 7.83,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "디스플레이",
+      "stocks": [
+        {
+          "name": "일진디스플레",
+          "code": "",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "덕산네오룩스",
+          "code": "213420",
+          "rate": 24.6,
+          "amount": null
+        },
+        {
+          "name": "LG디스플레이",
+          "code": "034220",
+          "rate": 22.4,
+          "amount": null
+        },
+        {
+          "name": "이녹스첨단소재",
+          "code": "272290",
+          "rate": 7.83,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 7.35,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "비만치료제",
+      "stocks": [
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 14.24,
+          "amount": null
+        },
+        {
+          "name": "인벤티지랩",
+          "code": "389470",
+          "rate": 13.54,
+          "amount": null
+        },
+        {
+          "name": "블루엠텍",
+          "code": "439580",
+          "rate": 12.94,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 9.91,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 7.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 8.24,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 6.6,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "일진디스플레"
+  ]
+}

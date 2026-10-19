@@ -1,0 +1,69 @@
+{
+  "date": "20251027",
+  "label": "10/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "한미약품",
+          "code": "128940",
+          "rate": 26.25,
+          "amount": null
+        },
+        {
+          "name": "오름테라퓨틱",
+          "code": "",
+          "rate": 17.21,
+          "amount": null
+        },
+        {
+          "name": "차바이오텍",
+          "code": "085660",
+          "rate": 17.17,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 14.79,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 13.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "HD현대",
+          "code": "267250",
+          "rate": 17.02,
+          "amount": null
+        },
+        {
+          "name": "한화",
+          "code": "000880",
+          "rate": 13.08,
+          "amount": null
+        },
+        {
+          "name": "한미사이언스",
+          "code": "008930",
+          "rate": 9.36,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "오름테라퓨틱"
+  ]
+}

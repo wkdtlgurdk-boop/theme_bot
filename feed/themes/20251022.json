@@ -1,0 +1,244 @@
+{
+  "date": "20251022",
+  "label": "10/22",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "화학",
+      "stocks": [
+        {
+          "name": "이수화학",
+          "code": "005950",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "SK케미칼",
+          "code": "285130",
+          "rate": 13.14,
+          "amount": null
+        },
+        {
+          "name": "LG화학",
+          "code": "051910",
+          "rate": 13.01,
+          "amount": null
+        },
+        {
+          "name": "대한유화",
+          "code": "006650",
+          "rate": 11.25,
+          "amount": null
+        },
+        {
+          "name": "코오롱인더",
+          "code": "120110",
+          "rate": 6.49,
+          "amount": null
+        },
+        {
+          "name": "롯데케미칼",
+          "code": "011170",
+          "rate": 6.45,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지/리튬",
+      "stocks": [
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 15.15,
+          "amount": null
+        },
+        {
+          "name": "엔켐",
+          "code": "348370",
+          "rate": 4.4,
+          "amount": null
+        },
+        {
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "rate": 4.24,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 4.0,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 3.38,
+          "amount": null
+        },
+        {
+          "name": "나인테크",
+          "code": "267320",
+          "rate": 3.06,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 1.35,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 9.69,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 5.36,
+          "amount": null
+        },
+        {
+          "name": "HD현대미포",
+          "code": "",
+          "rate": 4.24,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 3.2,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 7.33,
+          "amount": null
+        },
+        {
+          "name": "효성",
+          "code": "004800",
+          "rate": 6.25,
+          "amount": null
+        },
+        {
+          "name": "세아베스틸지주",
+          "code": "001430",
+          "rate": 5.89,
+          "amount": null
+        },
+        {
+          "name": "한화",
+          "code": "000880",
+          "rate": 5.84,
+          "amount": null
+        },
+        {
+          "name": "GS",
+          "code": "078930",
+          "rate": 5.84,
+          "amount": null
+        },
+        {
+          "name": "두산",
+          "code": "000150",
+          "rate": 5.61,
+          "amount": null
+        },
+        {
+          "name": "코오롱",
+          "code": "002020",
+          "rate": 5.24,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "사이버보안",
+      "stocks": [
+        {
+          "name": "지니언스",
+          "code": "263860",
+          "rate": 7.76,
+          "amount": null
+        },
+        {
+          "name": "모니터랩",
+          "code": "434480",
+          "rate": 7.21,
+          "amount": null
+        },
+        {
+          "name": "한싹",
+          "code": "430690",
+          "rate": 6.71,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "씨피시스템",
+          "code": "413630",
+          "rate": 12.45,
+          "amount": null
+        },
+        {
+          "name": "제닉스로보틱스",
+          "code": "381620",
+          "rate": 7.17,
+          "amount": null
+        },
+        {
+          "name": "제닉스로보틱스",
+          "code": "381620",
+          "rate": 7.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체소부장",
+      "stocks": [
+        {
+          "name": "디아이",
+          "code": "003160",
+          "rate": 12.53,
+          "amount": null
+        },
+        {
+          "name": "에스앤에스텍",
+          "code": "101490",
+          "rate": 7.45,
+          "amount": null
+        },
+        {
+          "name": "이수페타시스",
+          "code": "007660",
+          "rate": 5.55,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HD현대미포"
+  ]
+}

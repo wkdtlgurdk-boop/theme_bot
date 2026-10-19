@@ -1,0 +1,249 @@
+{
+  "date": "20260904",
+  "label": "9/4",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "의료기기",
+      "stocks": [
+        {
+          "name": "스카이랩스",
+          "code": "386380",
+          "rate": 135.0,
+          "amount": null
+        },
+        {
+          "name": "아이쓰리시스템",
+          "code": "214430",
+          "rate": 5.47,
+          "amount": null
+        },
+        {
+          "name": "루닯",
+          "code": "",
+          "rate": 5.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 22.54,
+          "amount": null
+        },
+        {
+          "name": "케이엔알시스템",
+          "code": "199430",
+          "rate": 16.08,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 14.37,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 12.41,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "LED장비",
+      "stocks": [
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "인텍플러스",
+          "code": "064290",
+          "rate": 16.72,
+          "amount": null
+        },
+        {
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "rate": 11.2,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 9.63,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 9.33,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스페이스X",
+      "stocks": [
+        {
+          "name": "알멕",
+          "code": "354320",
+          "rate": 20.07,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 15.22,
+          "amount": null
+        },
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 9.26,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 8.0,
+          "amount": null
+        },
+        {
+          "name": "아주IB투자",
+          "code": "027360",
+          "rate": 5.29,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "쿠콘",
+          "code": "294570",
+          "rate": 14.21,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 13.48,
+          "amount": null
+        },
+        {
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "rate": 10.87,
+          "amount": null
+        },
+        {
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "rate": 9.02,
+          "amount": null
+        },
+        {
+          "name": "한화투자증권",
+          "code": "003530",
+          "rate": 8.97,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "SI",
+      "stocks": [
+        {
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "rate": 9.02,
+          "amount": null
+        },
+        {
+          "name": "티엑스알로보틱스",
+          "code": "484810",
+          "rate": 6.83,
+          "amount": null
+        },
+        {
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "rate": 5.31,
+          "amount": null
+        },
+        {
+          "name": "SK",
+          "code": "034730",
+          "rate": 5.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "갤럭시 부품주",
+      "stocks": [
+        {
+          "name": "비에이치",
+          "code": "090460",
+          "rate": 10.75,
+          "amount": null
+        },
+        {
+          "name": "자화전자",
+          "code": "033240",
+          "rate": 9.48,
+          "amount": null
+        },
+        {
+          "name": "아모텍",
+          "code": "052710",
+          "rate": 8.25,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "항공/저가 항공사",
+      "stocks": [
+        {
+          "name": "한진칼",
+          "code": "180640",
+          "rate": 9.12,
+          "amount": null
+        },
+        {
+          "name": "제주항공",
+          "code": "089590",
+          "rate": 5.72,
+          "amount": null
+        },
+        {
+          "name": "진에어",
+          "code": "272450",
+          "rate": 5.5,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "루닯"
+  ]
+}

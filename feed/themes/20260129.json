@@ -1,0 +1,241 @@
+{
+  "date": "20260129",
+  "label": "1/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "우주/방산",
+      "stocks": [
+        {
+          "name": "아주IB투자",
+          "code": "027360",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 28.95,
+          "amount": null
+        },
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 23.86,
+          "amount": null
+        },
+        {
+          "name": "인텔리안테크",
+          "code": "189300",
+          "rate": 20.92,
+          "amount": null
+        },
+        {
+          "name": "나라스페이스테크놀로지",
+          "code": "478340",
+          "rate": 19.14,
+          "amount": null
+        },
+        {
+          "name": "쎄트렉아이",
+          "code": "099320",
+          "rate": 18.73,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 17.39,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "현대차/로봇",
+      "stocks": [
+        {
+          "name": "라온로보틱스",
+          "code": "232680",
+          "rate": 15.0,
+          "amount": null
+        },
+        {
+          "name": "이랜시스",
+          "code": "264850",
+          "rate": 11.39,
+          "amount": null
+        },
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 9.75,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 9.35,
+          "amount": null
+        },
+        {
+          "name": "신성델타테크",
+          "code": "065350",
+          "rate": 7.45,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 7.21,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 7.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "에코프로에이치엔",
+          "code": "383310",
+          "rate": 20.85,
+          "amount": null
+        },
+        {
+          "name": "유일에너테크",
+          "code": "",
+          "rate": 15.5,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 7.42,
+          "amount": null
+        },
+        {
+          "name": "씨아이에스",
+          "code": "",
+          "rate": 5.31,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 4.9,
+          "amount": null
+        },
+        {
+          "name": "SK아이이테크놀로지",
+          "code": "361610",
+          "rate": 4.73,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 11.81,
+          "amount": null
+        },
+        {
+          "name": "SFA반도체",
+          "code": "036540",
+          "rate": 8.89,
+          "amount": null
+        },
+        {
+          "name": "아이씨티케이",
+          "code": "456010",
+          "rate": 8.16,
+          "amount": null
+        },
+        {
+          "name": "테크윙",
+          "code": "089030",
+          "rate": 7.81,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 7.78,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 6.32,
+          "amount": null
+        },
+        {
+          "name": "리노공업",
+          "code": "058470",
+          "rate": 5.98,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "SK증권",
+          "code": "001510",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "상상인증권",
+          "code": "001290",
+          "rate": 18.72,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 17.39,
+          "amount": null
+        },
+        {
+          "name": "유진투자증권",
+          "code": "001200",
+          "rate": 11.66,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 9.38,
+          "amount": null
+        },
+        {
+          "name": "유안타증권",
+          "code": "003470",
+          "rate": 8.96,
+          "amount": null
+        },
+        {
+          "name": "한화투자증권",
+          "code": "003530",
+          "rate": 8.54,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨아이에스",
+    "유일에너테크"
+  ]
+}

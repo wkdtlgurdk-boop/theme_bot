@@ -1,0 +1,96 @@
+{
+  "date": "20250908",
+  "label": "9/8",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "미용기기",
+      "stocks": [
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 16.13,
+          "amount": null
+        },
+        {
+          "name": "원텍",
+          "code": "336570",
+          "rate": 10.93,
+          "amount": null
+        },
+        {
+          "name": "파마리서치",
+          "code": "214450",
+          "rate": 7.14,
+          "amount": null
+        },
+        {
+          "name": "휴온스글로벌",
+          "code": "084110",
+          "rate": 5.46,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재/조선",
+      "stocks": [
+        {
+          "name": "오리엔탈정공",
+          "code": "014940",
+          "rate": 23.86,
+          "amount": null
+        },
+        {
+          "name": "한라IMS",
+          "code": "092460",
+          "rate": 22.95,
+          "amount": null
+        },
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 21.76,
+          "amount": null
+        },
+        {
+          "name": "대양전기공업",
+          "code": "108380",
+          "rate": 11.89,
+          "amount": null
+        },
+        {
+          "name": "한국카본",
+          "code": "017960",
+          "rate": 7.24,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "PS일렉트로닉스",
+          "code": "332570",
+          "rate": 12.65,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 11.04,
+          "amount": null
+        },
+        {
+          "name": "라온텍",
+          "code": "418420",
+          "rate": 9.44,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

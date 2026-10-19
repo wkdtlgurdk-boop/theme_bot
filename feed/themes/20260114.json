@@ -1,0 +1,114 @@
+{
+  "date": "20260114",
+  "label": "1/14",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "뉴로메카",
+          "code": "348340",
+          "rate": 25.26,
+          "amount": null
+        },
+        {
+          "name": "케이엔알시스템",
+          "code": "199430",
+          "rate": 16.92,
+          "amount": null
+        },
+        {
+          "name": "알에스오토메이션",
+          "code": "140670",
+          "rate": 11.68,
+          "amount": null
+        },
+        {
+          "name": "SJG세종",
+          "code": "033530",
+          "rate": 8.21,
+          "amount": null
+        },
+        {
+          "name": "두산",
+          "code": "000150",
+          "rate": 8.01,
+          "amount": null
+        },
+        {
+          "name": "유일로보틱스",
+          "code": "388720",
+          "rate": 5.48,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "석유",
+      "stocks": [
+        {
+          "name": "대성산업",
+          "code": "128820",
+          "rate": 16.61,
+          "amount": null
+        },
+        {
+          "name": "흥구석유",
+          "code": "024060",
+          "rate": 6.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력(원자력/태양광/수소)",
+      "stocks": [
+        {
+          "name": "한화",
+          "code": "000880",
+          "rate": 25.37,
+          "amount": null
+        },
+        {
+          "name": "OCI",
+          "code": "456040",
+          "rate": 14.04,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 8.56,
+          "amount": null
+        },
+        {
+          "name": "두산퓨얼셀",
+          "code": "336260",
+          "rate": 8.53,
+          "amount": null
+        },
+        {
+          "name": "지엔씨에너지",
+          "code": "119850",
+          "rate": 7.04,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 5.74,
+          "amount": null
+        },
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 4.58,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

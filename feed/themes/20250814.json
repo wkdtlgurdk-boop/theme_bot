@@ -1,0 +1,98 @@
+{
+  "date": "20250814",
+  "label": "8/14",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "웹툰",
+      "stocks": [
+        {
+          "name": "탑코미디어",
+          "code": "134580",
+          "rate": 17.61,
+          "amount": null
+        },
+        {
+          "name": "미스터블루",
+          "code": "207760",
+          "rate": 11.17,
+          "amount": null
+        },
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 6.01,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "새빗캠",
+          "code": "",
+          "rate": 10.34,
+          "amount": null
+        },
+        {
+          "name": "코스모화학",
+          "code": "005420",
+          "rate": 8.28,
+          "amount": null
+        },
+        {
+          "name": "후성",
+          "code": "093370",
+          "rate": 7.58,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 6.27,
+          "amount": null
+        },
+        {
+          "name": "코스모신소재",
+          "code": "005070",
+          "rate": 6.18,
+          "amount": null
+        },
+        {
+          "name": "엔켐",
+          "code": "348370",
+          "rate": 4.22,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "제이에스티나",
+          "code": "026040",
+          "rate": 15.27,
+          "amount": null
+        },
+        {
+          "name": "인디에프",
+          "code": "014990",
+          "rate": 9.61,
+          "amount": null
+        },
+        {
+          "name": "신원",
+          "code": "009270",
+          "rate": 5.28,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "새빗캠"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "date": "20260204",
+  "label": "2/4",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "파루",
+          "code": "043200",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 29.03,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 28.05,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 22.81,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력설비",
+      "stocks": [
+        {
+          "name": "제룡전기",
+          "code": "033100",
+          "rate": 26.76,
+          "amount": null
+        },
+        {
+          "name": "한전산업",
+          "code": "130660",
+          "rate": 20.51,
+          "amount": null
+        },
+        {
+          "name": "지엔씨에너지",
+          "code": "119850",
+          "rate": 9.78,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 8.77,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 8.12,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 6.6,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "ESS",
+      "stocks": [
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "씨아이에스",
+          "code": "",
+          "rate": 11.25,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 8.0,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 6.26,
+          "amount": null
+        },
+        {
+          "name": "한중엔시에스",
+          "code": "107640",
+          "rate": 6.24,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 4.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "부동산 보유 자산주",
+      "stocks": [
+        {
+          "name": "삼표시멘트",
+          "code": "038500",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "하림지주",
+          "code": "003380",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "대성산업",
+          "code": "128820",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "동양고속",
+          "code": "084670",
+          "rate": 19.9,
+          "amount": null
+        },
+        {
+          "name": "천일고속",
+          "code": "000650",
+          "rate": 9.27,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스페이스X",
+      "stocks": [
+        {
+          "name": "LK삼양",
+          "code": "225190",
+          "rate": 17.66,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 13.12,
+          "amount": null
+        },
+        {
+          "name": "세아베스틸지주",
+          "code": "001430",
+          "rate": 10.8,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "한전산업",
+          "code": "130660",
+          "rate": 20.51,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 12.19,
+          "amount": null
+        },
+        {
+          "name": "비에이치아이",
+          "code": "083650",
+          "rate": 7.37,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 6.58,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨아이에스"
+  ]
+}

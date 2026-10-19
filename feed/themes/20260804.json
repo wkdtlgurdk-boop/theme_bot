@@ -1,0 +1,143 @@
+{
+  "date": "20260804",
+  "label": "8/4",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "큐리언트",
+          "code": "115180",
+          "rate": 27.25,
+          "amount": null
+        },
+        {
+          "name": "앱클론",
+          "code": "174900",
+          "rate": 20.73,
+          "amount": null
+        },
+        {
+          "name": "에임드바이오",
+          "code": "0009K0",
+          "rate": 15.24,
+          "amount": null
+        },
+        {
+          "name": "리가켐바이오",
+          "code": "141080",
+          "rate": 15.2,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 13.24,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "DC",
+      "stocks": [
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 19.87,
+          "amount": null
+        },
+        {
+          "name": "한선엔지니어링",
+          "code": "452280",
+          "rate": 19.23,
+          "amount": null
+        },
+        {
+          "name": "비에이치아이",
+          "code": "083650",
+          "rate": 16.88,
+          "amount": null
+        },
+        {
+          "name": "SK텔레콤",
+          "code": "017670",
+          "rate": 11.46,
+          "amount": null
+        },
+        {
+          "name": "서진시스템",
+          "code": "178320",
+          "rate": 11.01,
+          "amount": null
+        },
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "rate": 9.16,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "라이콤",
+          "code": "388790",
+          "rate": 19.43,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 18.64,
+          "amount": null
+        },
+        {
+          "name": "RFHIC",
+          "code": "218410",
+          "rate": 12.33,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 18.56,
+          "amount": null
+        },
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 14.29,
+          "amount": null
+        },
+        {
+          "name": "DL이앤씨",
+          "code": "375500",
+          "rate": 7.84,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 6.17,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

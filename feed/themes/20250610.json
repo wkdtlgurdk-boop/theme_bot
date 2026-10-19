@@ -1,0 +1,173 @@
+{
+  "date": "20250610",
+  "label": "6/10",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "가상자산",
+      "stocks": [
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 15.96,
+          "amount": null
+        },
+        {
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "rate": 10.04,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "한화시스템",
+          "code": "272210",
+          "rate": 20.09,
+          "amount": null
+        },
+        {
+          "name": "현대로템",
+          "code": "064350",
+          "rate": 9.71,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "rate": 6.36,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "웹툰",
+      "stocks": [
+        {
+          "name": "미스터블루",
+          "code": "207760",
+          "rate": 15.92,
+          "amount": null
+        },
+        {
+          "name": "디앤씨미디어",
+          "code": "263720",
+          "rate": 7.84,
+          "amount": null
+        },
+        {
+          "name": "와이랩",
+          "code": "432430",
+          "rate": 1.48,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "컨텐츠",
+      "stocks": [
+        {
+          "name": "스튜디오드래곤",
+          "code": "253450",
+          "rate": 13.59,
+          "amount": null
+        },
+        {
+          "name": "CJ ENM",
+          "code": "035760",
+          "rate": 12.35,
+          "amount": null
+        },
+        {
+          "name": "콘텐트리중앙",
+          "code": "036420",
+          "rate": 10.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설기계",
+      "stocks": [
+        {
+          "name": "HD현대인프라코어",
+          "code": "",
+          "rate": 16.95,
+          "amount": null
+        },
+        {
+          "name": "두산밥캣",
+          "code": "241560",
+          "rate": 9.79,
+          "amount": null
+        },
+        {
+          "name": "HD현대건설기계",
+          "code": "",
+          "rate": 6.26,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화학",
+      "stocks": [
+        {
+          "name": "롯데케미칼",
+          "code": "011170",
+          "rate": 8.6,
+          "amount": null
+        },
+        {
+          "name": "금호석유화학",
+          "code": "011780",
+          "rate": 8.06,
+          "amount": null
+        },
+        {
+          "name": "대한유화",
+          "code": "006650",
+          "rate": 4.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "에너지고속도로",
+      "stocks": [
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 9.83,
+          "amount": null
+        },
+        {
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "rate": 7.24,
+          "amount": null
+        },
+        {
+          "name": "비츠로셀",
+          "code": "082920",
+          "rate": 5.57,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HD현대건설기계",
+    "HD현대인프라코어"
+  ]
+}

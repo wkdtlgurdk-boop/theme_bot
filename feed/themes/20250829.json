@@ -1,0 +1,63 @@
+{
+  "date": "20250829",
+  "label": "8/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "삼영엠텍",
+          "code": "054540",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 21.81,
+          "amount": null
+        },
+        {
+          "name": "범한퓨얼셀",
+          "code": "382900",
+          "rate": 18.56,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 16.28,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "가상화폐",
+      "stocks": [
+        {
+          "name": "SGA",
+          "code": "",
+          "rate": 29.85,
+          "amount": null
+        },
+        {
+          "name": "썸에이지",
+          "code": "208640",
+          "rate": 17.92,
+          "amount": null
+        },
+        {
+          "name": "SGA솔루션즈",
+          "code": "184230",
+          "rate": 16.51,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "SGA"
+  ]
+}

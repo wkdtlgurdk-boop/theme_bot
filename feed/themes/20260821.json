@@ -1,0 +1,72 @@
+{
+  "date": "20260821",
+  "label": "8/21",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "삼전닉스",
+      "stocks": [
+        {
+          "name": "삼성생명",
+          "code": "032830",
+          "rate": 10.61,
+          "amount": null
+        },
+        {
+          "name": "삼성전자우",
+          "code": "005935",
+          "rate": 8.26,
+          "amount": null
+        },
+        {
+          "name": "삼성물산",
+          "code": "028260",
+          "rate": 5.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "가상화폐",
+      "stocks": [
+        {
+          "name": "파라택시스이더리움",
+          "code": "290560",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "우리기술투자",
+          "code": "041190",
+          "rate": 19.96,
+          "amount": null
+        },
+        {
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "rate": 12.61,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "국내 상장 중국기업",
+      "stocks": [
+        {
+          "name": "오가닉티코스메틱",
+          "code": "900300",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "윙입푸드",
+          "code": "900340",
+          "rate": 13.33,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

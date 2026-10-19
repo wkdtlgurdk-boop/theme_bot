@@ -1,0 +1,184 @@
+{
+  "date": "20260105",
+  "label": "1/5",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "SFA반도체",
+          "code": "036540",
+          "rate": 17.45,
+          "amount": null
+        },
+        {
+          "name": "디아이티",
+          "code": "110990",
+          "rate": 17.21,
+          "amount": null
+        },
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 15.78,
+          "amount": null
+        },
+        {
+          "name": "이오테크닉스",
+          "code": "039030",
+          "rate": 9.69,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 7.47,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "한양이엔지",
+          "code": "045100",
+          "rate": 16.59,
+          "amount": null
+        },
+        {
+          "name": "컨텍",
+          "code": "451760",
+          "rate": 15.16,
+          "amount": null
+        },
+        {
+          "name": "이노스페이스",
+          "code": "462350",
+          "rate": 14.65,
+          "amount": null
+        },
+        {
+          "name": "쎄트렉아이",
+          "code": "099320",
+          "rate": 11.0,
+          "amount": null
+        },
+        {
+          "name": "나라스페이스테크놀로지",
+          "code": "478340",
+          "rate": 10.11,
+          "amount": null
+        },
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 9.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 10.64,
+          "amount": null
+        },
+        {
+          "name": "비에이치아이",
+          "code": "083650",
+          "rate": 7.97,
+          "amount": null
+        },
+        {
+          "name": "우진",
+          "code": "105840",
+          "rate": 7.28,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 7.25,
+          "amount": null
+        },
+        {
+          "name": "우리기술",
+          "code": "032820",
+          "rate": 6.43,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 4.68,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력설비",
+      "stocks": [
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 7.98,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 7.23,
+          "amount": null
+        },
+        {
+          "name": "한국전력",
+          "code": "015760",
+          "rate": 7.2,
+          "amount": null
+        },
+        {
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "rate": 5.98,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 4.66,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "한올바이오파마",
+          "code": "009420",
+          "rate": 12.09,
+          "amount": null
+        },
+        {
+          "name": "삼천당제약",
+          "code": "000250",
+          "rate": 3.68,
+          "amount": null
+        },
+        {
+          "name": "셀트리온",
+          "code": "068270",
+          "rate": 3.46,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,90 @@
+{
+  "date": "20260422",
+  "label": "4/22",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "동일스틸럭스",
+          "code": "023790",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 11.28,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 10.71,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 8.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "애경케미칼",
+          "code": "161000",
+          "rate": 24.35,
+          "amount": null
+        },
+        {
+          "name": "더블유씨피",
+          "code": "393890",
+          "rate": 7.51,
+          "amount": null
+        },
+        {
+          "name": "나인테크",
+          "code": "267320",
+          "rate": 5.21,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 2.17,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 1.36,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 21.86,
+          "amount": null
+        },
+        {
+          "name": "아주IB투자",
+          "code": "027360",
+          "rate": 16.75,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

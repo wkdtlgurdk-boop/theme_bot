@@ -1,0 +1,190 @@
+{
+  "date": "20251112",
+  "label": "11/12",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "리가켐바이오",
+          "code": "141080",
+          "rate": 17.56,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 15.16,
+          "amount": null
+        },
+        {
+          "name": "오스코텍",
+          "code": "039200",
+          "rate": 13.25,
+          "amount": null
+        },
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 10.53,
+          "amount": null
+        },
+        {
+          "name": "코오롱티슈진",
+          "code": "950160",
+          "rate": 7.56,
+          "amount": null
+        },
+        {
+          "name": "알테오젠",
+          "code": "196170",
+          "rate": 7.25,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "대웅",
+          "code": "003090",
+          "rate": 11.5,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 10.13,
+          "amount": null
+        },
+        {
+          "name": "롯데지주",
+          "code": "004990",
+          "rate": 9.22,
+          "amount": null
+        },
+        {
+          "name": "GS",
+          "code": "078930",
+          "rate": 6.69,
+          "amount": null
+        },
+        {
+          "name": "SK",
+          "code": "034730",
+          "rate": 3.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "삼성증권",
+          "code": "016360",
+          "rate": 9.17,
+          "amount": null
+        },
+        {
+          "name": "신영증권",
+          "code": "001720",
+          "rate": 7.2,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 6.97,
+          "amount": null
+        },
+        {
+          "name": "대신증권",
+          "code": "003540",
+          "rate": 6.91,
+          "amount": null
+        },
+        {
+          "name": "NH투자증권",
+          "code": "005940",
+          "rate": 5.15,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 3.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "STO",
+      "stocks": [
+        {
+          "name": "핑거",
+          "code": "163730",
+          "rate": 19.59,
+          "amount": null
+        },
+        {
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "rate": 17.04,
+          "amount": null
+        },
+        {
+          "name": "유라클",
+          "code": "088340",
+          "rate": 11.38,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 6.89,
+          "amount": null
+        },
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 5.22,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의료AI",
+      "stocks": [
+        {
+          "name": "신테카바이오",
+          "code": "226330",
+          "rate": 29.77,
+          "amount": null
+        },
+        {
+          "name": "노을",
+          "code": "376930",
+          "rate": 18.37,
+          "amount": null
+        },
+        {
+          "name": "온코크로스",
+          "code": "382150",
+          "rate": 16.76,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

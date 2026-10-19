@@ -1,0 +1,148 @@
+{
+  "date": "20260624",
+  "label": "6/24",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "백화점",
+      "stocks": [
+        {
+          "name": "광주신세계",
+          "code": "037710",
+          "rate": 25.26,
+          "amount": null
+        },
+        {
+          "name": "대구백화점",
+          "code": "006370",
+          "rate": 8.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "한올바이오파마",
+          "code": "009420",
+          "rate": 18.86,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 15.57,
+          "amount": null
+        },
+        {
+          "name": "알테오젠",
+          "code": "196170",
+          "rate": 11.56,
+          "amount": null
+        },
+        {
+          "name": "리가켐바이오",
+          "code": "141080",
+          "rate": 10.58,
+          "amount": null
+        },
+        {
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "rate": 8.8,
+          "amount": null
+        },
+        {
+          "name": "셀트리온",
+          "code": "068270",
+          "rate": 7.6,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 7.27,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "오늘이엔엠",
+          "code": "192410",
+          "rate": 17.25,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 9.38,
+          "amount": null
+        },
+        {
+          "name": "로보스타",
+          "code": "090360",
+          "rate": 8.9,
+          "amount": null
+        },
+        {
+          "name": "두산로보틱스",
+          "code": "454910",
+          "rate": 6.98,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품/미용기기",
+      "stocks": [
+        {
+          "name": "달바글로벌",
+          "code": "483650",
+          "rate": 8.92,
+          "amount": null
+        },
+        {
+          "name": "파마리서치",
+          "code": "214450",
+          "rate": 8.75,
+          "amount": null
+        },
+        {
+          "name": "휴젤",
+          "code": "145020",
+          "rate": 7.23,
+          "amount": null
+        },
+        {
+          "name": "한국비엔씨",
+          "code": "256840",
+          "rate": 4.41,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 4.36,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 9.84,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

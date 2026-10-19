@@ -1,0 +1,132 @@
+{
+  "date": "20250725",
+  "label": "7/25",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 12.31,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 11.14,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 10.71,
+          "amount": null
+        },
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 9.23,
+          "amount": null
+        },
+        {
+          "name": "LG씨엔에스",
+          "code": "064400",
+          "rate": 4.52,
+          "amount": null
+        },
+        {
+          "name": "NHN KCP",
+          "code": "060250",
+          "rate": 4.18,
+          "amount": null
+        },
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "rate": 3.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "친환경",
+      "stocks": [
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 8.97,
+          "amount": null
+        },
+        {
+          "name": "강원에너지",
+          "code": "114190",
+          "rate": 8.52,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린솔루션",
+          "code": "443060",
+          "rate": 6.64,
+          "amount": null
+        },
+        {
+          "name": "두산퓨얼셀",
+          "code": "336260",
+          "rate": 5.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선/조선기자재",
+      "stocks": [
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 11.93,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린엔진",
+          "code": "071970",
+          "rate": 11.42,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 6.64,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린솔루션",
+          "code": "443060",
+          "rate": 5.83,
+          "amount": null
+        },
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 4.96,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 4.89,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

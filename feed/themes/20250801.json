@@ -1,0 +1,26 @@
+{
+  "date": "20250801",
+  "label": "8/1",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "대한조선",
+          "code": "439260",
+          "rate": 84.8,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 4.54,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

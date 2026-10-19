@@ -1,0 +1,188 @@
+{
+  "date": "20260210",
+  "label": "2/10",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "퓨리오사ai",
+      "stocks": [
+        {
+          "name": "엑스페릭스",
+          "code": "317770",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "DSC인베스트먼트",
+          "code": "241520",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "TS인베스트먼트",
+          "code": "246690",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "포바이포",
+          "code": "389140",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "토마토시스템",
+          "code": "393210",
+          "rate": 14.59,
+          "amount": null
+        },
+        {
+          "name": "LB인베스트먼트",
+          "code": "309960",
+          "rate": 11.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 22.36,
+          "amount": null
+        },
+        {
+          "name": "HDC현대산업개발",
+          "code": "",
+          "rate": 7.53,
+          "amount": null
+        },
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 5.42,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "소매/면세/백화점",
+      "stocks": [
+        {
+          "name": "한섬",
+          "code": "020000",
+          "rate": 16.16,
+          "amount": null
+        },
+        {
+          "name": "롯데쇼핑",
+          "code": "023530",
+          "rate": 14.88,
+          "amount": null
+        },
+        {
+          "name": "이마트",
+          "code": "139480",
+          "rate": 9.5,
+          "amount": null
+        },
+        {
+          "name": "현대백화점",
+          "code": "069960",
+          "rate": 7.66,
+          "amount": null
+        },
+        {
+          "name": "호텔신라",
+          "code": "008770",
+          "rate": 6.44,
+          "amount": null
+        },
+        {
+          "name": "GS리테일",
+          "code": "007070",
+          "rate": 6.43,
+          "amount": null
+        },
+        {
+          "name": "신세계",
+          "code": "004170",
+          "rate": 6.06,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제지/페인트",
+      "stocks": [
+        {
+          "name": "삼화페인트",
+          "code": "",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "신대양제지",
+          "code": "016590",
+          "rate": 26.98,
+          "amount": null
+        },
+        {
+          "name": "아세아제지",
+          "code": "002310",
+          "rate": 12.64,
+          "amount": null
+        },
+        {
+          "name": "삼보판지",
+          "code": "023600",
+          "rate": 5.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "유진로봇",
+          "code": "056080",
+          "rate": 21.7,
+          "amount": null
+        },
+        {
+          "name": "나인테크",
+          "code": "267320",
+          "rate": 18.55,
+          "amount": null
+        },
+        {
+          "name": "스맥",
+          "code": "099440",
+          "rate": 7.2,
+          "amount": null
+        },
+        {
+          "name": "푸른기술",
+          "code": "",
+          "rate": 6.85,
+          "amount": null
+        },
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 5.39,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HDC현대산업개발",
+    "삼화페인트",
+    "푸른기술"
+  ]
+}

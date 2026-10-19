@@ -1,0 +1,105 @@
+{
+  "date": "20260421",
+  "label": "4/21",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "씨아이에스",
+          "code": "",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "리튬포어스",
+          "code": "073570",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "중앙첨단소재",
+          "code": "",
+          "rate": 29.71,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 19.89,
+          "amount": null
+        },
+        {
+          "name": "엔켐",
+          "code": "348370",
+          "rate": 17.96,
+          "amount": null
+        },
+        {
+          "name": "하이드로리튬",
+          "code": "101670",
+          "rate": 12.53,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 11.42,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "대주전자재료",
+          "code": "078600",
+          "rate": 14.92,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 13.53,
+          "amount": null
+        },
+        {
+          "name": "원준",
+          "code": "382840",
+          "rate": 9.33,
+          "amount": null
+        },
+        {
+          "name": "코스모신소재",
+          "code": "005070",
+          "rate": 8.77,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 16.9,
+          "amount": null
+        },
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 13.27,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨아이에스",
+    "중앙첨단소재"
+  ]
+}

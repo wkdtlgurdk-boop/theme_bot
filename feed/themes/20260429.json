@@ -1,0 +1,269 @@
+{
+  "date": "20260429",
+  "label": "4/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전력기기(전력/전선/변압기)",
+      "stocks": [
+        {
+          "name": "제일일렉트릭",
+          "code": "199820",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 25.03,
+          "amount": null
+        },
+        {
+          "name": "티씨머티리얼즈",
+          "code": "125020",
+          "rate": 11.62,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 11.55,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 7.17,
+          "amount": null
+        },
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 7.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "ESS",
+      "stocks": [
+        {
+          "name": "비나텍",
+          "code": "126340",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 12.63,
+          "amount": null
+        },
+        {
+          "name": "디케이티",
+          "code": "290550",
+          "rate": 11.11,
+          "amount": null
+        },
+        {
+          "name": "서진시스템",
+          "code": "178320",
+          "rate": 10.53,
+          "amount": null
+        },
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 9.57,
+          "amount": null
+        },
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 9.11,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 8.2,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "석유/가스",
+      "stocks": [
+        {
+          "name": "롯데케미칼",
+          "code": "011170",
+          "rate": 24.87,
+          "amount": null
+        },
+        {
+          "name": "이수화학",
+          "code": "005950",
+          "rate": 20.92,
+          "amount": null
+        },
+        {
+          "name": "대한유화",
+          "code": "006650",
+          "rate": 19.14,
+          "amount": null
+        },
+        {
+          "name": "S-Oil",
+          "code": "010950",
+          "rate": 13.14,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 12.63,
+          "amount": null
+        },
+        {
+          "name": "금호석유화학",
+          "code": "011780",
+          "rate": 9.08,
+          "amount": null
+        },
+        {
+          "name": "GS",
+          "code": "078930",
+          "rate": 6.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "SOFC",
+      "stocks": [
+        {
+          "name": "LS머트리얼즈",
+          "code": "417200",
+          "rate": 16.39,
+          "amount": null
+        },
+        {
+          "name": "덕양에너젠",
+          "code": "0001A0",
+          "rate": 14.04,
+          "amount": null
+        },
+        {
+          "name": "두산퓨얼셀",
+          "code": "336260",
+          "rate": 11.41,
+          "amount": null
+        },
+        {
+          "name": "한선엔지니어링",
+          "code": "452280",
+          "rate": 11.0,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 7.27,
+          "amount": null
+        },
+        {
+          "name": "아모센스",
+          "code": "357580",
+          "rate": 6.86,
+          "amount": null
+        },
+        {
+          "name": "범한퓨얼셀",
+          "code": "382900",
+          "rate": 6.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재(엔진)",
+      "stocks": [
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 12.52,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 8.14,
+          "amount": null
+        },
+        {
+          "name": "에스엔시스",
+          "code": "0008Z0",
+          "rate": 7.42,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 3.41,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린엔진",
+          "code": "071970",
+          "rate": 3.39,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "철강",
+      "stocks": [
+        {
+          "name": "동국제강",
+          "code": "460860",
+          "rate": 7.73,
+          "amount": null
+        },
+        {
+          "name": "코나솔",
+          "code": "",
+          "rate": 7.41,
+          "amount": null
+        },
+        {
+          "name": "휴스틸",
+          "code": "005010",
+          "rate": 5.64,
+          "amount": null
+        },
+        {
+          "name": "대한제강",
+          "code": "084010",
+          "rate": 4.71,
+          "amount": null
+        },
+        {
+          "name": "현대제철",
+          "code": "004020",
+          "rate": 3.74,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "코나솔"
+  ]
+}

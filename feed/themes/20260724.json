@@ -1,0 +1,87 @@
+{
+  "date": "20260724",
+  "label": "7/24",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "엔젠바이오",
+          "code": "354200",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "듀켐바이오",
+          "code": "176750",
+          "rate": 29.84,
+          "amount": null
+        },
+        {
+          "name": "HLB제약",
+          "code": "047920",
+          "rate": 11.77,
+          "amount": null
+        },
+        {
+          "name": "조아제약",
+          "code": "034940",
+          "rate": 10.23,
+          "amount": null
+        },
+        {
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "rate": 10.08,
+          "amount": null
+        },
+        {
+          "name": "유한양행우",
+          "code": "",
+          "rate": 6.7,
+          "amount": null
+        },
+        {
+          "name": "유한양행",
+          "code": "000100",
+          "rate": 4.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "일승",
+          "code": "333430",
+          "rate": 29.86,
+          "amount": null
+        },
+        {
+          "name": "현대힘스",
+          "code": "460930",
+          "rate": 22.5,
+          "amount": null
+        },
+        {
+          "name": "삼영엠텍",
+          "code": "054540",
+          "rate": 11.01,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 6.32,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "유한양행우"
+  ]
+}

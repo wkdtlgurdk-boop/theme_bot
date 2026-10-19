@@ -1,0 +1,162 @@
+{
+  "date": "20260211",
+  "label": "2/11",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "아크릴",
+          "code": "0007C0",
+          "rate": 28.64,
+          "amount": null
+        },
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 22.98,
+          "amount": null
+        },
+        {
+          "name": "삼영",
+          "code": "003720",
+          "rate": 21.93,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "rate": 5.96,
+          "amount": null
+        },
+        {
+          "name": "제일일렉트릭",
+          "code": "199820",
+          "rate": 5.22,
+          "amount": null
+        },
+        {
+          "name": "제룡산업",
+          "code": "147830",
+          "rate": 4.74,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 4.71,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "은행",
+      "stocks": [
+        {
+          "name": "JB금융지주",
+          "code": "175330",
+          "rate": 7.05,
+          "amount": null
+        },
+        {
+          "name": "우리금융지주",
+          "code": "316140",
+          "rate": 6.32,
+          "amount": null
+        },
+        {
+          "name": "KB금융",
+          "code": "105560",
+          "rate": 5.79,
+          "amount": null
+        },
+        {
+          "name": "iM금융지주",
+          "code": "139130",
+          "rate": 5.56,
+          "amount": null
+        },
+        {
+          "name": "제주은행",
+          "code": "006220",
+          "rate": 4.72,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "유통",
+      "stocks": [
+        {
+          "name": "BGF리테일",
+          "code": "282330",
+          "rate": 11.49,
+          "amount": null
+        },
+        {
+          "name": "이마트",
+          "code": "139480",
+          "rate": 8.5,
+          "amount": null
+        },
+        {
+          "name": "cj대한통운",
+          "code": "",
+          "rate": 6.58,
+          "amount": null
+        },
+        {
+          "name": "GS리테일",
+          "code": "007070",
+          "rate": 2.24,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "우리기술",
+          "code": "032820",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "한전산업",
+          "code": "130660",
+          "rate": 19.24,
+          "amount": null
+        },
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 14.61,
+          "amount": null
+        },
+        {
+          "name": "보성파워텍",
+          "code": "006910",
+          "rate": 12.38,
+          "amount": null
+        },
+        {
+          "name": "한신기계",
+          "code": "011700",
+          "rate": 8.25,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "cj대한통운"
+  ]
+}

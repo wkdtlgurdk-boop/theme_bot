@@ -1,0 +1,155 @@
+{
+  "date": "20251002",
+  "label": "10/2",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체 생산",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 9.86,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 3.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 재료/부품",
+      "stocks": [
+        {
+          "name": "덕산하이메탈",
+          "code": "077360",
+          "rate": 17.33,
+          "amount": null
+        },
+        {
+          "name": "마이크로컨텍솔",
+          "code": "098120",
+          "rate": 13.6,
+          "amount": null
+        },
+        {
+          "name": "퓨릿",
+          "code": "445180",
+          "rate": 12.75,
+          "amount": null
+        },
+        {
+          "name": "에프엔에스테크",
+          "code": "083500",
+          "rate": 11.62,
+          "amount": null
+        },
+        {
+          "name": "해성디에스",
+          "code": "195870",
+          "rate": 10.39,
+          "amount": null
+        },
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 7.82,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 장비",
+      "stocks": [
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 15.24,
+          "amount": null
+        },
+        {
+          "name": "티엘비",
+          "code": "356860",
+          "rate": 13.29,
+          "amount": null
+        },
+        {
+          "name": "네오셈",
+          "code": "253590",
+          "rate": 13.13,
+          "amount": null
+        },
+        {
+          "name": "저스템",
+          "code": "417840",
+          "rate": 12.95,
+          "amount": null
+        },
+        {
+          "name": "브이엠",
+          "code": "089970",
+          "rate": 10.94,
+          "amount": null
+        },
+        {
+          "name": "유진테크",
+          "code": "084370",
+          "rate": 6.48,
+          "amount": null
+        },
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 6.01,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "심텍홀딩스",
+          "code": "036710",
+          "rate": 16.87,
+          "amount": null
+        },
+        {
+          "name": "SK스퀘어",
+          "code": "402340",
+          "rate": 15.82,
+          "amount": null
+        },
+        {
+          "name": "SK",
+          "code": "034730",
+          "rate": 6.22,
+          "amount": null
+        },
+        {
+          "name": "두산",
+          "code": "000150",
+          "rate": 5.87,
+          "amount": null
+        },
+        {
+          "name": "삼성물산",
+          "code": "028260",
+          "rate": 4.93,
+          "amount": null
+        },
+        {
+          "name": "HD현대",
+          "code": "267250",
+          "rate": 4.91,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

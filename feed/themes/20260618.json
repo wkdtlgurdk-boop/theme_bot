@@ -1,0 +1,107 @@
+{
+  "date": "20260618",
+  "label": "6/18",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "한울반도체",
+          "code": "320000",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 25.56,
+          "amount": null
+        },
+        {
+          "name": "아바텍",
+          "code": "149950",
+          "rate": 14.8,
+          "amount": null
+        },
+        {
+          "name": "코칩",
+          "code": "126730",
+          "rate": 13.22,
+          "amount": null
+        },
+        {
+          "name": "지아이에스",
+          "code": "306620",
+          "rate": 12.85,
+          "amount": null
+        },
+        {
+          "name": "한켐",
+          "code": "457370",
+          "rate": 9.83,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 8.27,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 6.51,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 4.62,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "LED",
+      "stocks": [
+        {
+          "name": "예스티",
+          "code": "122640",
+          "rate": 18.42,
+          "amount": null
+        },
+        {
+          "name": "지아이에스",
+          "code": "306620",
+          "rate": 12.85,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "시멘트",
+      "stocks": [
+        {
+          "name": "강동씨앤엘",
+          "code": "198440",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "서산",
+          "code": "079650",
+          "rate": 29.96,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

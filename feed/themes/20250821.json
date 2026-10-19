@@ -1,0 +1,166 @@
+{
+  "date": "20250821",
+  "label": "8/21",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "원전",
+      "stocks": [
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 15.29,
+          "amount": null
+        },
+        {
+          "name": "비에이치아이",
+          "code": "083650",
+          "rate": 7.7,
+          "amount": null
+        },
+        {
+          "name": "한전KPS",
+          "code": "051600",
+          "rate": 7.69,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 7.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "대한조선",
+          "code": "439260",
+          "rate": 10.79,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 7.62,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 5.89,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 5.48,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 4.77,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 4.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화학",
+      "stocks": [
+        {
+          "name": "대한유화",
+          "code": "006650",
+          "rate": 7.11,
+          "amount": null
+        },
+        {
+          "name": "롯데케미칼",
+          "code": "011170",
+          "rate": 7.07,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자동차 기자재",
+      "stocks": [
+        {
+          "name": "티에이치엔",
+          "code": "019180",
+          "rate": 14.0,
+          "amount": null
+        },
+        {
+          "name": "SJG세종",
+          "code": "033530",
+          "rate": 10.53,
+          "amount": null
+        },
+        {
+          "name": "한온시스템",
+          "code": "018880",
+          "rate": 4.55,
+          "amount": null
+        },
+        {
+          "name": "아진산업",
+          "code": "013310",
+          "rate": 4.03,
+          "amount": null
+        },
+        {
+          "name": "SNT다이내믹스",
+          "code": "003570",
+          "rate": 3.05,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "아이패밀리에스씨",
+          "code": "114840",
+          "rate": 9.24,
+          "amount": null
+        },
+        {
+          "name": "브이티",
+          "code": "018290",
+          "rate": 5.38,
+          "amount": null
+        },
+        {
+          "name": "씨앤씨인터내셔널",
+          "code": "352480",
+          "rate": 4.96,
+          "amount": null
+        },
+        {
+          "name": "달바글로벌",
+          "code": "483650",
+          "rate": 4.8,
+          "amount": null
+        },
+        {
+          "name": "실리콘투",
+          "code": "257720",
+          "rate": 4.17,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

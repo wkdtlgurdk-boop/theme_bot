@@ -1,0 +1,149 @@
+{
+  "date": "20260625",
+  "label": "6/25",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 13.06,
+          "amount": null
+        },
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 7.22,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 5.29,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "신재생에너지",
+      "stocks": [
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "다스코",
+          "code": "058730",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 18.67,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 17.25,
+          "amount": null
+        },
+        {
+          "name": "KCC",
+          "code": "002380",
+          "rate": 11.27,
+          "amount": null
+        },
+        {
+          "name": "금양그린파워",
+          "code": "282720",
+          "rate": 5.75,
+          "amount": null
+        },
+        {
+          "name": "한국전력",
+          "code": "015760",
+          "rate": 5.58,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "항공사",
+      "stocks": [
+        {
+          "name": "티웨이홀딩스",
+          "code": "004870",
+          "rate": 8.96,
+          "amount": null
+        },
+        {
+          "name": "대한항공",
+          "code": "003490",
+          "rate": 6.4,
+          "amount": null
+        },
+        {
+          "name": "아시아나항공",
+          "code": "020560",
+          "rate": 6.2,
+          "amount": null
+        },
+        {
+          "name": "한진칼",
+          "code": "180640",
+          "rate": 6.05,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "SK",
+          "code": "034730",
+          "rate": 20.51,
+          "amount": null
+        },
+        {
+          "name": "SK디스커버리",
+          "code": "006120",
+          "rate": 12.61,
+          "amount": null
+        },
+        {
+          "name": "삼성물산",
+          "code": "028260",
+          "rate": 7.79,
+          "amount": null
+        },
+        {
+          "name": "한진칼",
+          "code": "180640",
+          "rate": 6.05,
+          "amount": null
+        },
+        {
+          "name": "SK스퀘어",
+          "code": "402340",
+          "rate": 5.56,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 4.65,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

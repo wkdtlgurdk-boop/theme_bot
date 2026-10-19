@@ -1,0 +1,153 @@
+{
+  "date": "20250902",
+  "label": "9/2",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "현대무백스",
+          "code": "",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 17.06,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 13.36,
+          "amount": null
+        },
+        {
+          "name": "씨메스",
+          "code": "",
+          "rate": 12.47,
+          "amount": null
+        },
+        {
+          "name": "러셀",
+          "code": "217500",
+          "rate": 11.62,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 5.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오/비만치료제",
+      "stocks": [
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "고바이오랩",
+          "code": "348150",
+          "rate": 17.36,
+          "amount": null
+        },
+        {
+          "name": "메지온",
+          "code": "",
+          "rate": 14.78,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 12.05,
+          "amount": null
+        },
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 4.33,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재/조선",
+      "stocks": [
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 16.71,
+          "amount": null
+        },
+        {
+          "name": "오리엔탈정공",
+          "code": "014940",
+          "rate": 7.73,
+          "amount": null
+        },
+        {
+          "name": "하이록코리아",
+          "code": "013030",
+          "rate": 7.27,
+          "amount": null
+        },
+        {
+          "name": "케이에스피",
+          "code": "073010",
+          "rate": 6.06,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 5.84,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의료AI",
+      "stocks": [
+        {
+          "name": "뉴로핏",
+          "code": "380550",
+          "rate": 24.66,
+          "amount": null
+        },
+        {
+          "name": "뷰노",
+          "code": "338220",
+          "rate": 13.57,
+          "amount": null
+        },
+        {
+          "name": "루닛",
+          "code": "328130",
+          "rate": 7.18,
+          "amount": null
+        },
+        {
+          "name": "쓰리빌리언",
+          "code": "394800",
+          "rate": 5.54,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "메지온",
+    "씨메스",
+    "현대무백스"
+  ]
+}

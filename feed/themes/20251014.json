@@ -1,0 +1,102 @@
+{
+  "date": "20251014",
+  "label": "10/14",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "코스모신소재",
+          "code": "005070",
+          "rate": 11.39,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 11.34,
+          "amount": null
+        },
+        {
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "rate": 7.42,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 6.94,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 5.01,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "로보스타",
+          "code": "090360",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "현대무벡스",
+          "code": "319400",
+          "rate": 19.2,
+          "amount": null
+        },
+        {
+          "name": "해성에어로보틱스",
+          "code": "059270",
+          "rate": 10.81,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 6.73,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "미중갈등 / 원자재",
+      "stocks": [
+        {
+          "name": "케스피온",
+          "code": "079190",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "고려아연",
+          "code": "010130",
+          "rate": 20.21,
+          "amount": null
+        },
+        {
+          "name": "일진다이아",
+          "code": "081000",
+          "rate": 9.38,
+          "amount": null
+        },
+        {
+          "name": "흥아해운",
+          "code": "003280",
+          "rate": 8.63,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

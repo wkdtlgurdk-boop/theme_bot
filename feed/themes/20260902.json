@@ -1,0 +1,81 @@
+{
+  "date": "20260902",
+  "label": "9/2",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체 장비",
+      "stocks": [
+        {
+          "name": "디아이",
+          "code": "003160",
+          "rate": 14.82,
+          "amount": null
+        },
+        {
+          "name": "아스플로",
+          "code": "159010",
+          "rate": 12.62,
+          "amount": null
+        },
+        {
+          "name": "엑시콘",
+          "code": "092870",
+          "rate": 11.69,
+          "amount": null
+        },
+        {
+          "name": "ISC",
+          "code": "095340",
+          "rate": 8.53,
+          "amount": null
+        },
+        {
+          "name": "티에프이",
+          "code": "425420",
+          "rate": 8.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "좋은사람들",
+          "code": "",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "남화토건",
+          "code": "091590",
+          "rate": 20.93,
+          "amount": null
+        },
+        {
+          "name": "제이에스티나",
+          "code": "026040",
+          "rate": 17.53,
+          "amount": null
+        },
+        {
+          "name": "다스코",
+          "code": "058730",
+          "rate": 10.52,
+          "amount": null
+        },
+        {
+          "name": "남광토건",
+          "code": "001260",
+          "rate": 5.24,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "좋은사람들"
+  ]
+}

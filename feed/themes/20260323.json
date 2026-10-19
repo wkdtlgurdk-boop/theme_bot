@@ -1,0 +1,63 @@
+{
+  "date": "20260323",
+  "label": "3/23",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "친환경",
+      "stocks": [
+        {
+          "name": "삼륭물산",
+          "code": "014970",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "에코플라스틱",
+          "code": "038110",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "세림B&G",
+          "code": "",
+          "rate": 20.94,
+          "amount": null
+        },
+        {
+          "name": "진영",
+          "code": "285800",
+          "rate": 13.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 18.43,
+          "amount": null
+        },
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 8.18,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "세림B&G"
+  ]
+}

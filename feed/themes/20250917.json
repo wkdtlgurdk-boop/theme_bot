@@ -1,0 +1,115 @@
+{
+  "date": "20250917",
+  "label": "9/17",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "카지노",
+      "stocks": [
+        {
+          "name": "GKL",
+          "code": "114090",
+          "rate": 7.16,
+          "amount": null
+        },
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 6.38,
+          "amount": null
+        },
+        {
+          "name": "파라다이스",
+          "code": "034230",
+          "rate": 6.34,
+          "amount": null
+        },
+        {
+          "name": "강원랜드",
+          "code": "035250",
+          "rate": 1.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "ESS(LFP)",
+      "stocks": [
+        {
+          "name": "코윈테크",
+          "code": "",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 9.34,
+          "amount": null
+        },
+        {
+          "name": "탑머티리얼",
+          "code": "360070",
+          "rate": 4.19,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주항공",
+      "stocks": [
+        {
+          "name": "한국항공우주",
+          "code": "047810",
+          "rate": 14.77,
+          "amount": null
+        },
+        {
+          "name": "덕산하이메탈",
+          "code": "077360",
+          "rate": 12.67,
+          "amount": null
+        },
+        {
+          "name": "파이버프로",
+          "code": "368770",
+          "rate": 6.8,
+          "amount": null
+        },
+        {
+          "name": "쎄트렉아이",
+          "code": "099320",
+          "rate": 4.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "브이엠",
+          "code": "089970",
+          "rate": 11.92,
+          "amount": null
+        },
+        {
+          "name": "유진테크",
+          "code": "084370",
+          "rate": 6.55,
+          "amount": null
+        },
+        {
+          "name": "에프에스티",
+          "code": "036810",
+          "rate": 4.66,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "코윈테크"
+  ]
+}

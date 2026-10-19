@@ -1,0 +1,122 @@
+{
+  "date": "20260529",
+  "label": "5/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "LG",
+          "code": "003550",
+          "rate": 26.6,
+          "amount": null
+        },
+        {
+          "name": "로보스타",
+          "code": "090360",
+          "rate": 20.98,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 11.28,
+          "amount": null
+        },
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 11.0,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 6.79,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "SI",
+      "stocks": [
+        {
+          "name": "lg씨엔에스",
+          "code": "",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 24.8,
+          "amount": null
+        },
+        {
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "rate": 20.32,
+          "amount": null
+        },
+        {
+          "name": "Naver",
+          "code": "",
+          "rate": 14.15,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "두산",
+          "code": "000150",
+          "rate": 18.88,
+          "amount": null
+        },
+        {
+          "name": "대덕전자",
+          "code": "353200",
+          "rate": 15.84,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 5.84,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "LG이노텍",
+          "code": "011070",
+          "rate": 28.57,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 15.04,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "Naver",
+    "lg씨엔에스"
+  ]
+}

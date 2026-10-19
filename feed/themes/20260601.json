@@ -1,0 +1,108 @@
+{
+  "date": "20260601",
+  "label": "6/1",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "젠슨황",
+      "stocks": [
+        {
+          "name": "로보스타",
+          "code": "090360",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "두산로보틱스",
+          "code": "454910",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 29.86,
+          "amount": null
+        },
+        {
+          "name": "LG씨엔에스",
+          "code": "064400",
+          "rate": 26.27,
+          "amount": null
+        },
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "rate": 16.03,
+          "amount": null
+        },
+        {
+          "name": "LG",
+          "code": "003550",
+          "rate": 13.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "SI",
+      "stocks": [
+        {
+          "name": "LG씨엔에스",
+          "code": "064400",
+          "rate": 26.27,
+          "amount": null
+        },
+        {
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "rate": 21.07,
+          "amount": null
+        },
+        {
+          "name": "포스코DX",
+          "code": "022100",
+          "rate": 19.26,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력설비",
+      "stocks": [
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 14.29,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 10.56,
+          "amount": null
+        },
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 6.25,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 4.73,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 4.48,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

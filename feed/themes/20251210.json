@@ -1,0 +1,156 @@
+{
+  "date": "20251210",
+  "label": "12/10",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "비만치료제",
+      "stocks": [
+        {
+          "name": "나이벡",
+          "code": "138610",
+          "rate": 12.7,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 9.43,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 9.02,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 6.16,
+          "amount": null
+        },
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 5.06,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "아이로보틱스",
+          "code": "066430",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "유일로보틱스",
+          "code": "388720",
+          "rate": 7.8,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 6.68,
+          "amount": null
+        },
+        {
+          "name": "심햔",
+          "code": "",
+          "rate": 5.4,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 5.31,
+          "amount": null
+        },
+        {
+          "name": "유진로봇",
+          "code": "056080",
+          "rate": 4.12,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의료 AI",
+      "stocks": [
+        {
+          "name": "셀바스헬스케어",
+          "code": "208370",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "메디아나",
+          "code": "041920",
+          "rate": 22.93,
+          "amount": null
+        },
+        {
+          "name": "셀바스AI",
+          "code": "108860",
+          "rate": 20.4,
+          "amount": null
+        },
+        {
+          "name": "파로스아이바이오",
+          "code": "388870",
+          "rate": 16.99,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "유리기판",
+      "stocks": [
+        {
+          "name": "이노메트리",
+          "code": "302430",
+          "rate": 18.69,
+          "amount": null
+        },
+        {
+          "name": "제이앤티씨",
+          "code": "204270",
+          "rate": 4.07,
+          "amount": null
+        },
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 3.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "rate": 17.05,
+          "amount": null
+        },
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 11.01,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "심햔"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "date": "20260402",
+  "label": "4/2",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "석유",
+      "stocks": [
+        {
+          "name": "한국ANKOR유전",
+          "code": "",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "흥구석유",
+          "code": "024060",
+          "rate": 17.54,
+          "amount": null
+        },
+        {
+          "name": "한국석유",
+          "code": "004090",
+          "rate": 7.91,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "피노",
+          "code": "033790",
+          "rate": 19.26,
+          "amount": null
+        },
+        {
+          "name": "새로닉스",
+          "code": "042600",
+          "rate": 9.94,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 9.63,
+          "amount": null
+        },
+        {
+          "name": "상신이디피",
+          "code": "091580",
+          "rate": 6.02,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 2.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "플라스틱",
+      "stocks": [
+        {
+          "name": "세림B&G",
+          "code": "",
+          "rate": 17.78,
+          "amount": null
+        },
+        {
+          "name": "에코플라스틱",
+          "code": "038110",
+          "rate": 7.58,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "신재생에너지",
+      "stocks": [
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 7.61,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 5.94,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 4.39,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "세림B&G",
+    "한국ANKOR유전"
+  ]
+}

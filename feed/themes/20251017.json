@@ -1,0 +1,102 @@
+{
+  "date": "20251017",
+  "label": "10/17",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 27.04,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 12.8,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 12.59,
+          "amount": null
+        },
+        {
+          "name": "LG화학",
+          "code": "051910",
+          "rate": 8.65,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 8.26,
+          "amount": null
+        },
+        {
+          "name": "코스모신소재",
+          "code": "005070",
+          "rate": 5.13,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "하나머티리얼즈",
+          "code": "166090",
+          "rate": 8.25,
+          "amount": null
+        },
+        {
+          "name": "테크윙",
+          "code": "089030",
+          "rate": 6.0,
+          "amount": null
+        },
+        {
+          "name": "마이크로컨텍솔",
+          "code": "098120",
+          "rate": 4.57,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우크라 재건",
+      "stocks": [
+        {
+          "name": "금강공업",
+          "code": "014280",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "SG",
+          "code": "255220",
+          "rate": 15.26,
+          "amount": null
+        },
+        {
+          "name": "대동기어",
+          "code": "008830",
+          "rate": 10.91,
+          "amount": null
+        },
+        {
+          "name": "에스와이스틸텍",
+          "code": "365330",
+          "rate": 9.59,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

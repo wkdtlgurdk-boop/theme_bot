@@ -1,0 +1,61 @@
+{
+  "date": "20260617",
+  "label": "6/17",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "KBI메탈",
+          "code": "024840",
+          "rate": 16.42,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 10.58,
+          "amount": null
+        },
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 8.27,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "동일스틸럭스",
+          "code": "023790",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 4.14,
+          "amount": null
+        },
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 3.02,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

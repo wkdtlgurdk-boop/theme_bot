@@ -1,0 +1,49 @@
+{
+  "date": "20251223",
+  "label": "12/23",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "계양전기",
+          "code": "012200",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "포스코DX",
+          "code": "022100",
+          "rate": 11.42,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "삼영엠텍",
+          "code": "054540",
+          "rate": 16.4,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 12.49,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

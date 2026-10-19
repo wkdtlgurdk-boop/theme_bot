@@ -1,0 +1,137 @@
+{
+  "date": "20260820",
+  "label": "8/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "엔투텍",
+          "code": "227950",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "소마젠",
+          "code": "950200",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "에스티팜",
+          "code": "237690",
+          "rate": 11.68,
+          "amount": null
+        },
+        {
+          "name": "파미셀",
+          "code": "005690",
+          "rate": 4.22,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "삼전닉스",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 12.73,
+          "amount": null
+        },
+        {
+          "name": "SK스퀘어",
+          "code": "402340",
+          "rate": 11.85,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 9.49,
+          "amount": null
+        },
+        {
+          "name": "삼성물산",
+          "code": "028260",
+          "rate": 7.78,
+          "amount": null
+        },
+        {
+          "name": "삼성생명",
+          "code": "032830",
+          "rate": 7.61,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 26.05,
+          "amount": null
+        },
+        {
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "rate": 22.7,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 15.63,
+          "amount": null
+        },
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 9.58,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 8.97,
+          "amount": null
+        },
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "rate": 5.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "SK증권",
+          "code": "001510",
+          "rate": 29.79,
+          "amount": null
+        },
+        {
+          "name": "삼성증권",
+          "code": "016360",
+          "rate": 8.71,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 4.03,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

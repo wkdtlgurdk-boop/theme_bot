@@ -1,0 +1,161 @@
+{
+  "date": "20260212",
+  "label": "2/12",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 9.97,
+          "amount": null
+        },
+        {
+          "name": "파인엠텍",
+          "code": "441270",
+          "rate": 8.56,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 6.44,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 3.26,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "에코프로머티",
+          "code": "450080",
+          "rate": 9.91,
+          "amount": null
+        },
+        {
+          "name": "SK아이이테크놀로지",
+          "code": "361610",
+          "rate": 6.21,
+          "amount": null
+        },
+        {
+          "name": "피엔티",
+          "code": "137400",
+          "rate": 6.16,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 4.59,
+          "amount": null
+        },
+        {
+          "name": "LG화학",
+          "code": "051910",
+          "rate": 4.34,
+          "amount": null
+        },
+        {
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "rate": 4.12,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "은행",
+      "stocks": [
+        {
+          "name": "JB금융지주",
+          "code": "175330",
+          "rate": 6.74,
+          "amount": null
+        },
+        {
+          "name": "BNK금융지주",
+          "code": "138930",
+          "rate": 5.93,
+          "amount": null
+        },
+        {
+          "name": "신한지주",
+          "code": "055550",
+          "rate": 5.05,
+          "amount": null
+        },
+        {
+          "name": "기업은행",
+          "code": "024110",
+          "rate": 4.6,
+          "amount": null
+        },
+        {
+          "name": "iM금융지주",
+          "code": "139130",
+          "rate": 3.63,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "밸류업(지수/증권)",
+      "stocks": [
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 8.83,
+          "amount": null
+        },
+        {
+          "name": "한솔케미칼",
+          "code": "014680",
+          "rate": 7.77,
+          "amount": null
+        },
+        {
+          "name": "SK스퀘어",
+          "code": "402340",
+          "rate": 7.14,
+          "amount": null
+        },
+        {
+          "name": "티씨케이",
+          "code": "064760",
+          "rate": 6.76,
+          "amount": null
+        },
+        {
+          "name": "JB금융지주",
+          "code": "175330",
+          "rate": 6.74,
+          "amount": null
+        },
+        {
+          "name": "오리온",
+          "code": "271560",
+          "rate": 6.62,
+          "amount": null
+        },
+        {
+          "name": "영원무역홀딩스",
+          "code": "009970",
+          "rate": 6.61,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

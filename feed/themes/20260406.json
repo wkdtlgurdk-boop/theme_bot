@@ -1,0 +1,207 @@
+{
+  "date": "20260406",
+  "label": "4/6",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 14.7,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 7.83,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "비철금속",
+      "stocks": [
+        {
+          "name": "풍산홀딩스",
+          "code": "005810",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "남선알미늄",
+          "code": "008350",
+          "rate": 18.01,
+          "amount": null
+        },
+        {
+          "name": "알루코",
+          "code": "001780",
+          "rate": 13.93,
+          "amount": null
+        },
+        {
+          "name": "풍산",
+          "code": "103140",
+          "rate": 12.91,
+          "amount": null
+        },
+        {
+          "name": "조일알미늄",
+          "code": "018470",
+          "rate": 12.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "이노인스트루먼트",
+          "code": "215790",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "광전자",
+          "code": "017900",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "기가레인",
+          "code": "049080",
+          "rate": 16.87,
+          "amount": null
+        },
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 14.55,
+          "amount": null
+        },
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 6.67,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 4.06,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력설비",
+      "stocks": [
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 7.04,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 5.59,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 3.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 13.57,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 12.16,
+          "amount": null
+        },
+        {
+          "name": "선익시스템",
+          "code": "171090",
+          "rate": 9.53,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 4.85,
+          "amount": null
+        },
+        {
+          "name": "OCI",
+          "code": "456040",
+          "rate": 4.81,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 4.47,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "rate": 20.25,
+          "amount": null
+        },
+        {
+          "name": "에이블씨엔씨",
+          "code": "078520",
+          "rate": 15.56,
+          "amount": null
+        },
+        {
+          "name": "아모레퍼시픽홀딩스",
+          "code": "002790",
+          "rate": 14.78,
+          "amount": null
+        },
+        {
+          "name": "브이티",
+          "code": "018290",
+          "rate": 11.08,
+          "amount": null
+        },
+        {
+          "name": "제닉",
+          "code": "123330",
+          "rate": 10.06,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

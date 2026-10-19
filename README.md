@@ -30,6 +30,12 @@ feed/supply/latest.json         위와 같은 내용, 봇이 읽는 자리
 날짜별 파일은 '그날 무엇을 보고 골랐나'의 기록이고, `latest.json` 이 봇이
 실제로 읽는 자리다.
 
+**2026-09-15 앞의 날짜별 파일(2025-06-05 ~ 2026-09-14, 275일)은 나중에 메운 것이다**
+(`"source": "sheet-backfill"`). 그날 봇이 본 것이 아니라 Daily 시트를 2026-10-19 에
+덤프해 만든 것이고(`naver-sheets-autofill/analysis/backfill_theme_feed.py`), 거래대금
+(`amount`)은 비어 있다. 아침 봇의 '테마 재부각' 규칙이 최근 60거래일 편입 횟수를
+세느라 필요하다. 이미 있던 날은 건드리지 않았다.
+
 ## 이 리포가 public 인 이유
 
 스레드(Threads) API 는 이미지 업로드를 받지 않는다. 공개된 URL 을 주면 메타

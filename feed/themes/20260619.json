@@ -1,0 +1,43 @@
+{
+  "date": "20260619",
+  "label": "6/19",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "한울반도체",
+          "code": "320000",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "지아이에스",
+          "code": "306620",
+          "rate": 17.51,
+          "amount": null
+        },
+        {
+          "name": "아바텍",
+          "code": "149950",
+          "rate": 6.79,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 6.32,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

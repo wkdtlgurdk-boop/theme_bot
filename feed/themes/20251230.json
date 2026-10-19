@@ -1,0 +1,175 @@
+{
+  "date": "20251230",
+  "label": "12/30",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "제이엔비",
+          "code": "452160",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "엘케이켐",
+          "code": "489500",
+          "rate": 21.4,
+          "amount": null
+        },
+        {
+          "name": "제주반도체",
+          "code": "080220",
+          "rate": 17.9,
+          "amount": null
+        },
+        {
+          "name": "저스템",
+          "code": "417840",
+          "rate": 11.3,
+          "amount": null
+        },
+        {
+          "name": "아이언디바이스",
+          "code": "464500",
+          "rate": 11.07,
+          "amount": null
+        },
+        {
+          "name": "네오셈",
+          "code": "253590",
+          "rate": 9.49,
+          "amount": null
+        },
+        {
+          "name": "텔레칩스",
+          "code": "054450",
+          "rate": 7.61,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "상지건설",
+          "code": "042940",
+          "rate": 19.28,
+          "amount": null
+        },
+        {
+          "name": "동신건설",
+          "code": "025950",
+          "rate": 13.79,
+          "amount": null
+        },
+        {
+          "name": "일성건설",
+          "code": "013360",
+          "rate": 11.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "엔터",
+      "stocks": [
+        {
+          "name": "와이지엔터테인먼트",
+          "code": "122870",
+          "rate": 7.26,
+          "amount": null
+        },
+        {
+          "name": "노머스",
+          "code": "473980",
+          "rate": 6.87,
+          "amount": null
+        },
+        {
+          "name": "에스엠",
+          "code": "041510",
+          "rate": 5.47,
+          "amount": null
+        },
+        {
+          "name": "NEW",
+          "code": "160550",
+          "rate": 5.18,
+          "amount": null
+        },
+        {
+          "name": "YG PLUS",
+          "code": "037270",
+          "rate": 4.15,
+          "amount": null
+        },
+        {
+          "name": "하이브",
+          "code": "352820",
+          "rate": 3.13,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇/자율주행",
+      "stocks": [
+        {
+          "name": "4.45%",
+          "code": "",
+          "rate": 139019.0,
+          "amount": null
+        },
+        {
+          "name": "원익",
+          "code": "032940",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "율촌",
+          "code": "146060",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "삼보모터스",
+          "code": "053700",
+          "rate": 22.99,
+          "amount": null
+        },
+        {
+          "name": "더블유에스아이",
+          "code": "299170",
+          "rate": 16.24,
+          "amount": null
+        },
+        {
+          "name": "리브스메드",
+          "code": "491000",
+          "rate": 11.78,
+          "amount": null
+        },
+        {
+          "name": "메디아나",
+          "code": "041920",
+          "rate": 11.69,
+          "amount": null
+        },
+        {
+          "name": "HL만도",
+          "code": "204320",
+          "rate": 4.45,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "4.45%"
+  ]
+}

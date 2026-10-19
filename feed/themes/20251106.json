@@ -1,0 +1,216 @@
+{
+  "date": "20251106",
+  "label": "11/6",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "케이쓰리아이",
+          "code": "431190",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "고영",
+          "code": "098460",
+          "rate": 23.46,
+          "amount": null
+        },
+        {
+          "name": "모델솔루션",
+          "code": "417970",
+          "rate": 16.17,
+          "amount": null
+        },
+        {
+          "name": "큐렉소",
+          "code": "060280",
+          "rate": 8.86,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "유투바이오",
+          "code": "",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "킵스파마",
+          "code": "256940",
+          "rate": 19.15,
+          "amount": null
+        },
+        {
+          "name": "툴젠",
+          "code": "199800",
+          "rate": 17.96,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 7.75,
+          "amount": null
+        },
+        {
+          "name": "한올바이오파마",
+          "code": "009420",
+          "rate": 6.64,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "덕산하이메탈",
+          "code": "077360",
+          "rate": 12.89,
+          "amount": null
+        },
+        {
+          "name": "코세스",
+          "code": "089890",
+          "rate": 12.41,
+          "amount": null
+        },
+        {
+          "name": "티에스이",
+          "code": "131290",
+          "rate": 10.95,
+          "amount": null
+        },
+        {
+          "name": "피에스케이",
+          "code": "319660",
+          "rate": 8.4,
+          "amount": null
+        },
+        {
+          "name": "ISC",
+          "code": "095340",
+          "rate": 8.11,
+          "amount": null
+        },
+        {
+          "name": "케이씨텍",
+          "code": "281820",
+          "rate": 6.21,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 6.07,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "보험/은행",
+      "stocks": [
+        {
+          "name": "한화손해보험",
+          "code": "000370",
+          "rate": 13.88,
+          "amount": null
+        },
+        {
+          "name": "DB손해보험",
+          "code": "005830",
+          "rate": 8.34,
+          "amount": null
+        },
+        {
+          "name": "하나금융지주",
+          "code": "086790",
+          "rate": 7.02,
+          "amount": null
+        },
+        {
+          "name": "현대해상",
+          "code": "001450",
+          "rate": 6.57,
+          "amount": null
+        },
+        {
+          "name": "삼성화재",
+          "code": "000810",
+          "rate": 5.22,
+          "amount": null
+        },
+        {
+          "name": "신한지주",
+          "code": "055550",
+          "rate": 5.18,
+          "amount": null
+        },
+        {
+          "name": "JB금융지주",
+          "code": "175330",
+          "rate": 5.09,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주",
+      "stocks": [
+        {
+          "name": "영원무역홀딩스",
+          "code": "009970",
+          "rate": 14.86,
+          "amount": null
+        },
+        {
+          "name": "LG",
+          "code": "003550",
+          "rate": 8.53,
+          "amount": null
+        },
+        {
+          "name": "롯데지주",
+          "code": "004990",
+          "rate": 8.29,
+          "amount": null
+        },
+        {
+          "name": "코오롱",
+          "code": "002020",
+          "rate": 7.78,
+          "amount": null
+        },
+        {
+          "name": "하나금융지주",
+          "code": "086790",
+          "rate": 7.02,
+          "amount": null
+        },
+        {
+          "name": "SK",
+          "code": "034730",
+          "rate": 6.95,
+          "amount": null
+        },
+        {
+          "name": "HD현대",
+          "code": "267250",
+          "rate": 6.65,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "유투바이오"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "date": "20260527",
+  "label": "5/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "SI",
+      "stocks": [
+        {
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "rate": 29.78,
+          "amount": null
+        },
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 19.91,
+          "amount": null
+        },
+        {
+          "name": "LG씨엔에스",
+          "code": "064400",
+          "rate": 14.11,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "한올바이오파마",
+          "code": "009420",
+          "rate": 19.63,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 13.28,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 7.0,
+          "amount": null
+        },
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 6.28,
+          "amount": null
+        },
+        {
+          "name": "녹십자",
+          "code": "006280",
+          "rate": 4.89,
+          "amount": null
+        },
+        {
+          "name": "한미약품",
+          "code": "128940",
+          "rate": 4.26,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 9.31,
+          "amount": null
+        },
+        {
+          "name": "SK스퀘어",
+          "code": "402340",
+          "rate": 8.04,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 2.68,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,158 @@
+{
+  "date": "20250723",
+  "label": "7/23",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "자동차",
+      "stocks": [
+        {
+          "name": "기아",
+          "code": "000270",
+          "rate": 8.49,
+          "amount": null
+        },
+        {
+          "name": "HL만도",
+          "code": "204320",
+          "rate": 7.57,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 7.51,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "LNG",
+      "stocks": [
+        {
+          "name": "하이스틸",
+          "code": "071090",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "넥스틸",
+          "code": "092790",
+          "rate": 13.06,
+          "amount": null
+        },
+        {
+          "name": "동양철관",
+          "code": "",
+          "rate": 12.45,
+          "amount": null
+        },
+        {
+          "name": "세아제강",
+          "code": "306200",
+          "rate": 10.91,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설기계",
+      "stocks": [
+        {
+          "name": "HD현대인프라코어",
+          "code": "",
+          "rate": 18.76,
+          "amount": null
+        },
+        {
+          "name": "HD현대건설기계",
+          "code": "",
+          "rate": 13.35,
+          "amount": null
+        },
+        {
+          "name": "두산밥캣",
+          "code": "241560",
+          "rate": 4.2,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "삼천당제약",
+          "code": "000250",
+          "rate": 29.71,
+          "amount": null
+        },
+        {
+          "name": "현대약품",
+          "code": "004310",
+          "rate": 6.02,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 5.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자동차부품",
+      "stocks": [
+        {
+          "name": "에스엘",
+          "code": "005850",
+          "rate": 12.8,
+          "amount": null
+        },
+        {
+          "name": "모티브링크",
+          "code": "463480",
+          "rate": 10.66,
+          "amount": null
+        },
+        {
+          "name": "한중시엔에스",
+          "code": "",
+          "rate": 10.28,
+          "amount": null
+        },
+        {
+          "name": "화신",
+          "code": "010690",
+          "rate": 9.31,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "미용기기",
+      "stocks": [
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 8.72,
+          "amount": null
+        },
+        {
+          "name": "휴메딕스",
+          "code": "200670",
+          "rate": 3.84,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HD현대건설기계",
+    "HD현대인프라코어",
+    "동양철관",
+    "한중시엔에스"
+  ]
+}

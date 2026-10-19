@@ -1,0 +1,96 @@
+{
+  "date": "20260423",
+  "label": "4/23",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 26.4,
+          "amount": null
+        },
+        {
+          "name": "보성파워텍",
+          "code": "006910",
+          "rate": 18.34,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 15.83,
+          "amount": null
+        },
+        {
+          "name": "피앤씨테크",
+          "code": "237750",
+          "rate": 12.34,
+          "amount": null
+        },
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 12.3,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 11.74,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 7.43,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 3.22,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "서전기전",
+          "code": "189860",
+          "rate": 18.57,
+          "amount": null
+        },
+        {
+          "name": "보성파워텍",
+          "code": "006910",
+          "rate": 18.34,
+          "amount": null
+        },
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 13.42,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 12.77,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

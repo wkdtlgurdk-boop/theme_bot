@@ -1,0 +1,176 @@
+{
+  "date": "20250904",
+  "label": "9/4",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "호텔/면세/유통",
+      "stocks": [
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 12.4,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 11.52,
+          "amount": null
+        },
+        {
+          "name": "현대백화점",
+          "code": "069960",
+          "rate": 6.45,
+          "amount": null
+        },
+        {
+          "name": "호텔신라",
+          "code": "008770",
+          "rate": 4.47,
+          "amount": null
+        },
+        {
+          "name": "신세계",
+          "code": "004170",
+          "rate": 4.44,
+          "amount": null
+        },
+        {
+          "name": "이마트",
+          "code": "139480",
+          "rate": 4.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "삼영엠텍",
+          "code": "054540",
+          "rate": 26.63,
+          "amount": null
+        },
+        {
+          "name": "케이에스피",
+          "code": "073010",
+          "rate": 21.77,
+          "amount": null
+        },
+        {
+          "name": "에스앤더블류",
+          "code": "103230",
+          "rate": 17.14,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 13.18,
+          "amount": null
+        },
+        {
+          "name": "오리엔탈정공",
+          "code": "014940",
+          "rate": 11.99,
+          "amount": null
+        },
+        {
+          "name": "케이프",
+          "code": "064820",
+          "rate": 6.52,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "메드팩토",
+          "code": "235980",
+          "rate": 18.57,
+          "amount": null
+        },
+        {
+          "name": "엠투엔",
+          "code": "033310",
+          "rate": 16.08,
+          "amount": null
+        },
+        {
+          "name": "신라젠",
+          "code": "215600",
+          "rate": 16.01,
+          "amount": null
+        },
+        {
+          "name": "퓨처켐",
+          "code": "",
+          "rate": 13.18,
+          "amount": null
+        },
+        {
+          "name": "온코닉테라퓨틱스",
+          "code": "",
+          "rate": 11.9,
+          "amount": null
+        },
+        {
+          "name": "헬릭스미스",
+          "code": "084990",
+          "rate": 11.64,
+          "amount": null
+        },
+        {
+          "name": "코오롱티슈진",
+          "code": "950160",
+          "rate": 7.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "ISC",
+          "code": "095340",
+          "rate": 9.7,
+          "amount": null
+        },
+        {
+          "name": "디아이",
+          "code": "003160",
+          "rate": 8.6,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 8.26,
+          "amount": null
+        },
+        {
+          "name": "유니셈",
+          "code": "036200",
+          "rate": 8.2,
+          "amount": null
+        },
+        {
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "rate": 7.1,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "온코닉테라퓨틱스",
+    "퓨처켐"
+  ]
+}

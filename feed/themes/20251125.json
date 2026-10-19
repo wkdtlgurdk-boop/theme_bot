@@ -1,0 +1,67 @@
+{
+  "date": "20251125",
+  "label": "11/25",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "노타",
+          "code": "486990",
+          "rate": 17.48,
+          "amount": null
+        },
+        {
+          "name": "에이팩트",
+          "code": "200470",
+          "rate": 15.56,
+          "amount": null
+        },
+        {
+          "name": "시그네틱스",
+          "code": "033170",
+          "rate": 13.31,
+          "amount": null
+        },
+        {
+          "name": "리노공업",
+          "code": "058470",
+          "rate": 11.88,
+          "amount": null
+        },
+        {
+          "name": "에이직랜드",
+          "code": "445090",
+          "rate": 11.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "삼양바이오팜",
+          "code": "0120G0",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "삼익제약",
+          "code": "014950",
+          "rate": 10.47,
+          "amount": null
+        },
+        {
+          "name": "로킷헬스케어",
+          "code": "376900",
+          "rate": 10.37,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

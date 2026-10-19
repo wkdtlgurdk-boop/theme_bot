@@ -1,0 +1,134 @@
+{
+  "date": "20260202",
+  "label": "2/2",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오/의료AI",
+      "stocks": [
+        {
+          "name": "뉴로핏",
+          "code": "380550",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "비엘팜텍",
+          "code": "065170",
+          "rate": 29.84,
+          "amount": null
+        },
+        {
+          "name": "엔젠바이오",
+          "code": "354200",
+          "rate": 29.8,
+          "amount": null
+        },
+        {
+          "name": "쿼드메디슨",
+          "code": "",
+          "rate": 11.28,
+          "amount": null
+        },
+        {
+          "name": "한스바이오메드",
+          "code": "042520",
+          "rate": 6.71,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 4.63,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "루미르",
+          "code": "474170",
+          "rate": 11.14,
+          "amount": null
+        },
+        {
+          "name": "이녹스첨단소재",
+          "code": "272290",
+          "rate": 8.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "부동산 보유 자산주",
+      "stocks": [
+        {
+          "name": "삼표시멘트",
+          "code": "038500",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "대성산업",
+          "code": "128820",
+          "rate": 13.61,
+          "amount": null
+        },
+        {
+          "name": "신도리코",
+          "code": "029530",
+          "rate": 13.56,
+          "amount": null
+        },
+        {
+          "name": "동양고속",
+          "code": "084670",
+          "rate": 11.13,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "정치테마주",
+      "stocks": [
+        {
+          "name": "삼표시멘트",
+          "code": "038500",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "바이오스마트",
+          "code": "038460",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "육일씨엔에쓰",
+          "code": "191410",
+          "rate": 20.51,
+          "amount": null
+        },
+        {
+          "name": "대주산업",
+          "code": "003310",
+          "rate": 17.39,
+          "amount": null
+        },
+        {
+          "name": "하이딥",
+          "code": "",
+          "rate": 10.36,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "쿼드메디슨",
+    "하이딥"
+  ]
+}

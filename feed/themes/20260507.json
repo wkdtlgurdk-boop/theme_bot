@@ -1,0 +1,151 @@
+{
+  "date": "20260507",
+  "label": "5/7",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "희림",
+          "code": "037440",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "삼성E$A",
+          "code": "",
+          "rate": 21.51,
+          "amount": null
+        },
+        {
+          "name": "상지건설",
+          "code": "042940",
+          "rate": 11.23,
+          "amount": null
+        },
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 9.31,
+          "amount": null
+        },
+        {
+          "name": "삼성물산",
+          "code": "028260",
+          "rate": 7.86,
+          "amount": null
+        },
+        {
+          "name": "DL이앤씨",
+          "code": "375500",
+          "rate": 6.98,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 19.32,
+          "amount": null
+        },
+        {
+          "name": "머큐리",
+          "code": "100590",
+          "rate": 11.49,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 6.7,
+          "amount": null
+        },
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 6.55,
+          "amount": null
+        },
+        {
+          "name": "우리넷",
+          "code": "115440",
+          "rate": 5.38,
+          "amount": null
+        },
+        {
+          "name": "RFHIC",
+          "code": "218410",
+          "rate": 4.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "피지컬 AI",
+      "stocks": [
+        {
+          "name": "이랜시스",
+          "code": "264850",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "마음AI",
+          "code": "377480",
+          "rate": 13.61,
+          "amount": null
+        },
+        {
+          "name": "나우로보틱스",
+          "code": "459510",
+          "rate": 8.66,
+          "amount": null
+        },
+        {
+          "name": "아진엑스텍",
+          "code": "059120",
+          "rate": 7.72,
+          "amount": null
+        },
+        {
+          "name": "현대글로비스",
+          "code": "086280",
+          "rate": 4.77,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 6.94,
+          "amount": null
+        },
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 5.81,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 3.31,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "삼성E$A"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "20260914",
+  "label": "9/14",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "보안·양자암호",
+      "stocks": [
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "샌즈랩",
+          "code": "411080",
+          "rate": 23.77,
+          "amount": null
+        },
+        {
+          "name": "라온시큐어",
+          "code": "042510",
+          "rate": 18.87,
+          "amount": null
+        },
+        {
+          "name": "지니언스",
+          "code": "263860",
+          "rate": 13.81,
+          "amount": null
+        },
+        {
+          "name": "코나아이",
+          "code": "052400",
+          "rate": 8.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "빛샘전자",
+          "code": "072950",
+          "rate": 26.0,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 16.45,
+          "amount": null
+        },
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 11.89,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "웹툰",
+      "stocks": [
+        {
+          "name": "디앤씨미디어",
+          "code": "263720",
+          "rate": 28.75,
+          "amount": null
+        },
+        {
+          "name": "탑코미디어",
+          "code": "134580",
+          "rate": 15.6,
+          "amount": null
+        },
+        {
+          "name": "키다리스튜디오",
+          "code": "020120",
+          "rate": 11.11,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

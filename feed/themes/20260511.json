@@ -1,0 +1,201 @@
+{
+  "date": "20260511",
+  "label": "5/11",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 17.93,
+          "amount": null
+        },
+        {
+          "name": "펨트론",
+          "code": "168360",
+          "rate": 16.36,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 13.24,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 11.51,
+          "amount": null
+        },
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 11.06,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 6.33,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 25.06,
+          "amount": null
+        },
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 16.73,
+          "amount": null
+        },
+        {
+          "name": "머큐리",
+          "code": "100590",
+          "rate": 16.17,
+          "amount": null
+        },
+        {
+          "name": "라이콤",
+          "code": "388790",
+          "rate": 10.9,
+          "amount": null
+        },
+        {
+          "name": "성호전자",
+          "code": "043260",
+          "rate": 9.94,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자동차",
+      "stocks": [
+        {
+          "name": "한온시스템",
+          "code": "018880",
+          "rate": 20.13,
+          "amount": null
+        },
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 8.64,
+          "amount": null
+        },
+        {
+          "name": "기아",
+          "code": "000270",
+          "rate": 6.2,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 5.38,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "에스비비테크",
+          "code": "389500",
+          "rate": 25.7,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 12.86,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 10.33,
+          "amount": null
+        },
+        {
+          "name": "이랜시스",
+          "code": "264850",
+          "rate": 8.32,
+          "amount": null
+        },
+        {
+          "name": "우림피티에스",
+          "code": "101170",
+          "rate": 7.42,
+          "amount": null
+        },
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 6.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "액침냉각",
+      "stocks": [
+        {
+          "name": "오텍",
+          "code": "067170",
+          "rate": 13.51,
+          "amount": null
+        },
+        {
+          "name": "3S",
+          "code": "060310",
+          "rate": 13.35,
+          "amount": null
+        },
+        {
+          "name": "GST",
+          "code": "083450",
+          "rate": 11.07,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 6.26,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 4.87,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 4.1,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

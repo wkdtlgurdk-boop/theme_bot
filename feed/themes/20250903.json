@@ -1,0 +1,179 @@
+{
+  "date": "20250903",
+  "label": "9/3",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 19.21,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 2.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "폴더블폰/아이폰",
+      "stocks": [
+        {
+          "name": "파인엠텍",
+          "code": "441270",
+          "rate": 16.32,
+          "amount": null
+        },
+        {
+          "name": "KH바텍",
+          "code": "060720",
+          "rate": 7.45,
+          "amount": null
+        },
+        {
+          "name": "코오롱인더",
+          "code": "120110",
+          "rate": 5.42,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 부품",
+      "stocks": [
+        {
+          "name": "에프에스티",
+          "code": "036810",
+          "rate": 17.52,
+          "amount": null
+        },
+        {
+          "name": "파두",
+          "code": "440110",
+          "rate": 11.0,
+          "amount": null
+        },
+        {
+          "name": "가온칩스",
+          "code": "399720",
+          "rate": 6.2,
+          "amount": null
+        },
+        {
+          "name": "이엔에프테크놀로지",
+          "code": "102710",
+          "rate": 4.05,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의료AI",
+      "stocks": [
+        {
+          "name": "토마토시스템",
+          "code": "393210",
+          "rate": 19.83,
+          "amount": null
+        },
+        {
+          "name": "쓰리빌리언",
+          "code": "394800",
+          "rate": 5.58,
+          "amount": null
+        },
+        {
+          "name": "온코크로스",
+          "code": "382150",
+          "rate": 4.93,
+          "amount": null
+        },
+        {
+          "name": "씨어스테크놀로지",
+          "code": "",
+          "rate": 3.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "지아이이노베이션",
+          "code": "358570",
+          "rate": 14.86,
+          "amount": null
+        },
+        {
+          "name": "보로노이",
+          "code": "310210",
+          "rate": 10.3,
+          "amount": null
+        },
+        {
+          "name": "프레스티지바이오파마",
+          "code": "950210",
+          "rate": 9.92,
+          "amount": null
+        },
+        {
+          "name": "대웅제약",
+          "code": "069620",
+          "rate": 5.03,
+          "amount": null
+        },
+        {
+          "name": "SK바이오팜",
+          "code": "326030",
+          "rate": 4.79,
+          "amount": null
+        },
+        {
+          "name": "SK바이오사이언스",
+          "code": "302440",
+          "rate": 4.69,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 4.19,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "호텔/여행",
+      "stocks": [
+        {
+          "name": "파라다이스",
+          "code": "034230",
+          "rate": 8.4,
+          "amount": null
+        },
+        {
+          "name": "GKL",
+          "code": "114090",
+          "rate": 6.0,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 5.6,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨어스테크놀로지"
+  ]
+}

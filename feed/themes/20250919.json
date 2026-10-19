@@ -1,0 +1,208 @@
+{
+  "date": "20250919",
+  "label": "9/19",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 21.6,
+          "amount": null
+        },
+        {
+          "name": "뱅크웨어글로벌",
+          "code": "199480",
+          "rate": 15.97,
+          "amount": null
+        },
+        {
+          "name": "NHN KCP",
+          "code": "060250",
+          "rate": 14.82,
+          "amount": null
+        },
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 12.5,
+          "amount": null
+        },
+        {
+          "name": "한컴위드",
+          "code": "054920",
+          "rate": 10.65,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 5.26,
+          "amount": null
+        },
+        {
+          "name": "카페24",
+          "code": "042000",
+          "rate": 5.16,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오(비만치료제)",
+      "stocks": [
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 18.46,
+          "amount": null
+        },
+        {
+          "name": "지투지바이오",
+          "code": "456160",
+          "rate": 9.86,
+          "amount": null
+        },
+        {
+          "name": "블루엠텍",
+          "code": "439580",
+          "rate": 8.78,
+          "amount": null
+        },
+        {
+          "name": "한미약품",
+          "code": "128940",
+          "rate": 8.42,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 7.98,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 7.9,
+          "amount": null
+        },
+        {
+          "name": "인벤티지랩",
+          "code": "389470",
+          "rate": 6.87,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "SFA반도체",
+          "code": "036540",
+          "rate": 9.08,
+          "amount": null
+        },
+        {
+          "name": "HPSP",
+          "code": "403870",
+          "rate": 8.33,
+          "amount": null
+        },
+        {
+          "name": "피에스케이",
+          "code": "319660",
+          "rate": 6.51,
+          "amount": null
+        },
+        {
+          "name": "브이엠",
+          "code": "089970",
+          "rate": 6.28,
+          "amount": null
+        },
+        {
+          "name": "에이팩트",
+          "code": "200470",
+          "rate": 6.08,
+          "amount": null
+        },
+        {
+          "name": "파크시스템스",
+          "code": "140860",
+          "rate": 5.01,
+          "amount": null
+        },
+        {
+          "name": "인텍플러스",
+          "code": "064290",
+          "rate": 4.77,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "로보스타",
+          "code": "090360",
+          "rate": 9.77,
+          "amount": null
+        },
+        {
+          "name": "에스피시스템스",
+          "code": "317830",
+          "rate": 7.53,
+          "amount": null
+        },
+        {
+          "name": "케이알엠",
+          "code": "093640",
+          "rate": 6.85,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 5.84,
+          "amount": null
+        },
+        {
+          "name": "인탑스",
+          "code": "049070",
+          "rate": 5.24,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 4.73,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "현대로템",
+          "code": "064350",
+          "rate": 9.0,
+          "amount": null
+        },
+        {
+          "name": "SNT다이내믹스",
+          "code": "003570",
+          "rate": 7.7,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

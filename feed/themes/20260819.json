@@ -1,0 +1,57 @@
+{
+  "date": "20260819",
+  "label": "8/19",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "인디에프",
+          "code": "014990",
+          "rate": 29.85,
+          "amount": null
+        },
+        {
+          "name": "좋은사람들",
+          "code": "",
+          "rate": 29.84,
+          "amount": null
+        },
+        {
+          "name": "아난티",
+          "code": "025980",
+          "rate": 18.89,
+          "amount": null
+        },
+        {
+          "name": "조비",
+          "code": "001550",
+          "rate": 17.74,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "한켐",
+          "code": "457370",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "코칩",
+          "code": "126730",
+          "rate": 8.95,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "좋은사람들"
+  ]
+}

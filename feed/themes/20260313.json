@@ -1,0 +1,163 @@
+{
+  "date": "20260313",
+  "label": "3/13",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "폴라리스AI파마",
+          "code": "041910",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "에이비프로바이오",
+          "code": "",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "프롬바이오",
+          "code": "377220",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "에스티큐브",
+          "code": "052020",
+          "rate": 24.48,
+          "amount": null
+        },
+        {
+          "name": "오스코텍",
+          "code": "039200",
+          "rate": 16.75,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 15.38,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 17.78,
+          "amount": null
+        },
+        {
+          "name": "우리기술",
+          "code": "032820",
+          "rate": 11.64,
+          "amount": null
+        },
+        {
+          "name": "한텍",
+          "code": "098070",
+          "rate": 6.94,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 6.41,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 5.59,
+          "amount": null
+        },
+        {
+          "name": "우진",
+          "code": "105840",
+          "rate": 4.44,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "stocks": [
+        {
+          "name": "폴라리스오피스",
+          "code": "041020",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "SKAI",
+          "code": "357880",
+          "rate": 29.38,
+          "amount": null
+        },
+        {
+          "name": "와이즈넛",
+          "code": "096250",
+          "rate": 27.18,
+          "amount": null
+        },
+        {
+          "name": "폴라리스AI",
+          "code": "039980",
+          "rate": 16.52,
+          "amount": null
+        },
+        {
+          "name": "솔트룩스",
+          "code": "304100",
+          "rate": 16.24,
+          "amount": null
+        },
+        {
+          "name": "셀바스AI",
+          "code": "108860",
+          "rate": 7.11,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "SOFC",
+      "stocks": [
+        {
+          "name": "LS머트리얼즈",
+          "code": "417200",
+          "rate": 22.13,
+          "amount": null
+        },
+        {
+          "name": "한선엔지니어링",
+          "code": "452280",
+          "rate": 16.51,
+          "amount": null
+        },
+        {
+          "name": "코세스",
+          "code": "089890",
+          "rate": 13.14,
+          "amount": null
+        },
+        {
+          "name": "범한퓨얼셀",
+          "code": "382900",
+          "rate": 11.41,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "에이비프로바이오"
+  ]
+}

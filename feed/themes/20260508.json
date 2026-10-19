@@ -1,0 +1,140 @@
+{
+  "date": "20260508",
+  "label": "5/8",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 12.79,
+          "amount": null
+        },
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 7.65,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 7.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 15.29,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 13.72,
+          "amount": null
+        },
+        {
+          "name": "MDS테크",
+          "code": "086960",
+          "rate": 13.26,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 12.48,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 12.0,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 10.76,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "미용기기",
+      "stocks": [
+        {
+          "name": "원텍",
+          "code": "336570",
+          "rate": 19.06,
+          "amount": null
+        },
+        {
+          "name": "휴젤",
+          "code": "145020",
+          "rate": 12.33,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 8.09,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "진단키트",
+      "stocks": [
+        {
+          "name": "오텍",
+          "code": "067170",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "진원생명과학",
+          "code": "",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "수젠텍",
+          "code": "253840",
+          "rate": 13.02,
+          "amount": null
+        },
+        {
+          "name": "랩지노믹스",
+          "code": "",
+          "rate": 7.02,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "랩지노믹스",
+    "진원생명과학"
+  ]
+}

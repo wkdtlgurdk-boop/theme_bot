@@ -1,0 +1,244 @@
+{
+  "date": "20260320",
+  "label": "3/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "DL이앤씨",
+          "code": "375500",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 22.54,
+          "amount": null
+        },
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 18.18,
+          "amount": null
+        },
+        {
+          "name": "HDC현대산업개발",
+          "code": "",
+          "rate": 11.83,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "풍력",
+      "stocks": [
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 26.49,
+          "amount": null
+        },
+        {
+          "name": "유니슨",
+          "code": "018000",
+          "rate": 20.75,
+          "amount": null
+        },
+        {
+          "name": "코오롱글로벌",
+          "code": "003070",
+          "rate": 14.11,
+          "amount": null
+        },
+        {
+          "name": "세아제강지주",
+          "code": "003030",
+          "rate": 13.69,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 12.8,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 11.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선 기자재",
+      "stocks": [
+        {
+          "name": "태광",
+          "code": "023160",
+          "rate": 23.53,
+          "amount": null
+        },
+        {
+          "name": "성광벤드",
+          "code": "014620",
+          "rate": 17.17,
+          "amount": null
+        },
+        {
+          "name": "하이록코리아",
+          "code": "013030",
+          "rate": 7.65,
+          "amount": null
+        },
+        {
+          "name": "비엠티",
+          "code": "086670",
+          "rate": 7.61,
+          "amount": null
+        },
+        {
+          "name": "한국선재",
+          "code": "025550",
+          "rate": 5.26,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "뉴로모픽 반도체",
+      "stocks": [
+        {
+          "name": "네패스아크",
+          "code": "330860",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "네패스",
+          "code": "033640",
+          "rate": 17.07,
+          "amount": null
+        },
+        {
+          "name": "오픈엣지테크놀로지",
+          "code": "394280",
+          "rate": 5.89,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원전",
+      "stocks": [
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 24.77,
+          "amount": null
+        },
+        {
+          "name": "우진",
+          "code": "105840",
+          "rate": 19.31,
+          "amount": null
+        },
+        {
+          "name": "한전KPS",
+          "code": "051600",
+          "rate": 9.93,
+          "amount": null
+        },
+        {
+          "name": "한텍",
+          "code": "098070",
+          "rate": 7.4,
+          "amount": null
+        },
+        {
+          "name": "비츠로테크",
+          "code": "042370",
+          "rate": 7.35,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "통신장비주",
+      "stocks": [
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 22.15,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 20.53,
+          "amount": null
+        },
+        {
+          "name": "다산네트웍스",
+          "code": "039560",
+          "rate": 15.38,
+          "amount": null
+        },
+        {
+          "name": "케이엠더블유",
+          "code": "032500",
+          "rate": 12.84,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "SK증권",
+          "code": "001510",
+          "rate": 18.58,
+          "amount": null
+        },
+        {
+          "name": "상상인증권",
+          "code": "001290",
+          "rate": 11.88,
+          "amount": null
+        },
+        {
+          "name": "한화투자증권",
+          "code": "003530",
+          "rate": 7.32,
+          "amount": null
+        },
+        {
+          "name": "NH투자증권",
+          "code": "005940",
+          "rate": 6.59,
+          "amount": null
+        },
+        {
+          "name": "유진투자증권",
+          "code": "001200",
+          "rate": 5.43,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HDC현대산업개발"
+  ]
+}

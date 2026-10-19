@@ -1,0 +1,118 @@
+{
+  "date": "20260213",
+  "label": "2/13",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "sk증권",
+          "code": "",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "ls증권",
+          "code": "",
+          "rate": 21.18,
+          "amount": null
+        },
+        {
+          "name": "신영증권",
+          "code": "001720",
+          "rate": 17.21,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 15.36,
+          "amount": null
+        },
+        {
+          "name": "대신증권",
+          "code": "003540",
+          "rate": 14.68,
+          "amount": null
+        },
+        {
+          "name": "한화투자증권",
+          "code": "003530",
+          "rate": 13.23,
+          "amount": null
+        },
+        {
+          "name": "db증권",
+          "code": "",
+          "rate": 11.63,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북관련주",
+      "stocks": [
+        {
+          "name": "코데즈컴바인",
+          "code": "047770",
+          "rate": 10.01,
+          "amount": null
+        },
+        {
+          "name": "좋은사람들",
+          "code": "",
+          "rate": 9.07,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원전",
+      "stocks": [
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 15.0,
+          "amount": null
+        },
+        {
+          "name": "한전산업",
+          "code": "130660",
+          "rate": 6.2,
+          "amount": null
+        },
+        {
+          "name": "한신기계",
+          "code": "011700",
+          "rate": 5.94,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "정치테마주(정원오)",
+      "stocks": [
+        {
+          "name": "에스제이그룹",
+          "code": "306040",
+          "rate": 14.4,
+          "amount": null
+        },
+        {
+          "name": "피에스텍",
+          "code": "002230",
+          "rate": 12.07,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "db증권",
+    "ls증권",
+    "sk증권",
+    "좋은사람들"
+  ]
+}

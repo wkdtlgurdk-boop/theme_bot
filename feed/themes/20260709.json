@@ -1,0 +1,96 @@
+{
+  "date": "20260709",
+  "label": "7/9",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "에이직랜드",
+          "code": "445090",
+          "rate": 23.7,
+          "amount": null
+        },
+        {
+          "name": "네패스아크",
+          "code": "330860",
+          "rate": 12.06,
+          "amount": null
+        },
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 11.5,
+          "amount": null
+        },
+        {
+          "name": "네패스",
+          "code": "033640",
+          "rate": 10.25,
+          "amount": null
+        },
+        {
+          "name": "S-Oil",
+          "code": "010950",
+          "rate": 3.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 7.38,
+          "amount": null
+        },
+        {
+          "name": "성호전자",
+          "code": "043260",
+          "rate": 6.8,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 4.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "소캠",
+      "stocks": [
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 12.72,
+          "amount": null
+        },
+        {
+          "name": "티엘비",
+          "code": "356860",
+          "rate": 8.36,
+          "amount": null
+        },
+        {
+          "name": "코리아써키트",
+          "code": "007810",
+          "rate": 8.18,
+          "amount": null
+        },
+        {
+          "name": "엠케이전자",
+          "code": "033160",
+          "rate": 6.17,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,175 @@
+{
+  "date": "20251204",
+  "label": "12/4",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "현대차",
+      "stocks": [
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 27.19,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 17.73,
+          "amount": null
+        },
+        {
+          "name": "SJG세종",
+          "code": "033530",
+          "rate": 10.19,
+          "amount": null
+        },
+        {
+          "name": "HL홀딩스",
+          "code": "060980",
+          "rate": 8.98,
+          "amount": null
+        },
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 8.76,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 6.38,
+          "amount": null
+        },
+        {
+          "name": "현대위아",
+          "code": "011210",
+          "rate": 5.83,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 17.73,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 16.11,
+          "amount": null
+        },
+        {
+          "name": "스맥",
+          "code": "099440",
+          "rate": 14.29,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 12.72,
+          "amount": null
+        },
+        {
+          "name": "와이투솔루션",
+          "code": "011690",
+          "rate": 11.23,
+          "amount": null
+        },
+        {
+          "name": "SJG세종",
+          "code": "033530",
+          "rate": 10.19,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 6.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "인벤티지랩",
+          "code": "389470",
+          "rate": 24.14,
+          "amount": null
+        },
+        {
+          "name": "바이젠셀",
+          "code": "308080",
+          "rate": 17.8,
+          "amount": null
+        },
+        {
+          "name": "파로스아이바이오",
+          "code": "388870",
+          "rate": 16.31,
+          "amount": null
+        },
+        {
+          "name": "와이바이오로직스",
+          "code": "338840",
+          "rate": 13.97,
+          "amount": null
+        },
+        {
+          "name": "프로티나",
+          "code": "",
+          "rate": 11.08,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 7.81,
+          "amount": null
+        },
+        {
+          "name": "오가노이드사이언스",
+          "code": "476040",
+          "rate": 6.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "상지건설",
+          "code": "042940",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "일성건설",
+          "code": "013360",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "동신건설",
+          "code": "025950",
+          "rate": 29.82,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "프로티나"
+  ]
+}

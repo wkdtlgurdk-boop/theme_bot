@@ -1,0 +1,178 @@
+{
+  "date": "20250722",
+  "label": "7/22",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "현대마린엔진",
+          "code": "",
+          "rate": 8.49,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 8.09,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 6.56,
+          "amount": null
+        },
+        {
+          "name": "현대힘스",
+          "code": "460930",
+          "rate": 5.01,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "상법개정(증권/자사주소각)",
+      "stocks": [
+        {
+          "name": "매커스",
+          "code": "093520",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "부국증권",
+          "code": "001270",
+          "rate": 18.84,
+          "amount": null
+        },
+        {
+          "name": "인포바인",
+          "code": "115310",
+          "rate": 12.46,
+          "amount": null
+        },
+        {
+          "name": "신영증권",
+          "code": "001720",
+          "rate": 6.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "리튬",
+      "stocks": [
+        {
+          "name": "리튬포어스",
+          "code": "073570",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "하이드로리튬",
+          "code": "101670",
+          "rate": 17.12,
+          "amount": null
+        },
+        {
+          "name": "포스코엠텍",
+          "code": "009520",
+          "rate": 7.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "AI(퓨리오사)",
+      "stocks": [
+        {
+          "name": "포바이포",
+          "code": "389140",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "비큐AI",
+          "code": "148780",
+          "rate": 10.02,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "미용기기",
+      "stocks": [
+        {
+          "name": "휴메딕스",
+          "code": "200670",
+          "rate": 26.08,
+          "amount": null
+        },
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 9.93,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 3.31,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "한한령(엔터/호텔/면세)",
+      "stocks": [
+        {
+          "name": "YG PLUS",
+          "code": "037270",
+          "rate": 14.1,
+          "amount": null
+        },
+        {
+          "name": "글로벌텍스프리",
+          "code": "204620",
+          "rate": 8.18,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 3.77,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 3.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "케어젠",
+          "code": "214370",
+          "rate": 14.56,
+          "amount": null
+        },
+        {
+          "name": "바이오니아",
+          "code": "064550",
+          "rate": 8.46,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "현대마린엔진"
+  ]
+}

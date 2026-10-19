@@ -1,0 +1,163 @@
+{
+  "date": "20251209",
+  "label": "12/9",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "대진첨단소재",
+          "code": "",
+          "rate": 16.33,
+          "amount": null
+        },
+        {
+          "name": "이수스페셜티케미컬",
+          "code": "457190",
+          "rate": 14.96,
+          "amount": null
+        },
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 6.57,
+          "amount": null
+        },
+        {
+          "name": "천보",
+          "code": "278280",
+          "rate": 5.59,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 5.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "HD현대마린엔진",
+          "code": "071970",
+          "rate": 9.73,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 6.06,
+          "amount": null
+        },
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 5.45,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 5.1,
+          "amount": null
+        },
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 4.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 6.26,
+          "amount": null
+        },
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 4.44,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 3.89,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "헬스케어",
+      "stocks": [
+        {
+          "name": "삼성에피스홀딩스",
+          "code": "0126Z0",
+          "rate": 11.65,
+          "amount": null
+        },
+        {
+          "name": "지아이이노베이션",
+          "code": "358570",
+          "rate": 10.29,
+          "amount": null
+        },
+        {
+          "name": "삼천당제약",
+          "code": "000250",
+          "rate": 9.38,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 6.64,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 5.66,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "풍력",
+      "stocks": [
+        {
+          "name": "세암기계공업",
+          "code": "",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 9.27,
+          "amount": null
+        },
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 5.14,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "대진첨단소재",
+    "세암기계공업"
+  ]
+}

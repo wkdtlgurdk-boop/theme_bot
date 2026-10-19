@@ -1,0 +1,296 @@
+{
+  "date": "20260427",
+  "label": "4/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전력설비",
+      "stocks": [
+        {
+          "name": "제룡산업",
+          "code": "147830",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "세명전기",
+          "code": "017510",
+          "rate": 17.35,
+          "amount": null
+        },
+        {
+          "name": "티씨머티리얼즈",
+          "code": "125020",
+          "rate": 15.97,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 13.89,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 12.8,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 12.75,
+          "amount": null
+        },
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 10.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "엔진(데이터센터)",
+      "stocks": [
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 16.45,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린솔루션",
+          "code": "443060",
+          "rate": 10.65,
+          "amount": null
+        },
+        {
+          "name": "케이에스피",
+          "code": "073010",
+          "rate": 8.67,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 4.73,
+          "amount": null
+        },
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 4.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 26.4,
+          "amount": null
+        },
+        {
+          "name": "파두",
+          "code": "440110",
+          "rate": 19.38,
+          "amount": null
+        },
+        {
+          "name": "에이엘티",
+          "code": "172670",
+          "rate": 14.71,
+          "amount": null
+        },
+        {
+          "name": "LB세미콘",
+          "code": "061970",
+          "rate": 13.34,
+          "amount": null
+        },
+        {
+          "name": "가온칩스",
+          "code": "399720",
+          "rate": 12.22,
+          "amount": null
+        },
+        {
+          "name": "미래반도체",
+          "code": "254490",
+          "rate": 11.47,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 5.73,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "유리기판",
+      "stocks": [
+        {
+          "name": "태성",
+          "code": "323280",
+          "rate": 17.25,
+          "amount": null
+        },
+        {
+          "name": "씨앤지하이테크",
+          "code": "264660",
+          "rate": 17.06,
+          "amount": null
+        },
+        {
+          "name": "한빛레이저",
+          "code": "452190",
+          "rate": 14.9,
+          "amount": null
+        },
+        {
+          "name": "켐트로닉스",
+          "code": "089010",
+          "rate": 10.74,
+          "amount": null
+        },
+        {
+          "name": "HB테크놀러지",
+          "code": "078150",
+          "rate": 8.71,
+          "amount": null
+        },
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 7.85,
+          "amount": null
+        },
+        {
+          "name": "SKC",
+          "code": "011790",
+          "rate": 7.41,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 19.91,
+          "amount": null
+        },
+        {
+          "name": "우리넷",
+          "code": "115440",
+          "rate": 9.85,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 6.9,
+          "amount": null
+        },
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 6.49,
+          "amount": null
+        },
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 5.57,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "앤로보틱스",
+          "code": "138360",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 18.97,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 12.63,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 11.77,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 10.2,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 9.31,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 9.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "철강",
+      "stocks": [
+        {
+          "name": "포스코스틸리온",
+          "code": "058430",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "동국제강",
+          "code": "460860",
+          "rate": 22.69,
+          "amount": null
+        },
+        {
+          "name": "대한제강",
+          "code": "084010",
+          "rate": 8.89,
+          "amount": null
+        },
+        {
+          "name": "동국씨엠",
+          "code": "460850",
+          "rate": 7.24,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

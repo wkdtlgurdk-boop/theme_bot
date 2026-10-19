@@ -1,0 +1,139 @@
+{
+  "date": "20260522",
+  "label": "5/22",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "아바텍",
+          "code": "149950",
+          "rate": 22.85,
+          "amount": null
+        },
+        {
+          "name": "대주전자재료",
+          "code": "078600",
+          "rate": 18.34,
+          "amount": null
+        },
+        {
+          "name": "아모텍",
+          "code": "052710",
+          "rate": 16.8,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 11.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "디아이씨",
+          "code": "092200",
+          "rate": 23.44,
+          "amount": null
+        },
+        {
+          "name": "메가터치",
+          "code": "446540",
+          "rate": 16.75,
+          "amount": null
+        },
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 12.87,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 10.77,
+          "amount": null
+        },
+        {
+          "name": "더블유씨피",
+          "code": "393890",
+          "rate": 5.14,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 5.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "LED",
+      "stocks": [
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 20.95,
+          "amount": null
+        },
+        {
+          "name": "예스티",
+          "code": "122640",
+          "rate": 16.89,
+          "amount": null
+        },
+        {
+          "name": "탑엔지니어링",
+          "code": "065130",
+          "rate": 11.81,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "대주전자재료",
+          "code": "078600",
+          "rate": 18.34,
+          "amount": null
+        },
+        {
+          "name": "선익시스템",
+          "code": "171090",
+          "rate": 17.16,
+          "amount": null
+        },
+        {
+          "name": "엘케이엠",
+          "code": "",
+          "rate": 11.97,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 9.48,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "엘케이엠"
+  ]
+}

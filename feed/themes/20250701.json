@@ -1,0 +1,86 @@
+{
+  "date": "20250701",
+  "label": "7/1",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "-",
+      "stocks": [
+        {
+          "name": "HS효성",
+          "code": "487570",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "크라운해태홀딩스",
+          "code": "005740",
+          "rate": 21.19,
+          "amount": null
+        },
+        {
+          "name": "한화",
+          "code": "000880",
+          "rate": 15.38,
+          "amount": null
+        },
+        {
+          "name": "SK",
+          "code": "034730",
+          "rate": 9.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "-",
+      "stocks": [
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 29.86,
+          "amount": null
+        },
+        {
+          "name": "뱅크웨어글로벌",
+          "code": "199480",
+          "rate": 14.5,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 0.0,
+          "amount": null
+        },
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "rate": -0.19,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "-",
+      "stocks": [
+        {
+          "name": "피코그램",
+          "code": "",
+          "rate": 19.77,
+          "amount": null
+        },
+        {
+          "name": "위드텍",
+          "code": "348350",
+          "rate": 15.8,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "피코그램"
+  ]
+}

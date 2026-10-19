@@ -1,0 +1,143 @@
+{
+  "date": "20251117",
+  "label": "11/17",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "이수페타시스",
+          "code": "007660",
+          "rate": 18.36,
+          "amount": null
+        },
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 12.02,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 11.75,
+          "amount": null
+        },
+        {
+          "name": "케이씨텍",
+          "code": "281820",
+          "rate": 10.66,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 8.21,
+          "amount": null
+        },
+        {
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "rate": 7.25,
+          "amount": null
+        },
+        {
+          "name": "한솔케미칼",
+          "code": "014680",
+          "rate": 6.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의류",
+      "stocks": [
+        {
+          "name": "영원무역",
+          "code": "111770",
+          "rate": 11.27,
+          "amount": null
+        },
+        {
+          "name": "코오롱인더",
+          "code": "120110",
+          "rate": 9.52,
+          "amount": null
+        },
+        {
+          "name": "젝시믹스",
+          "code": "337930",
+          "rate": 6.96,
+          "amount": null
+        },
+        {
+          "name": "제이에스코퍼레이션",
+          "code": "194370",
+          "rate": 5.51,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "식품",
+      "stocks": [
+        {
+          "name": "농심",
+          "code": "004370",
+          "rate": 9.35,
+          "amount": null
+        },
+        {
+          "name": "풀무원",
+          "code": "017810",
+          "rate": 5.83,
+          "amount": null
+        },
+        {
+          "name": "삼양식품",
+          "code": "003230",
+          "rate": 4.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "호텔/카지노",
+      "stocks": [
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 18.25,
+          "amount": null
+        },
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 12.63,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 9.83,
+          "amount": null
+        },
+        {
+          "name": "제이에스코퍼레이션",
+          "code": "194370",
+          "rate": 5.51,
+          "amount": null
+        },
+        {
+          "name": "파라다이스",
+          "code": "034230",
+          "rate": 4.96,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

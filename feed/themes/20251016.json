@@ -1,0 +1,148 @@
+{
+  "date": "20251016",
+  "label": "10/16",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "자동차 관련주",
+      "stocks": [
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 8.28,
+          "amount": null
+        },
+        {
+          "name": "한온시스템",
+          "code": "018880",
+          "rate": 8.08,
+          "amount": null
+        },
+        {
+          "name": "기아",
+          "code": "000270",
+          "rate": 7.23,
+          "amount": null
+        },
+        {
+          "name": "KG모빌리티",
+          "code": "003620",
+          "rate": 4.86,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "에코프로머티",
+          "code": "450080",
+          "rate": 26.04,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 19.27,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 14.22,
+          "amount": null
+        },
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 14.03,
+          "amount": null
+        },
+        {
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "rate": 9.93,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 8.8,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 8.06,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 3.81,
+          "amount": null
+        },
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 3.48,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권주",
+      "stocks": [
+        {
+          "name": "SK증권",
+          "code": "001510",
+          "rate": 6.62,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 5.39,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 3.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "코데즈컴바인",
+          "code": "047770",
+          "rate": 9.09,
+          "amount": null
+        },
+        {
+          "name": "제이에스티나",
+          "code": "026040",
+          "rate": 5.37,
+          "amount": null
+        },
+        {
+          "name": "인디에프",
+          "code": "014990",
+          "rate": 5.08,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

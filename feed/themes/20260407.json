@@ -1,0 +1,101 @@
+{
+  "date": "20260407",
+  "label": "4/7",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "에탄올",
+      "stocks": [
+        {
+          "name": "창해에탄올",
+          "code": "004650",
+          "rate": 15.93,
+          "amount": null
+        },
+        {
+          "name": "MH에탄올",
+          "code": "023150",
+          "rate": 9.77,
+          "amount": null
+        },
+        {
+          "name": "풍국주정",
+          "code": "023900",
+          "rate": 5.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "형지글로벌",
+          "code": "308100",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "형지I&C",
+          "code": "011080",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "형지엘리트",
+          "code": "093240",
+          "rate": 8.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "풍산홀딩스",
+          "code": "005810",
+          "rate": 15.98,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "rate": 6.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "더블유씨피",
+          "code": "393890",
+          "rate": 10.84,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 8.44,
+          "amount": null
+        },
+        {
+          "name": "파워넷",
+          "code": "037030",
+          "rate": 8.19,
+          "amount": null
+        },
+        {
+          "name": "솔브레인홀딩스",
+          "code": "036830",
+          "rate": 8.19,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

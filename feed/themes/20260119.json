@@ -1,0 +1,90 @@
+{
+  "date": "20260119",
+  "label": "1/19",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "뉴로메카",
+          "code": "348340",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "러셀",
+          "code": "217500",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "에스비비테크",
+          "code": "389500",
+          "rate": 24.27,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 22.7,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 15.62,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "나라스페이스테크놀로지",
+          "code": "478340",
+          "rate": 16.97,
+          "amount": null
+        },
+        {
+          "name": "한국항공우주",
+          "code": "047810",
+          "rate": 6.26,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "배터리(전고체)",
+      "stocks": [
+        {
+          "name": "이수스페셜티케미컬",
+          "code": "457190",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "레이크머티리얼즈",
+          "code": "281740",
+          "rate": 15.03,
+          "amount": null
+        },
+        {
+          "name": "한농화성",
+          "code": "011500",
+          "rate": 14.74,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

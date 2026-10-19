@@ -1,0 +1,114 @@
+{
+  "date": "20250818",
+  "label": "8/18",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선/조선기자재",
+      "stocks": [
+        {
+          "name": "케이프",
+          "code": "064820",
+          "rate": 18.81,
+          "amount": null
+        },
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 6.34,
+          "amount": null
+        },
+        {
+          "name": "일승",
+          "code": "333430",
+          "rate": 6.17,
+          "amount": null
+        },
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 5.45,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 4.81,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "SGA",
+          "code": "",
+          "rate": 25.77,
+          "amount": null
+        },
+        {
+          "name": "쿠콘",
+          "code": "294570",
+          "rate": 8.81,
+          "amount": null
+        },
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 8.65,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "호텔",
+      "stocks": [
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 6.39,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 2.93,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자사주소각",
+      "stocks": [
+        {
+          "name": "HMM",
+          "code": "011200",
+          "rate": 7.07,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "친환경(태양광)",
+      "stocks": [
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 8.89,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 7.32,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "SGA"
+  ]
+}

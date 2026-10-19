@@ -1,0 +1,112 @@
+{
+  "date": "20250923",
+  "label": "9/23",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "신규상장",
+      "stocks": [
+        {
+          "name": "에스투더블유",
+          "code": "488280",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "프로티나",
+          "code": "",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 23.01,
+          "amount": null
+        },
+        {
+          "name": "아이티켐",
+          "code": "",
+          "rate": 12.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "프로티나",
+          "code": "",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "온코닉테라퓨틱스",
+          "code": "",
+          "rate": 10.27,
+          "amount": null
+        },
+        {
+          "name": "셀트리온",
+          "code": "068270",
+          "rate": 8.93,
+          "amount": null
+        },
+        {
+          "name": "에프릴바이오",
+          "code": "",
+          "rate": 8.24,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 23.01,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 14.68,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 12.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "보안",
+      "stocks": [
+        {
+          "name": "에스투더블유",
+          "code": "488280",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "소프트캠프",
+          "code": "258790",
+          "rate": 12.69,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "아이티켐",
+    "에프릴바이오",
+    "온코닉테라퓨틱스",
+    "프로티나"
+  ]
+}

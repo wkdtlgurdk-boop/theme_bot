@@ -1,0 +1,277 @@
+{
+  "date": "20251229",
+  "label": "12/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "계양전기",
+          "code": "012200",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "인탑스",
+          "code": "049070",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "라온테크",
+          "code": "",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 28.71,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 19.08,
+          "amount": null
+        },
+        {
+          "name": "TPC",
+          "code": "",
+          "rate": 19.02,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 16.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자율주행",
+      "stocks": [
+        {
+          "name": "삼보모터스",
+          "code": "053700",
+          "rate": 29.85,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 16.54,
+          "amount": null
+        },
+        {
+          "name": "에스오에스랩",
+          "code": "464080",
+          "rate": 11.03,
+          "amount": null
+        },
+        {
+          "name": "오비고",
+          "code": "352910",
+          "rate": 9.08,
+          "amount": null
+        },
+        {
+          "name": "에이테크솔루션",
+          "code": "071670",
+          "rate": 8.63,
+          "amount": null
+        },
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 7.59,
+          "amount": null
+        },
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 7.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 16.93,
+          "amount": null
+        },
+        {
+          "name": "비츠로넥스텍",
+          "code": "488900",
+          "rate": 10.8,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "rate": 9.08,
+          "amount": null
+        },
+        {
+          "name": "그린광학",
+          "code": "0015G0",
+          "rate": 8.78,
+          "amount": null
+        },
+        {
+          "name": "LIG넥스원",
+          "code": "",
+          "rate": 8.29,
+          "amount": null
+        },
+        {
+          "name": "한국항공우주",
+          "code": "047810",
+          "rate": 6.72,
+          "amount": null
+        },
+        {
+          "name": "이노스페이스",
+          "code": "462350",
+          "rate": 5.52,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "코리아써키트",
+          "code": "007810",
+          "rate": 8.85,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 6.84,
+          "amount": null
+        },
+        {
+          "name": "제주반도체",
+          "code": "080220",
+          "rate": 5.92,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 2.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력/에너지",
+      "stocks": [
+        {
+          "name": "제일일렉트릭",
+          "code": "199820",
+          "rate": 12.46,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 9.41,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 8.45,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 6.32,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 5.13,
+          "amount": null
+        },
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 4.72,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 4.29,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "인벤티지랩",
+          "code": "389470",
+          "rate": 14.94,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 12.91,
+          "amount": null
+        },
+        {
+          "name": "지놈앤컴퍼니",
+          "code": "314130",
+          "rate": 12.36,
+          "amount": null
+        },
+        {
+          "name": "툴젠",
+          "code": "199800",
+          "rate": 10.5,
+          "amount": null
+        },
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 10.24,
+          "amount": null
+        },
+        {
+          "name": "HLB제약",
+          "code": "047920",
+          "rate": 7.5,
+          "amount": null
+        },
+        {
+          "name": "삼천당제약",
+          "code": "000250",
+          "rate": 5.2,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "LIG넥스원",
+    "TPC",
+    "라온테크"
+  ]
+}

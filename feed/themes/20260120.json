@@ -1,0 +1,122 @@
+{
+  "date": "20260120",
+  "label": "1/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "보성파워텍",
+          "code": "006910",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "우리기술",
+          "code": "032820",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "일진기술",
+          "code": "",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 25.83,
+          "amount": null
+        },
+        {
+          "name": "우진",
+          "code": "105840",
+          "rate": 13.26,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 8.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "나라스페이스테크놀로지",
+          "code": "478340",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "그린광학",
+          "code": "0015G0",
+          "rate": 29.84,
+          "amount": null
+        },
+        {
+          "name": "컨텍",
+          "code": "451760",
+          "rate": 26.16,
+          "amount": null
+        },
+        {
+          "name": "파이버프로",
+          "code": "368770",
+          "rate": 18.2,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 16.93,
+          "amount": null
+        },
+        {
+          "name": "AP위성",
+          "code": "211270",
+          "rate": 15.64,
+          "amount": null
+        },
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 15.19,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "씨피시스템",
+          "code": "413630",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "러셀",
+          "code": "217500",
+          "rate": 20.66,
+          "amount": null
+        },
+        {
+          "name": "현대무벡스",
+          "code": "319400",
+          "rate": 11.44,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "일진기술"
+  ]
+}

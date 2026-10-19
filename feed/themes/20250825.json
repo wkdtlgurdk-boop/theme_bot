@@ -1,0 +1,49 @@
+{
+  "date": "20250825",
+  "label": "8/25",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "코닉오토메이션",
+          "code": "391710",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 21.71,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 10.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "지투지바이오",
+          "code": "456160",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "인벤티지랩",
+          "code": "389470",
+          "rate": 15.59,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

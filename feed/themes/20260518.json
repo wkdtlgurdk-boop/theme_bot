@@ -1,0 +1,78 @@
+{
+  "date": "20260518",
+  "label": "5/18",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 29.81,
+          "amount": null
+        },
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 22.83,
+          "amount": null
+        },
+        {
+          "name": "AP위성",
+          "code": "211270",
+          "rate": 17.01,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "에스에이엠티",
+          "code": "031330",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "미래산업",
+          "code": "025560",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "레이저쎌",
+          "code": "412350",
+          "rate": 23.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 12.26,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 11.75,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

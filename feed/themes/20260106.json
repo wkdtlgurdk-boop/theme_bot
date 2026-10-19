@@ -1,0 +1,157 @@
+{
+  "date": "20260106",
+  "label": "1/6",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "그린광학",
+          "code": "0015G0",
+          "rate": 26.98,
+          "amount": null
+        },
+        {
+          "name": "루미르",
+          "code": "474170",
+          "rate": 16.85,
+          "amount": null
+        },
+        {
+          "name": "제노코",
+          "code": "361390",
+          "rate": 14.18,
+          "amount": null
+        },
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 10.11,
+          "amount": null
+        },
+        {
+          "name": "한국항공우주",
+          "code": "047810",
+          "rate": 9.41,
+          "amount": null
+        },
+        {
+          "name": "나라스페이스테크놀로지",
+          "code": "478340",
+          "rate": 9.18,
+          "amount": null
+        },
+        {
+          "name": "이노스페이스",
+          "code": "462350",
+          "rate": 5.2,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 12.55,
+          "amount": null
+        },
+        {
+          "name": "키움증권",
+          "code": "039490",
+          "rate": 6.69,
+          "amount": null
+        },
+        {
+          "name": "NH투자증권",
+          "code": "005940",
+          "rate": 4.75,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 4.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체장비",
+      "stocks": [
+        {
+          "name": "디아이",
+          "code": "003160",
+          "rate": 18.44,
+          "amount": null
+        },
+        {
+          "name": "HPSP",
+          "code": "403870",
+          "rate": 11.86,
+          "amount": null
+        },
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 9.8,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 8.06,
+          "amount": null
+        },
+        {
+          "name": "하나마이크론",
+          "code": "067310",
+          "rate": 5.28,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "포메탈",
+          "code": "119500",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "엠앤씨솔루션",
+          "code": "484870",
+          "rate": 16.31,
+          "amount": null
+        },
+        {
+          "name": "풍산",
+          "code": "103140",
+          "rate": 8.62,
+          "amount": null
+        },
+        {
+          "name": "LIG넥스원",
+          "code": "",
+          "rate": 5.66,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 5.5,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "LIG넥스원"
+  ]
+}

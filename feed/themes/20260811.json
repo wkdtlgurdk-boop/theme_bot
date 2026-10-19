@@ -1,0 +1,179 @@
+{
+  "date": "20260811",
+  "label": "8/11",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체소부장",
+      "stocks": [
+        {
+          "name": "코칩",
+          "code": "126730",
+          "rate": 29.7,
+          "amount": null
+        },
+        {
+          "name": "지앤비에스 에코",
+          "code": "382800",
+          "rate": 16.56,
+          "amount": null
+        },
+        {
+          "name": "예스티",
+          "code": "122640",
+          "rate": 14.09,
+          "amount": null
+        },
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 12.15,
+          "amount": null
+        },
+        {
+          "name": "SFA반도체",
+          "code": "036540",
+          "rate": 11.55,
+          "amount": null
+        },
+        {
+          "name": "티에스이",
+          "code": "131290",
+          "rate": 7.71,
+          "amount": null
+        },
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 4.06,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "미용기기/바이오",
+      "stocks": [
+        {
+          "name": "본느",
+          "code": "226340",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "오가닉티코스메틱",
+          "code": "900300",
+          "rate": 15.86,
+          "amount": null
+        },
+        {
+          "name": "코스메카코리아",
+          "code": "241710",
+          "rate": 15.16,
+          "amount": null
+        },
+        {
+          "name": "한국화장품제조",
+          "code": "003350",
+          "rate": 14.63,
+          "amount": null
+        },
+        {
+          "name": "코디",
+          "code": "080530",
+          "rate": 12.34,
+          "amount": null
+        },
+        {
+          "name": "프롬바이오",
+          "code": "377220",
+          "rate": 10.66,
+          "amount": null
+        },
+        {
+          "name": "마녀공장",
+          "code": "439090",
+          "rate": 10.39,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설중소형",
+      "stocks": [
+        {
+          "name": "남화토건",
+          "code": "091590",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "금호건설",
+          "code": "002990",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "신원종합개발",
+          "code": "017000",
+          "rate": 7.6,
+          "amount": null
+        },
+        {
+          "name": "일성건설",
+          "code": "013360",
+          "rate": 7.54,
+          "amount": null
+        },
+        {
+          "name": "남광토건",
+          "code": "001260",
+          "rate": 6.62,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "게임",
+      "stocks": [
+        {
+          "name": "위메이드맥스",
+          "code": "101730",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "NHN",
+          "code": "181710",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "밸로프",
+          "code": "331520",
+          "rate": 23.56,
+          "amount": null
+        },
+        {
+          "name": "위메이드",
+          "code": "112040",
+          "rate": 13.42,
+          "amount": null
+        },
+        {
+          "name": "위메이드플레이",
+          "code": "123420",
+          "rate": 8.47,
+          "amount": null
+        },
+        {
+          "name": "NC",
+          "code": "036570",
+          "rate": 4.93,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

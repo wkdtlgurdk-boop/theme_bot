@@ -1,0 +1,160 @@
+{
+  "date": "20260629",
+  "label": "6/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 23.69,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 20.81,
+          "amount": null
+        },
+        {
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "rate": 16.81,
+          "amount": null
+        },
+        {
+          "name": "후성",
+          "code": "093370",
+          "rate": 13.95,
+          "amount": null
+        },
+        {
+          "name": "LG화학",
+          "code": "051910",
+          "rate": 13.65,
+          "amount": null
+        },
+        {
+          "name": "포스코엠텍",
+          "code": "009520",
+          "rate": 13.32,
+          "amount": null
+        },
+        {
+          "name": "성일하이텍",
+          "code": "365340",
+          "rate": 10.88,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "피팅(조선기자재)",
+      "stocks": [
+        {
+          "name": "한선엔지니어링",
+          "code": "452280",
+          "rate": 16.25,
+          "amount": null
+        },
+        {
+          "name": "성광벤드",
+          "code": "014620",
+          "rate": 16.14,
+          "amount": null
+        },
+        {
+          "name": "태광",
+          "code": "023160",
+          "rate": 12.82,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원전",
+      "stocks": [
+        {
+          "name": "비에이치아이",
+          "code": "083650",
+          "rate": 13.67,
+          "amount": null
+        },
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 12.5,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 12.39,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "풍력",
+      "stocks": [
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 22.77,
+          "amount": null
+        },
+        {
+          "name": "씨에스베어링",
+          "code": "297090",
+          "rate": 15.87,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 15.74,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 15.74,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "한전산업",
+          "code": "130660",
+          "rate": 11.27,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 11.13,
+          "amount": null
+        },
+        {
+          "name": "세명전기",
+          "code": "017510",
+          "rate": 11.05,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 10.77,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

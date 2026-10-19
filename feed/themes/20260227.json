@@ -1,0 +1,79 @@
+{
+  "date": "20260227",
+  "label": "2/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "자동차",
+      "stocks": [
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "모헨즈",
+          "code": "006920",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "현대제철",
+          "code": "004020",
+          "rate": 19.85,
+          "amount": null
+        },
+        {
+          "name": "디젠스",
+          "code": "113810",
+          "rate": 12.92,
+          "amount": null
+        },
+        {
+          "name": "현대비앤지스틸",
+          "code": "004560",
+          "rate": 10.7,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 10.67,
+          "amount": null
+        },
+        {
+          "name": "현대위아",
+          "code": "011210",
+          "rate": 9.87,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "철강",
+      "stocks": [
+        {
+          "name": "현대제철",
+          "code": "004020",
+          "rate": 19.85,
+          "amount": null
+        },
+        {
+          "name": "동국제강",
+          "code": "460860",
+          "rate": 11.15,
+          "amount": null
+        },
+        {
+          "name": "한국철강",
+          "code": "104700",
+          "rate": 7.37,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

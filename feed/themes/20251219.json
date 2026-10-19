@@ -1,0 +1,169 @@
+{
+  "date": "20251219",
+  "label": "12/19",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "우주항공",
+      "stocks": [
+        {
+          "name": "나노팀",
+          "code": "417010",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 19.94,
+          "amount": null
+        },
+        {
+          "name": "나라스페이스테크놀로지",
+          "code": "478340",
+          "rate": 15.38,
+          "amount": null
+        },
+        {
+          "name": "한화시스템",
+          "code": "272210",
+          "rate": 10.93,
+          "amount": null
+        },
+        {
+          "name": "비츠로넥스텍",
+          "code": "488900",
+          "rate": 9.9,
+          "amount": null
+        },
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 9.62,
+          "amount": null
+        },
+        {
+          "name": "파이버프로",
+          "code": "368770",
+          "rate": 9.43,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 6.72,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 5.8,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 3.37,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 28.29,
+          "amount": null
+        },
+        {
+          "name": "뉴로메카",
+          "code": "348340",
+          "rate": 11.78,
+          "amount": null
+        },
+        {
+          "name": "LIG넥스원",
+          "code": "",
+          "rate": 8.62,
+          "amount": null
+        },
+        {
+          "name": "이랜시스",
+          "code": "264850",
+          "rate": 8.43,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 7.87,
+          "amount": null
+        },
+        {
+          "name": "알에스오토메이션",
+          "code": "140670",
+          "rate": 7.27,
+          "amount": null
+        },
+        {
+          "name": "대동기어",
+          "code": "008830",
+          "rate": 5.59,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "압타바이오",
+          "code": "293780",
+          "rate": 12.95,
+          "amount": null
+        },
+        {
+          "name": "에스티큐브",
+          "code": "052020",
+          "rate": 11.76,
+          "amount": null
+        },
+        {
+          "name": "앱클론",
+          "code": "174900",
+          "rate": 11.29,
+          "amount": null
+        },
+        {
+          "name": "메드팩토",
+          "code": "235980",
+          "rate": 9.11,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 7.19,
+          "amount": null
+        },
+        {
+          "name": "보로노이",
+          "code": "310210",
+          "rate": 4.87,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "LIG넥스원"
+  ]
+}

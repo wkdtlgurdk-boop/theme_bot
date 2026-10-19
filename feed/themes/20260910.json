@@ -1,0 +1,179 @@
+{
+  "date": "20260910",
+  "label": "9/10",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "샘표",
+          "code": "007540",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "아세아",
+          "code": "",
+          "rate": 12.69,
+          "amount": null
+        },
+        {
+          "name": "HDC",
+          "code": "012630",
+          "rate": 10.73,
+          "amount": null
+        },
+        {
+          "name": "DB",
+          "code": "012030",
+          "rate": 5.16,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체·IT 대표주",
+      "stocks": [
+        {
+          "name": "알파칩스",
+          "code": "117670",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "사피엔반도체",
+          "code": "452430",
+          "rate": 9.12,
+          "amount": null
+        },
+        {
+          "name": "SFA반도체",
+          "code": "036540",
+          "rate": 7.24,
+          "amount": null
+        },
+        {
+          "name": "에스앤에스텍",
+          "code": "101490",
+          "rate": 7.14,
+          "amount": null
+        },
+        {
+          "name": "파두",
+          "code": "440110",
+          "rate": 6.59,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "원익피앤이",
+          "code": "217820",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "인텍플러스",
+          "code": "064290",
+          "rate": 8.79,
+          "amount": null
+        },
+        {
+          "name": "동화기업",
+          "code": "025900",
+          "rate": 6.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 장비·소재",
+      "stocks": [
+        {
+          "name": "더코디",
+          "code": "224060",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "티에스이",
+          "code": "131290",
+          "rate": 14.15,
+          "amount": null
+        },
+        {
+          "name": "HLB이노베이션",
+          "code": "024850",
+          "rate": 10.38,
+          "amount": null
+        },
+        {
+          "name": "티에프이",
+          "code": "425420",
+          "rate": 10.3,
+          "amount": null
+        },
+        {
+          "name": "넥스틴",
+          "code": "348210",
+          "rate": 8.85,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "케이에스피",
+          "code": "073010",
+          "rate": 20.07,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린솔루션",
+          "code": "443060",
+          "rate": 9.03,
+          "amount": null
+        },
+        {
+          "name": "범한퓨얼셀",
+          "code": "382900",
+          "rate": 5.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지능형로봇/인공지능",
+      "stocks": [
+        {
+          "name": "씨메스로보틱스",
+          "code": "475400",
+          "rate": 13.07,
+          "amount": null
+        },
+        {
+          "name": "유일로보틱스",
+          "code": "388720",
+          "rate": 7.54,
+          "amount": null
+        },
+        {
+          "name": "고영",
+          "code": "098460",
+          "rate": 5.67,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "아세아"
+  ]
+}

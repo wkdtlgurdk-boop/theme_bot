@@ -1,0 +1,171 @@
+{
+  "date": "20260903",
+  "label": "9/3",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전후 재건",
+      "stocks": [
+        {
+          "name": "전진건설로봇",
+          "code": "079900",
+          "rate": 11.78,
+          "amount": null
+        },
+        {
+          "name": "HD건설기계",
+          "code": "267270",
+          "rate": 8.5,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 6.13,
+          "amount": null
+        },
+        {
+          "name": "삼성E&A",
+          "code": "028050",
+          "rate": 5.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "손해보험",
+      "stocks": [
+        {
+          "name": "흥국화재",
+          "code": "000540",
+          "rate": 9.7,
+          "amount": null
+        },
+        {
+          "name": "삼성화재",
+          "code": "000810",
+          "rate": 6.85,
+          "amount": null
+        },
+        {
+          "name": "DB손해보험",
+          "code": "005830",
+          "rate": 6.34,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "LNG",
+      "stocks": [
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 8.58,
+          "amount": null
+        },
+        {
+          "name": "팬오션",
+          "code": "028670",
+          "rate": 7.8,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 7.5,
+          "amount": null
+        },
+        {
+          "name": "SNT에너지",
+          "code": "100840",
+          "rate": 6.86,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "밸류업",
+      "stocks": [
+        {
+          "name": "HD건설기계",
+          "code": "267270",
+          "rate": 8.5,
+          "amount": null
+        },
+        {
+          "name": "한미사이언스",
+          "code": "008930",
+          "rate": 7.74,
+          "amount": null
+        },
+        {
+          "name": "LG화학",
+          "code": "051910",
+          "rate": 6.69,
+          "amount": null
+        },
+        {
+          "name": "메리츠금융지주",
+          "code": "138040",
+          "rate": 5.47,
+          "amount": null
+        },
+        {
+          "name": "KB금융",
+          "code": "105560",
+          "rate": 5.2,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력발전",
+      "stocks": [
+        {
+          "name": "SNT에너지",
+          "code": "100840",
+          "rate": 6.86,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 6.13,
+          "amount": null
+        },
+        {
+          "name": "한미글로벌",
+          "code": "053690",
+          "rate": 5.6,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "석유화학",
+      "stocks": [
+        {
+          "name": "LG화학",
+          "code": "051910",
+          "rate": 6.69,
+          "amount": null
+        },
+        {
+          "name": "롯데케미칼",
+          "code": "011170",
+          "rate": 6.46,
+          "amount": null
+        },
+        {
+          "name": "SK케미칼",
+          "code": "285130",
+          "rate": 5.17,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}
