@@ -1,0 +1,125 @@
+{
+  "date": "20250811",
+  "label": "8/11",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "앤켐",
+          "code": "",
+          "rate": 24.34,
+          "amount": null
+        },
+        {
+          "name": "코스모신소재",
+          "code": "005070",
+          "rate": 13.98,
+          "amount": null
+        },
+        {
+          "name": "앨앤에프",
+          "code": "",
+          "rate": 10.32,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 7.98,
+          "amount": null
+        },
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 4.81,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "엔터",
+      "stocks": [
+        {
+          "name": "와이지엔터테인먼트",
+          "code": "122870",
+          "rate": 11.91,
+          "amount": null
+        },
+        {
+          "name": "에스엠",
+          "code": "041510",
+          "rate": 5.06,
+          "amount": null
+        },
+        {
+          "name": "JYP ENT,",
+          "code": "",
+          "rate": 4.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원전",
+      "stocks": [
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 8.44,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 4.52,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "리튬",
+      "stocks": [
+        {
+          "name": "하이드로리튬",
+          "code": "101670",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "앤켐",
+          "code": "",
+          "rate": 24.34,
+          "amount": null
+        },
+        {
+          "name": "리튬포어스",
+          "code": "073570",
+          "rate": 23.65,
+          "amount": null
+        },
+        {
+          "name": "유일에너테크",
+          "code": "",
+          "rate": 16.34,
+          "amount": null
+        },
+        {
+          "name": "중앙첨단소재",
+          "code": "",
+          "rate": 8.83,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "JYP ENT,",
+    "앤켐",
+    "앨앤에프",
+    "유일에너테크",
+    "중앙첨단소재"
+  ]
+}

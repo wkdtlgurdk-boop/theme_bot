@@ -1,0 +1,184 @@
+{
+  "date": "20251212",
+  "label": "12/12",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "세아베스틸지주",
+          "code": "001430",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "코오롱",
+          "code": "002020",
+          "rate": 11.4,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 6.62,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 6.32,
+          "amount": null
+        },
+        {
+          "name": "한화",
+          "code": "000880",
+          "rate": 3.41,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "비에이치아이",
+          "code": "083650",
+          "rate": 21.82,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 16.57,
+          "amount": null
+        },
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 11.8,
+          "amount": null
+        },
+        {
+          "name": "우진",
+          "code": "105840",
+          "rate": 6.91,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 5.98,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 2.57,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 17.68,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 9.79,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 7.62,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 6.34,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 6.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주/항공",
+      "stocks": [
+        {
+          "name": "스피어",
+          "code": "347700",
+          "rate": 19.83,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 17.99,
+          "amount": null
+        },
+        {
+          "name": "이노스페이스",
+          "code": "462350",
+          "rate": 12.76,
+          "amount": null
+        },
+        {
+          "name": "쎄트렉아이",
+          "code": "099320",
+          "rate": 12.62,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "rate": 6.31,
+          "amount": null
+        },
+        {
+          "name": "한국항공우주",
+          "code": "047810",
+          "rate": 5.02,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "헬스케어",
+      "stocks": [
+        {
+          "name": "에임드바이오",
+          "code": "0009K0",
+          "rate": 19.7,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 9.38,
+          "amount": null
+        },
+        {
+          "name": "이뮨온시아",
+          "code": "424870",
+          "rate": 8.06,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

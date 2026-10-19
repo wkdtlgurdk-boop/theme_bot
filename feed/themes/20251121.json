@@ -1,0 +1,75 @@
+{
+  "date": "20251121",
+  "label": "11/21",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "케어젠",
+          "code": "214370",
+          "rate": 14.66,
+          "amount": null
+        },
+        {
+          "name": "바로스아이바이오",
+          "code": "",
+          "rate": 13.43,
+          "amount": null
+        },
+        {
+          "name": "코오롱티슈진",
+          "code": "950160",
+          "rate": 11.49,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 6.31,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "에스비비테크",
+          "code": "389500",
+          "rate": 25.51,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 18.1,
+          "amount": null
+        },
+        {
+          "name": "피앤에스로보틱스",
+          "code": "460940",
+          "rate": 9.36,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 8.47,
+          "amount": null
+        },
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 4.54,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "바로스아이바이오"
+  ]
+}

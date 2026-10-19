@@ -1,0 +1,151 @@
+{
+  "date": "20250805",
+  "label": "8/5",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선/조선기자재",
+      "stocks": [
+        {
+          "name": "대한조선",
+          "code": "439260",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린엔진",
+          "code": "071970",
+          "rate": 10.13,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 8.86,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 5.63,
+          "amount": null
+        },
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 5.11,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "신흥에스이씨",
+          "code": "243840",
+          "rate": 23.46,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 15.28,
+          "amount": null
+        },
+        {
+          "name": "에코프로머티",
+          "code": "450080",
+          "rate": 11.91,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 10.22,
+          "amount": null
+        },
+        {
+          "name": "이브이첨단소재",
+          "code": "",
+          "rate": 9.51,
+          "amount": null
+        },
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 8.54,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 8.35,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 15.34,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 8.4,
+          "amount": null
+        },
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 6.8,
+          "amount": null
+        },
+        {
+          "name": "산일전기",
+          "code": "062040",
+          "rate": 5.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "SK바이오팜",
+          "code": "326030",
+          "rate": 15.9,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 7.94,
+          "amount": null
+        },
+        {
+          "name": "인트론바이오",
+          "code": "048530",
+          "rate": 6.7,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 5.0,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "이브이첨단소재"
+  ]
+}

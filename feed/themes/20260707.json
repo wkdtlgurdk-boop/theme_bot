@@ -1,0 +1,102 @@
+{
+  "date": "20260707",
+  "label": "7/7",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "정유",
+      "stocks": [
+        {
+          "name": "S-Oil",
+          "code": "010950",
+          "rate": 8.98,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 7.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "호텔카지노",
+      "stocks": [
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 7.03,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 6.35,
+          "amount": null
+        },
+        {
+          "name": "호텔신라",
+          "code": "008770",
+          "rate": 6.07,
+          "amount": null
+        },
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 5.09,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "클리오",
+          "code": "237880",
+          "rate": 12.86,
+          "amount": null
+        },
+        {
+          "name": "파마리서치",
+          "code": "214450",
+          "rate": 8.44,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 8.32,
+          "amount": null
+        },
+        {
+          "name": "뷰티스킨",
+          "code": "406820",
+          "rate": 8.05,
+          "amount": null
+        },
+        {
+          "name": "네오팜",
+          "code": "092730",
+          "rate": 7.92,
+          "amount": null
+        },
+        {
+          "name": "펌텍코리아",
+          "code": "251970",
+          "rate": 7.64,
+          "amount": null
+        },
+        {
+          "name": "제닉",
+          "code": "123330",
+          "rate": 6.56,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

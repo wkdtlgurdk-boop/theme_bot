@@ -1,0 +1,54 @@
+{
+  "date": "20260615",
+  "label": "6/15",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "항공",
+      "stocks": [
+        {
+          "name": "대한항공",
+          "code": "003490",
+          "rate": 12.78,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "탈모",
+      "stocks": [
+        {
+          "name": "TS트릴리온",
+          "code": "317240",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "JW신약",
+          "code": "067290",
+          "rate": 29.94,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 6.42,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 4.5,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,215 @@
+{
+  "date": "20250915",
+  "label": "9/15",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇(스마트팩토리)",
+      "stocks": [
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 20.36,
+          "amount": null
+        },
+        {
+          "name": "로보스타",
+          "code": "090360",
+          "rate": 15.05,
+          "amount": null
+        },
+        {
+          "name": "코닉오토메이션",
+          "code": "391710",
+          "rate": 5.34,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 4.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "미용기기(ECM 스킨부스터",
+      "stocks": [
+        {
+          "name": "한스바이오메드",
+          "code": "042520",
+          "rate": 22.18,
+          "amount": null
+        },
+        {
+          "name": "휴메딕스",
+          "code": "200670",
+          "rate": 10.4,
+          "amount": null
+        },
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 9.11,
+          "amount": null
+        },
+        {
+          "name": "바이오플러스",
+          "code": "099430",
+          "rate": 7.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "테크윙",
+          "code": "089030",
+          "rate": 21.76,
+          "amount": null
+        },
+        {
+          "name": "후성",
+          "code": "093370",
+          "rate": 20.18,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 10.09,
+          "amount": null
+        },
+        {
+          "name": "에프에스티",
+          "code": "036810",
+          "rate": 9.86,
+          "amount": null
+        },
+        {
+          "name": "유니셈",
+          "code": "036200",
+          "rate": 9.83,
+          "amount": null
+        },
+        {
+          "name": "케이씨텍",
+          "code": "281820",
+          "rate": 8.19,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 7.42,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "농심홀딩스",
+          "code": "072710",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "현대지에프홀딩스",
+          "code": "005440",
+          "rate": 11.93,
+          "amount": null
+        },
+        {
+          "name": "HD현대",
+          "code": "267250",
+          "rate": 10.64,
+          "amount": null
+        },
+        {
+          "name": "한화",
+          "code": "000880",
+          "rate": 8.39,
+          "amount": null
+        },
+        {
+          "name": "한진칼",
+          "code": "180640",
+          "rate": 7.86,
+          "amount": null
+        },
+        {
+          "name": "CJ",
+          "code": "001040",
+          "rate": 5.74,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권사",
+      "stocks": [
+        {
+          "name": "키움증권",
+          "code": "039490",
+          "rate": 7.21,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 6.0,
+          "amount": null
+        },
+        {
+          "name": "NH투자증권",
+          "code": "005940",
+          "rate": 5.35,
+          "amount": null
+        },
+        {
+          "name": "신영증권",
+          "code": "001720",
+          "rate": 5.02,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 3.39,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "프로티나",
+          "code": "",
+          "rate": 26.68,
+          "amount": null
+        },
+        {
+          "name": "파미셀",
+          "code": "005690",
+          "rate": 22.38,
+          "amount": null
+        },
+        {
+          "name": "케어젠",
+          "code": "214370",
+          "rate": 10.61,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "프로티나"
+  ]
+}

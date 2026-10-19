@@ -1,0 +1,278 @@
+{
+  "date": "20260526",
+  "label": "5/26",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "아모텍",
+          "code": "052710",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 17.31,
+          "amount": null
+        },
+        {
+          "name": "한울반도체",
+          "code": "320000",
+          "rate": 17.26,
+          "amount": null
+        },
+        {
+          "name": "지아이에스",
+          "code": "306620",
+          "rate": 11.11,
+          "amount": null
+        },
+        {
+          "name": "코칩",
+          "code": "126730",
+          "rate": 5.41,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 기판",
+      "stocks": [
+        {
+          "name": "LG이노텍",
+          "code": "011070",
+          "rate": 23.61,
+          "amount": null
+        },
+        {
+          "name": "기가비스",
+          "code": "420770",
+          "rate": 18.7,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 17.31,
+          "amount": null
+        },
+        {
+          "name": "대덕전자",
+          "code": "353200",
+          "rate": 11.83,
+          "amount": null
+        },
+        {
+          "name": "티엘비",
+          "code": "356860",
+          "rate": 11.03,
+          "amount": null
+        },
+        {
+          "name": "이수페타시스",
+          "code": "007660",
+          "rate": 10.79,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 21.76,
+          "amount": null
+        },
+        {
+          "name": "네패스아크",
+          "code": "330860",
+          "rate": 21.35,
+          "amount": null
+        },
+        {
+          "name": "세미파이브",
+          "code": "490470",
+          "rate": 18.34,
+          "amount": null
+        },
+        {
+          "name": "아이씨티케이",
+          "code": "456010",
+          "rate": 16.01,
+          "amount": null
+        },
+        {
+          "name": "SFA반도체",
+          "code": "036540",
+          "rate": 7.41,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 5.72,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "SPACE X",
+      "stocks": [
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 20.18,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 17.7,
+          "amount": null
+        },
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 12.93,
+          "amount": null
+        },
+        {
+          "name": "스피어",
+          "code": "347700",
+          "rate": 9.23,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 9.11,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "양자",
+      "stocks": [
+        {
+          "name": "드림시큐리티",
+          "code": "203650",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "케이씨에스",
+          "code": "115500",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "엑스게이트",
+          "code": "356680",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "아이씨티케이",
+          "code": "456010",
+          "rate": 16.01,
+          "amount": null
+        },
+        {
+          "name": "우리로",
+          "code": "046970",
+          "rate": 8.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "라이콤",
+          "code": "388790",
+          "rate": 16.88,
+          "amount": null
+        },
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 14.4,
+          "amount": null
+        },
+        {
+          "name": "우리넷",
+          "code": "115440",
+          "rate": 12.32,
+          "amount": null
+        },
+        {
+          "name": "머큐리",
+          "code": "100590",
+          "rate": 9.31,
+          "amount": null
+        },
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 5.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 10.23,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 9.56,
+          "amount": null
+        },
+        {
+          "name": "KS인더스트리",
+          "code": "101000",
+          "rate": 9.13,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 5.7,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

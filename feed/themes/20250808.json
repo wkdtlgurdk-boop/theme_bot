@@ -1,0 +1,158 @@
+{
+  "date": "20250808",
+  "label": "8/8",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 18.1,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 13.01,
+          "amount": null
+        },
+        {
+          "name": "두산테스나",
+          "code": "131970",
+          "rate": 8.1,
+          "amount": null
+        },
+        {
+          "name": "코미코",
+          "code": "183300",
+          "rate": 6.8,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "좋은사람들",
+          "code": "",
+          "rate": 11.8,
+          "amount": null
+        },
+        {
+          "name": "신원",
+          "code": "009270",
+          "rate": 9.6,
+          "amount": null
+        },
+        {
+          "name": "대아티아이",
+          "code": "045390",
+          "rate": 8.2,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "케이에스피",
+          "code": "073010",
+          "rate": 11.3,
+          "amount": null
+        },
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 5.7,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 5.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "엔터/컨텐츠",
+      "stocks": [
+        {
+          "name": "YG PLUS",
+          "code": "037270",
+          "rate": 6.4,
+          "amount": null
+        },
+        {
+          "name": "SAMG엔터",
+          "code": "419530",
+          "rate": 5.8,
+          "amount": null
+        },
+        {
+          "name": "스튜디오드래곤",
+          "code": "253450",
+          "rate": 5.0,
+          "amount": null
+        },
+        {
+          "name": "하이브",
+          "code": "352820",
+          "rate": 4.9,
+          "amount": null
+        },
+        {
+          "name": "와이지엔터테인먼트",
+          "code": "122870",
+          "rate": 4.5,
+          "amount": null
+        },
+        {
+          "name": "JYP ENT,",
+          "code": "",
+          "rate": 3.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "큐리옥스바이오시스템즈",
+          "code": "",
+          "rate": 25.03,
+          "amount": null
+        },
+        {
+          "name": "신풍제약",
+          "code": "019170",
+          "rate": 14.01,
+          "amount": null
+        },
+        {
+          "name": "그린생명과학",
+          "code": "114450",
+          "rate": 6.9,
+          "amount": null
+        },
+        {
+          "name": "수젠텍",
+          "code": "253840",
+          "rate": 6.89,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "JYP ENT,",
+    "좋은사람들",
+    "큐리옥스바이오시스템즈"
+  ]
+}

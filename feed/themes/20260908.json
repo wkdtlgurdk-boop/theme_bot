@@ -1,0 +1,182 @@
+{
+  "date": "20260908",
+  "label": "9/8",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "밸류업",
+      "stocks": [
+        {
+          "name": "테라뷰",
+          "code": "950250",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 16.6,
+          "amount": null
+        },
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 8.0,
+          "amount": null
+        },
+        {
+          "name": "제주항공",
+          "code": "089590",
+          "rate": 7.46,
+          "amount": null
+        },
+        {
+          "name": "한미사이언스",
+          "code": "008930",
+          "rate": 6.46,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체·IT 대표주",
+      "stocks": [
+        {
+          "name": "액스비스",
+          "code": "0011A0",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "덕산테코피아",
+          "code": "317330",
+          "rate": 13.27,
+          "amount": null
+        },
+        {
+          "name": "메카로",
+          "code": "241770",
+          "rate": 12.48,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 5.93,
+          "amount": null
+        },
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 5.67,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2026 상반기 신규상장",
+      "stocks": [
+        {
+          "name": "채비",
+          "code": "0011T0",
+          "rate": 13.1,
+          "amount": null
+        },
+        {
+          "name": "아이엠바이오로직스",
+          "code": "493280",
+          "rate": 5.84,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원전·전력설비",
+      "stocks": [
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "서전기전",
+          "code": "189860",
+          "rate": 29.8,
+          "amount": null
+        },
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 8.47,
+          "amount": null
+        },
+        {
+          "name": "우리기술",
+          "code": "032820",
+          "rate": 8.15,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 6.09,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "현대약품",
+          "code": "004310",
+          "rate": 23.99,
+          "amount": null
+        },
+        {
+          "name": "JW신약",
+          "code": "067290",
+          "rate": 8.66,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 5.98,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의료기기",
+      "stocks": [
+        {
+          "name": "한스바이오메드",
+          "code": "042520",
+          "rate": 8.16,
+          "amount": null
+        },
+        {
+          "name": "리브스메드",
+          "code": "491000",
+          "rate": 6.81,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주항공산업",
+      "stocks": [
+        {
+          "name": "스피어",
+          "code": "347700",
+          "rate": 5.98,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

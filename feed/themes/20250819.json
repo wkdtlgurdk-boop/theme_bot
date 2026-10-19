@@ -1,0 +1,150 @@
+{
+  "date": "20250819",
+  "label": "8/19",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "엔터/컨텐츠",
+      "stocks": [
+        {
+          "name": "삼화네트웍스",
+          "code": "046390",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "아센디오",
+          "code": "012170",
+          "rate": 29.85,
+          "amount": null
+        },
+        {
+          "name": "팬엔터테인먼트",
+          "code": "068050",
+          "rate": 25.94,
+          "amount": null
+        },
+        {
+          "name": "SM C&C",
+          "code": "048550",
+          "rate": 12.21,
+          "amount": null
+        },
+        {
+          "name": "스튜디오드래곤",
+          "code": "253450",
+          "rate": 8.94,
+          "amount": null
+        },
+        {
+          "name": "노머스",
+          "code": "473980",
+          "rate": 8.47,
+          "amount": null
+        },
+        {
+          "name": "CJ ENM",
+          "code": "035760",
+          "rate": 6.41,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블 코인",
+      "stocks": [
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 5.87,
+          "amount": null
+        },
+        {
+          "name": "인포바인",
+          "code": "115310",
+          "rate": 5.6,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 3.21,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "게임",
+      "stocks": [
+        {
+          "name": "펄어비스",
+          "code": "263750",
+          "rate": 7.8,
+          "amount": null
+        },
+        {
+          "name": "크래프톤",
+          "code": "259960",
+          "rate": 4.79,
+          "amount": null
+        },
+        {
+          "name": "넷마블",
+          "code": "251270",
+          "rate": 3.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "재건",
+      "stocks": [
+        {
+          "name": "TYM",
+          "code": "002900",
+          "rate": 9.73,
+          "amount": null
+        },
+        {
+          "name": "에스와이스틸텍",
+          "code": "365330",
+          "rate": 5.25,
+          "amount": null
+        },
+        {
+          "name": "수산세보틱스",
+          "code": "017550",
+          "rate": 5.21,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "토모큐브",
+          "code": "475960",
+          "rate": 14.51,
+          "amount": null
+        },
+        {
+          "name": "온코닉테라퓨틱스",
+          "code": "",
+          "rate": 7.75,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 4.27,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "온코닉테라퓨틱스"
+  ]
+}

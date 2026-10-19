@@ -1,0 +1,26 @@
+{
+  "date": "20260708",
+  "label": "7/8",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "정유",
+      "stocks": [
+        {
+          "name": "흥구석유",
+          "code": "024060",
+          "rate": 14.73,
+          "amount": null
+        },
+        {
+          "name": "S-Oil",
+          "code": "010950",
+          "rate": 3.3,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

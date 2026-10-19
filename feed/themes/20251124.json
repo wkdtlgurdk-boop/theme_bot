@@ -1,0 +1,72 @@
+{
+  "date": "20251124",
+  "label": "11/24",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "우크라 재건",
+      "stocks": [
+        {
+          "name": "대모",
+          "code": "317850",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "대동기어",
+          "code": "008830",
+          "rate": 19.38,
+          "amount": null
+        },
+        {
+          "name": "현대에버다임",
+          "code": "041440",
+          "rate": 10.39,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "스맥",
+          "code": "099440",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "피앤에스로보틱스",
+          "code": "460940",
+          "rate": 27.14,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 11.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 16.65,
+          "amount": null
+        },
+        {
+          "name": "큐리오시스",
+          "code": "494120",
+          "rate": 13.53,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

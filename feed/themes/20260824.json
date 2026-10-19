@@ -1,0 +1,224 @@
+{
+  "date": "20260824",
+  "label": "8/24",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "삼아알미늄",
+          "code": "006110",
+          "rate": 21.91,
+          "amount": null
+        },
+        {
+          "name": "솔브레인홀딩스",
+          "code": "036830",
+          "rate": 17.52,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 16.36,
+          "amount": null
+        },
+        {
+          "name": "한중엔시에스",
+          "code": "107640",
+          "rate": 11.21,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 10.8,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "한미약품",
+          "code": "128940",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "신풍제약",
+          "code": "019170",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "한미사이언스",
+          "code": "008930",
+          "rate": 25.7,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 12.14,
+          "amount": null
+        },
+        {
+          "name": "에스티팜",
+          "code": "237690",
+          "rate": 10.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "비철금속",
+      "stocks": [
+        {
+          "name": "삼아알미늄",
+          "code": "006110",
+          "rate": 21.91,
+          "amount": null
+        },
+        {
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "rate": 16.44,
+          "amount": null
+        },
+        {
+          "name": "고려아연",
+          "code": "010130",
+          "rate": 8.65,
+          "amount": null
+        },
+        {
+          "name": "포스코엠텍",
+          "code": "009520",
+          "rate": 6.43,
+          "amount": null
+        },
+        {
+          "name": "영풍",
+          "code": "000670",
+          "rate": 5.76,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "rate": 16.44,
+          "amount": null
+        },
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 11.44,
+          "amount": null
+        },
+        {
+          "name": "NHN KCP",
+          "code": "060250",
+          "rate": 8.39,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 5.41,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 5.22,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "환율하락 수혜",
+      "stocks": [
+        {
+          "name": "고려아연",
+          "code": "010130",
+          "rate": 8.65,
+          "amount": null
+        },
+        {
+          "name": "풍산",
+          "code": "103140",
+          "rate": 5.66,
+          "amount": null
+        },
+        {
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "rate": 5.65,
+          "amount": null
+        },
+        {
+          "name": "농심",
+          "code": "004370",
+          "rate": 5.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 기판",
+      "stocks": [
+        {
+          "name": "티엘비",
+          "code": "356860",
+          "rate": 8.52,
+          "amount": null
+        },
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 5.52,
+          "amount": null
+        },
+        {
+          "name": "심텍홀딩스",
+          "code": "036710",
+          "rate": 5.29,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "피팅/밸브",
+      "stocks": [
+        {
+          "name": "태광",
+          "code": "023160",
+          "rate": 6.2,
+          "amount": null
+        },
+        {
+          "name": "성광벤드",
+          "code": "014620",
+          "rate": 5.45,
+          "amount": null
+        },
+        {
+          "name": "한선엔지니어링",
+          "code": "452280",
+          "rate": 5.25,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

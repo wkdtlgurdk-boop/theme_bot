@@ -1,0 +1,213 @@
+{
+  "date": "20260805",
+  "label": "8/5",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 12.04,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 11.57,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 9.48,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 8.91,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 8.46,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 18.57,
+          "amount": null
+        },
+        {
+          "name": "서울바이오시스",
+          "code": "092190",
+          "rate": 14.23,
+          "amount": null
+        },
+        {
+          "name": "성호전자",
+          "code": "043260",
+          "rate": 13.03,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 12.69,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 10.8,
+          "amount": null
+        },
+        {
+          "name": "자람테크놀로지",
+          "code": "389020",
+          "rate": 10.66,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "기판",
+      "stocks": [
+        {
+          "name": "코리아써키트",
+          "code": "007810",
+          "rate": 14.94,
+          "amount": null
+        },
+        {
+          "name": "LG이노텍",
+          "code": "011070",
+          "rate": 14.48,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 14.43,
+          "amount": null
+        },
+        {
+          "name": "태성",
+          "code": "323280",
+          "rate": 11.86,
+          "amount": null
+        },
+        {
+          "name": "인텍플러스",
+          "code": "064290",
+          "rate": 9.02,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 8.47,
+          "amount": null
+        },
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 8.35,
+          "amount": null
+        },
+        {
+          "name": "삼성물산",
+          "code": "028260",
+          "rate": 7.75,
+          "amount": null
+        },
+        {
+          "name": "DL이앤씨",
+          "code": "375500",
+          "rate": 7.42,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "SOFC",
+      "stocks": [
+        {
+          "name": "두산퓨얼셀",
+          "code": "336260",
+          "rate": 20.98,
+          "amount": null
+        },
+        {
+          "name": "비나텍",
+          "code": "126340",
+          "rate": 11.64,
+          "amount": null
+        },
+        {
+          "name": "아모센스",
+          "code": "357580",
+          "rate": 9.61,
+          "amount": null
+        },
+        {
+          "name": "범한퓨얼셀",
+          "code": "382900",
+          "rate": 6.86,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 15.16,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 13.01,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린엔진",
+          "code": "071970",
+          "rate": 12.55,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 10.8,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,161 @@
+{
+  "date": "20260831",
+  "label": "8/31",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "덕산테코피아",
+          "code": "317330",
+          "rate": 23.34,
+          "amount": null
+        },
+        {
+          "name": "피노",
+          "code": "033790",
+          "rate": 16.3,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 8.83,
+          "amount": null
+        },
+        {
+          "name": "애경케미칼",
+          "code": "161000",
+          "rate": 8.04,
+          "amount": null
+        },
+        {
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "rate": 7.62,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 7.36,
+          "amount": null
+        },
+        {
+          "name": "롯데에너지머티리얼즈",
+          "code": "020150",
+          "rate": 7.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 기판",
+      "stocks": [
+        {
+          "name": "티엘비",
+          "code": "356860",
+          "rate": 6.06,
+          "amount": null
+        },
+        {
+          "name": "덕산하이메탈",
+          "code": "077360",
+          "rate": 5.58,
+          "amount": null
+        },
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 5.29,
+          "amount": null
+        },
+        {
+          "name": "LG이노텍",
+          "code": "011070",
+          "rate": 5.07,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "케이엔알시스템",
+          "code": "199430",
+          "rate": 17.68,
+          "amount": null
+        },
+        {
+          "name": "링크솔루션",
+          "code": "474650",
+          "rate": 7.54,
+          "amount": null
+        },
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 7.44,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 6.53,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 6.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오/제약",
+      "stocks": [
+        {
+          "name": "셀리드",
+          "code": "299660",
+          "rate": 27.15,
+          "amount": null
+        },
+        {
+          "name": "한국비엔씨",
+          "code": "256840",
+          "rate": 9.96,
+          "amount": null
+        },
+        {
+          "name": "JW신약",
+          "code": "067290",
+          "rate": 9.52,
+          "amount": null
+        },
+        {
+          "name": "삼익제약",
+          "code": "014950",
+          "rate": 8.23,
+          "amount": null
+        },
+        {
+          "name": "제일약품",
+          "code": "271980",
+          "rate": 5.74,
+          "amount": null
+        },
+        {
+          "name": "현대약품",
+          "code": "004310",
+          "rate": 3.57,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

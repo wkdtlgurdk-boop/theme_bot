@@ -1,0 +1,73 @@
+{
+  "date": "20260901",
+  "label": "9/1",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "제약",
+      "stocks": [
+        {
+          "name": "JW신약",
+          "code": "067290",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "현대약품",
+          "code": "004310",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "바이오니아",
+          "code": "064550",
+          "rate": 25.14,
+          "amount": null
+        },
+        {
+          "name": "HLB제약",
+          "code": "047920",
+          "rate": 9.28,
+          "amount": null
+        },
+        {
+          "name": "오스코텍",
+          "code": "039200",
+          "rate": 5.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "보험",
+      "stocks": [
+        {
+          "name": "DB손해보험",
+          "code": "005830",
+          "rate": 6.35,
+          "amount": null
+        },
+        {
+          "name": "한화손해보험",
+          "code": "000370",
+          "rate": 5.71,
+          "amount": null
+        },
+        {
+          "name": "현대해상",
+          "code": "001450",
+          "rate": 4.91,
+          "amount": null
+        },
+        {
+          "name": "미래에셋생명",
+          "code": "085620",
+          "rate": 4.18,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

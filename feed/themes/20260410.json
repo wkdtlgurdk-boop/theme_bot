@@ -1,0 +1,125 @@
+{
+  "date": "20260410",
+  "label": "4/10",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 25.32,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 22.46,
+          "amount": null
+        },
+        {
+          "name": "라이콤",
+          "code": "388790",
+          "rate": 19.75,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 18.92,
+          "amount": null
+        },
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 16.45,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "드림시큐리티",
+          "code": "203650",
+          "rate": 13.74,
+          "amount": null
+        },
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 11.17,
+          "amount": null
+        },
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 6.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "해운",
+      "stocks": [
+        {
+          "name": "대한해운",
+          "code": "005880",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "KSS해운",
+          "code": "044450",
+          "rate": 10.39,
+          "amount": null
+        },
+        {
+          "name": "STX그린로지스",
+          "code": "465770",
+          "rate": 6.71,
+          "amount": null
+        },
+        {
+          "name": "흥아해운",
+          "code": "003280",
+          "rate": 4.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "아모텍",
+          "code": "052710",
+          "rate": 21.53,
+          "amount": null
+        },
+        {
+          "name": "아바텍",
+          "code": "149950",
+          "rate": 16.11,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 9.5,
+          "amount": null
+        },
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 8.05,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

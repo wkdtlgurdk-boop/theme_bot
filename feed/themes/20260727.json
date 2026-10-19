@@ -1,0 +1,107 @@
+{
+  "date": "20260727",
+  "label": "7/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "AI",
+      "stocks": [
+        {
+          "name": "코난테크놀로지",
+          "code": "402030",
+          "rate": 19.65,
+          "amount": null
+        },
+        {
+          "name": "셀바스AI",
+          "code": "108860",
+          "rate": 17.66,
+          "amount": null
+        },
+        {
+          "name": "솔트룩스",
+          "code": "304100",
+          "rate": 16.62,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "케이엔알시스템",
+          "code": "199430",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "씨피시스템",
+          "code": "413630",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "이랜시스",
+          "code": "264850",
+          "rate": 17.52,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 14.35,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 장비",
+      "stocks": [
+        {
+          "name": "씨피시스템",
+          "code": "413630",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "미래산업",
+          "code": "025560",
+          "rate": 22.28,
+          "amount": null
+        },
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 6.31,
+          "amount": null
+        },
+        {
+          "name": "하나마이크론",
+          "code": "067310",
+          "rate": 6.02,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "rate": 8.43,
+          "amount": null
+        },
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 5.28,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

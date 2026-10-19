@@ -1,0 +1,65 @@
+{
+  "date": "20260515",
+  "label": "5/15",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "LG",
+      "stocks": [
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 10.83,
+          "amount": null
+        },
+        {
+          "name": "LG",
+          "code": "003550",
+          "rate": 7.69,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "두산로보틱스",
+          "code": "454910",
+          "rate": 19.29,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장(실적)",
+      "stocks": [
+        {
+          "name": "하나마이크론",
+          "code": "067310",
+          "rate": 18.61,
+          "amount": null
+        },
+        {
+          "name": "제주반도체",
+          "code": "080220",
+          "rate": 8.86,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "밸브,피팅(HRSG)(실적)",
+      "stocks": [
+        {
+          "name": "한선엔지니어링",
+          "code": "452280",
+          "rate": 19.18,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

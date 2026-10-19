@@ -1,0 +1,99 @@
+{
+  "date": "20260206",
+  "label": "2/6",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "우주항공",
+      "stocks": [
+        {
+          "name": "스피어",
+          "code": "347700",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "LK삼양",
+          "code": "225190",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 11.44,
+          "amount": null
+        },
+        {
+          "name": "이녹스첨단소재",
+          "code": "272290",
+          "rate": 8.3,
+          "amount": null
+        },
+        {
+          "name": "루미르",
+          "code": "474170",
+          "rate": 7.57,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "코데즈컴바인",
+          "code": "047770",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "조비",
+          "code": "001550",
+          "rate": 23.14,
+          "amount": null
+        },
+        {
+          "name": "좋은사람들",
+          "code": "",
+          "rate": 16.12,
+          "amount": null
+        },
+        {
+          "name": "일신석재",
+          "code": "",
+          "rate": 12.76,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 15.38,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 9.1,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 6.86,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "일신석재",
+    "좋은사람들"
+  ]
+}

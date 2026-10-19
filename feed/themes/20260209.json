@@ -1,0 +1,279 @@
+{
+  "date": "20260209",
+  "label": "2/9",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "아이엠티",
+          "code": "451220",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "디아이",
+          "code": "003160",
+          "rate": 25.46,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 22.71,
+          "amount": null
+        },
+        {
+          "name": "와이씨",
+          "code": "232140",
+          "rate": 16.82,
+          "amount": null
+        },
+        {
+          "name": "오픈엣지테크놀로지",
+          "code": "394280",
+          "rate": 13.33,
+          "amount": null
+        },
+        {
+          "name": "큐알티",
+          "code": "405100",
+          "rate": 10.77,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "대주전자재료",
+          "code": "078600",
+          "rate": 27.41,
+          "amount": null
+        },
+        {
+          "name": "한울반도체",
+          "code": "320000",
+          "rate": 8.94,
+          "amount": null
+        },
+        {
+          "name": "코칩",
+          "code": "126730",
+          "rate": 8.71,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 7.04,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "페인트",
+      "stocks": [
+        {
+          "name": "삼화페인트",
+          "code": "",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "벽산",
+          "code": "007210",
+          "rate": 10.13,
+          "amount": null
+        },
+        {
+          "name": "노루페인트",
+          "code": "090350",
+          "rate": 9.42,
+          "amount": null
+        },
+        {
+          "name": "KCC",
+          "code": "002380",
+          "rate": 4.97,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스페이스X",
+      "stocks": [
+        {
+          "name": "와이제이링크",
+          "code": "209640",
+          "rate": 17.15,
+          "amount": null
+        },
+        {
+          "name": "나노팀",
+          "code": "417010",
+          "rate": 12.22,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 11.25,
+          "amount": null
+        },
+        {
+          "name": "이녹스첨단소재",
+          "code": "272290",
+          "rate": 11.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력기기/전선",
+      "stocks": [
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 12.72,
+          "amount": null
+        },
+        {
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "rate": 11.07,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 8.57,
+          "amount": null
+        },
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 8.37,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 6.04,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 5.62,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "대주전자재료",
+          "code": "078600",
+          "rate": 27.41,
+          "amount": null
+        },
+        {
+          "name": "피엔티",
+          "code": "137400",
+          "rate": 12.06,
+          "amount": null
+        },
+        {
+          "name": "엔켐",
+          "code": "348370",
+          "rate": 9.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 13.57,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 12.16,
+          "amount": null
+        },
+        {
+          "name": "선익시스템",
+          "code": "171090",
+          "rate": 9.53,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 4.85,
+          "amount": null
+        },
+        {
+          "name": "OCI",
+          "code": "456040",
+          "rate": 4.81,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 4.47,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "rate": 20.25,
+          "amount": null
+        },
+        {
+          "name": "에이블씨엔씨",
+          "code": "078520",
+          "rate": 15.56,
+          "amount": null
+        },
+        {
+          "name": "아모레퍼시픽홀딩스",
+          "code": "002790",
+          "rate": 14.78,
+          "amount": null
+        },
+        {
+          "name": "브이티",
+          "code": "018290",
+          "rate": 11.08,
+          "amount": null
+        },
+        {
+          "name": "제닉",
+          "code": "123330",
+          "rate": 10.06,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "삼화페인트"
+  ]
+}

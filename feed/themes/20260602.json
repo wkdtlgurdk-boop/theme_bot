@@ -1,0 +1,97 @@
+{
+  "date": "20260602",
+  "label": "6/2",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "생명보험",
+      "stocks": [
+        {
+          "name": "미래에셋생명",
+          "code": "085620",
+          "rate": 23.06,
+          "amount": null
+        },
+        {
+          "name": "삼성생명",
+          "code": "032830",
+          "rate": 12.93,
+          "amount": null
+        },
+        {
+          "name": "동양생명",
+          "code": "",
+          "rate": 4.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "게임",
+      "stocks": [
+        {
+          "name": "한빛소프트",
+          "code": "047080",
+          "rate": 15.66,
+          "amount": null
+        },
+        {
+          "name": "NC",
+          "code": "036570",
+          "rate": 10.32,
+          "amount": null
+        },
+        {
+          "name": "넷마블",
+          "code": "251270",
+          "rate": 5.36,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "유통",
+      "stocks": [
+        {
+          "name": "신세계",
+          "code": "004170",
+          "rate": 11.05,
+          "amount": null
+        },
+        {
+          "name": "현대백화점",
+          "code": "069960",
+          "rate": 8.47,
+          "amount": null
+        },
+        {
+          "name": "롯데쇼핑",
+          "code": "023530",
+          "rate": 5.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "부동산 보유 자산주",
+      "stocks": [
+        {
+          "name": "동양고속",
+          "code": "084670",
+          "rate": 10.04,
+          "amount": null
+        },
+        {
+          "name": "천일고속",
+          "code": "000650",
+          "rate": 9.52,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "동양생명"
+  ]
+}

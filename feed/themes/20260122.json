@@ -1,0 +1,83 @@
+{
+  "date": "20260122",
+  "label": "1/22",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "이차전지(전고체)",
+      "stocks": [
+        {
+          "name": "유일에너테크",
+          "code": "",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "씨아이에스",
+          "code": "",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "레이크머티리얼즈",
+          "code": "281740",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "이브이첨단소재",
+          "code": "",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "한농화성",
+          "code": "011500",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "롯데에너지머티리얼즈",
+          "code": "020150",
+          "rate": 26.61,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 18.67,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "해성에어로보틱스",
+          "code": "059270",
+          "rate": 29.72,
+          "amount": null
+        },
+        {
+          "name": "티엑스알로보틱스",
+          "code": "484810",
+          "rate": 19.36,
+          "amount": null
+        },
+        {
+          "name": "로보로보",
+          "code": "215100",
+          "rate": 16.7,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨아이에스",
+    "유일에너테크",
+    "이브이첨단소재"
+  ]
+}

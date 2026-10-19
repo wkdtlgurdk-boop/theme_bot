@@ -1,0 +1,119 @@
+{
+  "date": "20251217",
+  "label": "12/17",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "탈모",
+      "stocks": [
+        {
+          "name": "이노진",
+          "code": "344860",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "TS트릴리온",
+          "code": "317240",
+          "rate": 29.77,
+          "amount": null
+        },
+        {
+          "name": "메타랩스",
+          "code": "090370",
+          "rate": 29.72,
+          "amount": null
+        },
+        {
+          "name": "신신제약",
+          "code": "002800",
+          "rate": 22.32,
+          "amount": null
+        },
+        {
+          "name": "JW신약",
+          "code": "067290",
+          "rate": 13.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "정원오(정치테마)",
+      "stocks": [
+        {
+          "name": "에스제이그룹",
+          "code": "306040",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "육일씨엔에쓰",
+          "code": "191410",
+          "rate": 17.66,
+          "amount": null
+        },
+        {
+          "name": "대주산업",
+          "code": "003310",
+          "rate": 5.59,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "저출산",
+      "stocks": [
+        {
+          "name": "에르코스",
+          "code": "435570",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "꿈비",
+          "code": "407400",
+          "rate": 23.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "피에스케이",
+          "code": "319660",
+          "rate": 10.17,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 6.85,
+          "amount": null
+        },
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 6.54,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 6.32,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 4.96,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

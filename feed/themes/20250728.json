@@ -1,0 +1,66 @@
+{
+  "date": "20250728",
+  "label": "7/28",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "두산테스나",
+          "code": "131970",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "코아시아",
+          "code": "045970",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "제이엔비",
+          "code": "452160",
+          "rate": 29.87,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 14.31,
+          "amount": null
+        },
+        {
+          "name": "산일전기",
+          "code": "062040",
+          "rate": 13.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 8.44,
+          "amount": null
+        },
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 6.69,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

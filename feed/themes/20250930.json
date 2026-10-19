@@ -1,0 +1,140 @@
+{
+  "date": "20250930",
+  "label": "9/30",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "대마",
+      "stocks": [
+        {
+          "name": "애머릿지",
+          "code": "",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "오성첨단소재",
+          "code": "052420",
+          "rate": 16.83,
+          "amount": null
+        },
+        {
+          "name": "화일약품",
+          "code": "061250",
+          "rate": 4.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선/조선기자재",
+      "stocks": [
+        {
+          "name": "KS인더스트리",
+          "code": "101000",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "케이프",
+          "code": "064820",
+          "rate": 8.23,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 8.11,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 6.78,
+          "amount": null
+        },
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 4.85,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 4.78,
+          "amount": null
+        },
+        {
+          "name": "HD현대미포",
+          "code": "",
+          "rate": 4.57,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의료기기",
+      "stocks": [
+        {
+          "name": "라메디텍",
+          "code": "462510",
+          "rate": 21.97,
+          "amount": null
+        },
+        {
+          "name": "한스바이오메드",
+          "code": "042520",
+          "rate": 16.18,
+          "amount": null
+        },
+        {
+          "name": "로킷헬스케어",
+          "code": "376900",
+          "rate": 13.26,
+          "amount": null
+        },
+        {
+          "name": "바이오비쥬",
+          "code": "489460",
+          "rate": 7.07,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "이뮨온시아",
+          "code": "424870",
+          "rate": 16.4,
+          "amount": null
+        },
+        {
+          "name": "오스코텍",
+          "code": "039200",
+          "rate": 9.1,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 5.64,
+          "amount": null
+        },
+        {
+          "name": "지투지바이오",
+          "code": "456160",
+          "rate": 5.1,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HD현대미포",
+    "애머릿지"
+  ]
+}

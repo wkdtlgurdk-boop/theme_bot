@@ -1,0 +1,79 @@
+{
+  "date": "20251216",
+  "label": "12/16",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "BIO",
+      "stocks": [
+        {
+          "name": "위더스제약",
+          "code": "330350",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "JW신약",
+          "code": "067290",
+          "rate": 26.13,
+          "amount": null
+        },
+        {
+          "name": "현대약품",
+          "code": "004310",
+          "rate": 11.06,
+          "amount": null
+        },
+        {
+          "name": "안트로젠",
+          "code": "065660",
+          "rate": 5.42,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "더라미",
+          "code": "032860",
+          "rate": 16.83,
+          "amount": null
+        },
+        {
+          "name": "에이블씨엔씨",
+          "code": "078520",
+          "rate": 15.89,
+          "amount": null
+        },
+        {
+          "name": "코스메카코리아",
+          "code": "241710",
+          "rate": 7.85,
+          "amount": null
+        },
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 6.29,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 5.18,
+          "amount": null
+        },
+        {
+          "name": "코스맥스",
+          "code": "192820",
+          "rate": 5.14,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

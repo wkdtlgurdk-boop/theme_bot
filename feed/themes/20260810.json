@@ -1,0 +1,263 @@
+{
+  "date": "20260810",
+  "label": "8/10",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 22.51,
+          "amount": null
+        },
+        {
+          "name": "성호전자",
+          "code": "043260",
+          "rate": 19.99,
+          "amount": null
+        },
+        {
+          "name": "서울바이오시스",
+          "code": "092190",
+          "rate": 17.52,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 17.22,
+          "amount": null
+        },
+        {
+          "name": "파이버프로",
+          "code": "368770",
+          "rate": 15.25,
+          "amount": null
+        },
+        {
+          "name": "RFHIC",
+          "code": "218410",
+          "rate": 12.28,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "space x",
+      "stocks": [
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 17.65,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 15.22,
+          "amount": null
+        },
+        {
+          "name": "아주IB투자",
+          "code": "027360",
+          "rate": 14.53,
+          "amount": null
+        },
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 11.12,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 9.36,
+          "amount": null
+        },
+        {
+          "name": "스피어",
+          "code": "347700",
+          "rate": 8.89,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 7.37,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "앱클론",
+          "code": "174900",
+          "rate": 23.93,
+          "amount": null
+        },
+        {
+          "name": "보로노이",
+          "code": "310210",
+          "rate": 19.43,
+          "amount": null
+        },
+        {
+          "name": "알테오젠",
+          "code": "196170",
+          "rate": 14.1,
+          "amount": null
+        },
+        {
+          "name": "알지노믹스",
+          "code": "476830",
+          "rate": 13.89,
+          "amount": null
+        },
+        {
+          "name": "지투지바이오",
+          "code": "456160",
+          "rate": 13.84,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 13.7,
+          "amount": null
+        },
+        {
+          "name": "오름테라퓨틱",
+          "code": "",
+          "rate": 12.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "티씨케이",
+          "code": "064760",
+          "rate": 20.74,
+          "amount": null
+        },
+        {
+          "name": "심텍홀딩스",
+          "code": "036710",
+          "rate": 20.55,
+          "amount": null
+        },
+        {
+          "name": "한솔아이원스",
+          "code": "114810",
+          "rate": 19.09,
+          "amount": null
+        },
+        {
+          "name": "제주반도체",
+          "code": "080220",
+          "rate": 16.31,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 14.45,
+          "amount": null
+        },
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 13.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 13.57,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 12.16,
+          "amount": null
+        },
+        {
+          "name": "선익시스템",
+          "code": "171090",
+          "rate": 9.53,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 4.85,
+          "amount": null
+        },
+        {
+          "name": "OCI",
+          "code": "456040",
+          "rate": 4.81,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 4.47,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "rate": 20.25,
+          "amount": null
+        },
+        {
+          "name": "에이블씨엔씨",
+          "code": "078520",
+          "rate": 15.56,
+          "amount": null
+        },
+        {
+          "name": "아모레퍼시픽홀딩스",
+          "code": "002790",
+          "rate": 14.78,
+          "amount": null
+        },
+        {
+          "name": "브이티",
+          "code": "018290",
+          "rate": 11.08,
+          "amount": null
+        },
+        {
+          "name": "제닉",
+          "code": "123330",
+          "rate": 10.06,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "오름테라퓨틱"
+  ]
+}

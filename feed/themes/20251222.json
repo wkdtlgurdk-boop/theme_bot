@@ -1,0 +1,67 @@
+{
+  "date": "20251222",
+  "label": "12/22",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "계양전기",
+          "code": "012200",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "현대무벡스",
+          "code": "319400",
+          "rate": 18.6,
+          "amount": null
+        },
+        {
+          "name": "이랜시스",
+          "code": "264850",
+          "rate": 17.78,
+          "amount": null
+        },
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 17.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "비츠로넥스텍",
+          "code": "488900",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "나라스페이스테크놀로지",
+          "code": "478340",
+          "rate": 26.81,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

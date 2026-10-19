@@ -1,0 +1,74 @@
+{
+  "date": "20250729",
+  "label": "7/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "제이엔비",
+          "code": "452160",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "매커스",
+          "code": "093520",
+          "rate": 16.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "소룩스",
+          "code": "",
+          "rate": 16.57,
+          "amount": null
+        },
+        {
+          "name": "팜젠사이언스",
+          "code": "004720",
+          "rate": 16.02,
+          "amount": null
+        },
+        {
+          "name": "종근당",
+          "code": "185750",
+          "rate": 15.29,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "화인베스틸",
+          "code": "133820",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "동성화인텍",
+          "code": "033500",
+          "rate": 13.62,
+          "amount": null
+        },
+        {
+          "name": "한국카본",
+          "code": "017960",
+          "rate": 9.96,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "소룩스"
+  ]
+}

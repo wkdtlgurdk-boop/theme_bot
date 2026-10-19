@@ -1,0 +1,84 @@
+{
+  "date": "20260720",
+  "label": "7/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "사료",
+      "stocks": [
+        {
+          "name": "고려산업",
+          "code": "002140",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "미래생명자원",
+          "code": "218150",
+          "rate": 29.8,
+          "amount": null
+        },
+        {
+          "name": "한일사료",
+          "code": "005860",
+          "rate": 14.94,
+          "amount": null
+        },
+        {
+          "name": "한탑",
+          "code": "002680",
+          "rate": 13.79,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "신재생에너지",
+      "stocks": [
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 7.5,
+          "amount": null
+        },
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 6.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "레몬헬스케어",
+          "code": "365660",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "삼천당제약",
+          "code": "000250",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "로킷헬스케어",
+          "code": "376900",
+          "rate": 26.99,
+          "amount": null
+        },
+        {
+          "name": "삼익제약",
+          "code": "014950",
+          "rate": 12.39,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

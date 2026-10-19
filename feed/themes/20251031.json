@@ -1,0 +1,119 @@
+{
+  "date": "20251031",
+  "label": "10/31",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "자동차",
+      "stocks": [
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 9.43,
+          "amount": null
+        },
+        {
+          "name": "한온시스템",
+          "code": "018880",
+          "rate": 5.82,
+          "amount": null
+        },
+        {
+          "name": "HL만도",
+          "code": "204320",
+          "rate": 5.76,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 24.01,
+          "amount": null
+        },
+        {
+          "name": "뉴로메카",
+          "code": "348340",
+          "rate": 20.15,
+          "amount": null
+        },
+        {
+          "name": "에스피시스템스",
+          "code": "317830",
+          "rate": 13.78,
+          "amount": null
+        },
+        {
+          "name": "티로보틱스",
+          "code": "117730",
+          "rate": 13.28,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자율주행",
+      "stocks": [
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 26.08,
+          "amount": null
+        },
+        {
+          "name": "유니퀘스트",
+          "code": "077500",
+          "rate": 17.23,
+          "amount": null
+        },
+        {
+          "name": "에스오에스랩",
+          "code": "464080",
+          "rate": 12.56,
+          "amount": null
+        },
+        {
+          "name": "MDS테크",
+          "code": "086960",
+          "rate": 10.59,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 25.23,
+          "amount": null
+        },
+        {
+          "name": "한올바이오파마",
+          "code": "009420",
+          "rate": 22.49,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 15.5,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

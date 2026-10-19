@@ -1,0 +1,138 @@
+{
+  "date": "20260521",
+  "label": "5/21",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "피지컬AI",
+      "stocks": [
+        {
+          "name": "아이엘",
+          "code": "307180",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 28.84,
+          "amount": null
+        },
+        {
+          "name": "뉴로메카",
+          "code": "348340",
+          "rate": 19.03,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 17.41,
+          "amount": null
+        },
+        {
+          "name": "LG디스플레이",
+          "code": "034220",
+          "rate": 17.36,
+          "amount": null
+        },
+        {
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "rate": 12.44,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 21.14,
+          "amount": null
+        },
+        {
+          "name": "엠케이전자",
+          "code": "033160",
+          "rate": 16.84,
+          "amount": null
+        },
+        {
+          "name": "ISC",
+          "code": "095340",
+          "rate": 12.91,
+          "amount": null
+        },
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 11.73,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 11.17,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 8.51,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자동차",
+      "stocks": [
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 25.23,
+          "amount": null
+        },
+        {
+          "name": "현대위아",
+          "code": "011210",
+          "rate": 16.37,
+          "amount": null
+        },
+        {
+          "name": "HL만도",
+          "code": "204320",
+          "rate": 14.83,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 12.5,
+          "amount": null
+        },
+        {
+          "name": "기아",
+          "code": "000270",
+          "rate": 12.38,
+          "amount": null
+        },
+        {
+          "name": "한온시스템",
+          "code": "018880",
+          "rate": 11.02,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,176 @@
+{
+  "date": "20260128",
+  "label": "1/28",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "네오셈",
+          "code": "253590",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "태성",
+          "code": "323280",
+          "rate": 26.69,
+          "amount": null
+        },
+        {
+          "name": "제주반도체",
+          "code": "080220",
+          "rate": 17.64,
+          "amount": null
+        },
+        {
+          "name": "HPSP",
+          "code": "403870",
+          "rate": 16.64,
+          "amount": null
+        },
+        {
+          "name": "하나마이크론",
+          "code": "067310",
+          "rate": 10.76,
+          "amount": null
+        },
+        {
+          "name": "SFA반도체",
+          "code": "036540",
+          "rate": 10.33,
+          "amount": null
+        },
+        {
+          "name": "sk하이닉스",
+          "code": "",
+          "rate": 8.38,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "알트",
+          "code": "459550",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 22.31,
+          "amount": null
+        },
+        {
+          "name": "아크릴",
+          "code": "0007C0",
+          "rate": 17.0,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 12.33,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 6.92,
+          "amount": null
+        },
+        {
+          "name": "고영",
+          "code": "098460",
+          "rate": 6.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "에코프로그룹/이차전지",
+      "stocks": [
+        {
+          "name": "에코프로에이치엔",
+          "code": "383310",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 19.36,
+          "amount": null
+        },
+        {
+          "name": "엔켐",
+          "code": "348370",
+          "rate": 14.72,
+          "amount": null
+        },
+        {
+          "name": "에코프로머티",
+          "code": "450080",
+          "rate": 12.52,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 7.15,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 4.92,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 4.77,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "정원오",
+      "stocks": [
+        {
+          "name": "삼표시멘트",
+          "code": "038500",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "육일씨엔에스",
+          "code": "",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "대주산업",
+          "code": "003310",
+          "rate": 11.48,
+          "amount": null
+        },
+        {
+          "name": "바이오스마트",
+          "code": "038460",
+          "rate": 9.24,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "sk하이닉스",
+    "육일씨엔에스"
+  ]
+}

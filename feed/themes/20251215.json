@@ -1,0 +1,139 @@
+{
+  "date": "20251215",
+  "label": "12/15",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 22.75,
+          "amount": null
+        },
+        {
+          "name": "디아이씨",
+          "code": "092200",
+          "rate": 15.68,
+          "amount": null
+        },
+        {
+          "name": "티로보틱스",
+          "code": "117730",
+          "rate": 10.39,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 10.02,
+          "amount": null
+        },
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 7.35,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "정치/테마",
+      "stocks": [
+        {
+          "name": "육일씨엔에쓰",
+          "code": "191410",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "대주산업",
+          "code": "003310",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "바이오스마트",
+          "code": "038460",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "에스제이그룹",
+          "code": "306040",
+          "rate": 29.91,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "에임드바이오",
+          "code": "0009K0",
+          "rate": 26.12,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 7.7,
+          "amount": null
+        },
+        {
+          "name": "삼성에피스홀딩스",
+          "code": "0126Z0",
+          "rate": 7.26,
+          "amount": null
+        },
+        {
+          "name": "프로티나",
+          "code": "",
+          "rate": 5.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주항공",
+      "stocks": [
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 10.21,
+          "amount": null
+        },
+        {
+          "name": "컨텍",
+          "code": "451760",
+          "rate": 9.63,
+          "amount": null
+        },
+        {
+          "name": "세아베스틸지주",
+          "code": "001430",
+          "rate": 9.39,
+          "amount": null
+        },
+        {
+          "name": "이노스페이스",
+          "code": "462350",
+          "rate": 8.94,
+          "amount": null
+        },
+        {
+          "name": "비츠로테크",
+          "code": "042370",
+          "rate": 7.09,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "프로티나"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "20260730",
+  "label": "7/30",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 10.0,
+          "amount": null
+        },
+        {
+          "name": "대한조선",
+          "code": "439260",
+          "rate": 9.61,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 6.3,
+          "amount": null
+        },
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 5.93,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 6.49,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 6.48,
+          "amount": null
+        },
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 4.75,
+          "amount": null
+        },
+        {
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "rate": 4.16,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

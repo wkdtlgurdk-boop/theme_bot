@@ -1,0 +1,45 @@
+{
+  "date": "20250926",
+  "label": "9/26",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "스테이블 코인",
+      "stocks": [
+        {
+          "name": "쿠콘",
+          "code": "294570",
+          "rate": 15.91,
+          "amount": null
+        },
+        {
+          "name": "NHN KCP",
+          "code": "060250",
+          "rate": 8.72,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "양자컴퓨터",
+      "stocks": [
+        {
+          "name": "포톤",
+          "code": "208710",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "리닉스",
+          "code": "",
+          "rate": 29.9,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "리닉스"
+  ]
+}

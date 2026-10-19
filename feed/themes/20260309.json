@@ -1,0 +1,166 @@
+{
+  "date": "20260309",
+  "label": "3/9",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "에너지",
+      "stocks": [
+        {
+          "name": "대성에너지",
+          "code": "117580",
+          "rate": 21.23,
+          "amount": null
+        },
+        {
+          "name": "중앙에너비스",
+          "code": "000440",
+          "rate": 11.15,
+          "amount": null
+        },
+        {
+          "name": "지에스이",
+          "code": "053050",
+          "rate": 9.2,
+          "amount": null
+        },
+        {
+          "name": "서울가스",
+          "code": "017390",
+          "rate": 6.81,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "식량",
+      "stocks": [
+        {
+          "name": "남해화학",
+          "code": "025860",
+          "rate": 17.52,
+          "amount": null
+        },
+        {
+          "name": "조비",
+          "code": "001550",
+          "rate": 11.93,
+          "amount": null
+        },
+        {
+          "name": "효성오앤비",
+          "code": "097870",
+          "rate": 9.09,
+          "amount": null
+        },
+        {
+          "name": "롯데정밀화학",
+          "code": "004000",
+          "rate": 8.58,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "한일단조",
+          "code": "024740",
+          "rate": 6.05,
+          "amount": null
+        },
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 5.95,
+          "amount": null
+        },
+        {
+          "name": "디와이씨",
+          "code": "310870",
+          "rate": 4.66,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 13.57,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 12.16,
+          "amount": null
+        },
+        {
+          "name": "선익시스템",
+          "code": "171090",
+          "rate": 9.53,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 4.85,
+          "amount": null
+        },
+        {
+          "name": "OCI",
+          "code": "456040",
+          "rate": 4.81,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 4.47,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "rate": 20.25,
+          "amount": null
+        },
+        {
+          "name": "에이블씨엔씨",
+          "code": "078520",
+          "rate": 15.56,
+          "amount": null
+        },
+        {
+          "name": "아모레퍼시픽홀딩스",
+          "code": "002790",
+          "rate": 14.78,
+          "amount": null
+        },
+        {
+          "name": "브이티",
+          "code": "018290",
+          "rate": 11.08,
+          "amount": null
+        },
+        {
+          "name": "제닉",
+          "code": "123330",
+          "rate": 10.06,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

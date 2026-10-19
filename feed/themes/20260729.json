@@ -1,0 +1,44 @@
+{
+  "date": "20260729",
+  "label": "7/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "엔젤로보틱스",
+          "code": "455900",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "티엑스알로보틱스",
+          "code": "484810",
+          "rate": 24.62,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 20.29,
+          "amount": null
+        },
+        {
+          "name": "현대무벡스",
+          "code": "319400",
+          "rate": 12.47,
+          "amount": null
+        },
+        {
+          "name": "코스모로보틱스",
+          "code": "439960",
+          "rate": 5.29,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

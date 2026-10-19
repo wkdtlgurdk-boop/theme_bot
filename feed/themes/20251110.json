@@ -1,0 +1,160 @@
+{
+  "date": "20251110",
+  "label": "11/10",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "이노테크",
+          "code": "469610",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 15.73,
+          "amount": null
+        },
+        {
+          "name": "고영",
+          "code": "098460",
+          "rate": 9.82,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 4.48,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력설비",
+      "stocks": [
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 8.64,
+          "amount": null
+        },
+        {
+          "name": "한국전력",
+          "code": "015760",
+          "rate": 4.88,
+          "amount": null
+        },
+        {
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "rate": 4.77,
+          "amount": null
+        },
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 3.02,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "NH투자증권",
+          "code": "005940",
+          "rate": 10.14,
+          "amount": null
+        },
+        {
+          "name": "신영증권",
+          "code": "001720",
+          "rate": 9.54,
+          "amount": null
+        },
+        {
+          "name": "키움증권",
+          "code": "039490",
+          "rate": 8.35,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 5.28,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "HS효성",
+          "code": "487570",
+          "rate": 16.5,
+          "amount": null
+        },
+        {
+          "name": "GS",
+          "code": "078930",
+          "rate": 11.79,
+          "amount": null
+        },
+        {
+          "name": "SK",
+          "code": "034730",
+          "rate": 9.29,
+          "amount": null
+        },
+        {
+          "name": "한화",
+          "code": "000880",
+          "rate": 8.29,
+          "amount": null
+        },
+        {
+          "name": "코오롱",
+          "code": "002020",
+          "rate": 7.48,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 6.19,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "롯데에너지머티리얼즈",
+          "code": "020150",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "한빛레이저",
+          "code": "452190",
+          "rate": 8.95,
+          "amount": null
+        },
+        {
+          "name": "원익피앤이",
+          "code": "217820",
+          "rate": 7.5,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

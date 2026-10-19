@@ -1,0 +1,281 @@
+{
+  "date": "20260403",
+  "label": "4/3",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "광통신/통신장비",
+      "stocks": [
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "대한광통신",
+          "code": "010170",
+          "rate": 25.89,
+          "amount": null
+        },
+        {
+          "name": "머큐리",
+          "code": "100590",
+          "rate": 17.76,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 10.89,
+          "amount": null
+        },
+        {
+          "name": "피노",
+          "code": "033790",
+          "rate": 9.52,
+          "amount": null
+        },
+        {
+          "name": "쏠리드",
+          "code": "050890",
+          "rate": 8.16,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "풍력에너지",
+      "stocks": [
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 24.0,
+          "amount": null
+        },
+        {
+          "name": "씨에스윈드",
+          "code": "112610",
+          "rate": 18.49,
+          "amount": null
+        },
+        {
+          "name": "씨에스베어링",
+          "code": "297090",
+          "rate": 14.82,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 14.32,
+          "amount": null
+        },
+        {
+          "name": "유니슨",
+          "code": "018000",
+          "rate": 12.89,
+          "amount": null
+        },
+        {
+          "name": "세아제강지주",
+          "code": "003030",
+          "rate": 11.45,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 10.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광에너지",
+      "stocks": [
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "에스에너지",
+          "code": "095910",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "신성이엔지",
+          "code": "011930",
+          "rate": 25.27,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 12.79,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 11.95,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 10.75,
+          "amount": null
+        },
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 9.69,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "철강",
+      "stocks": [
+        {
+          "name": "넥스틸",
+          "code": "092790",
+          "rate": 21.4,
+          "amount": null
+        },
+        {
+          "name": "세아제강",
+          "code": "306200",
+          "rate": 8.13,
+          "amount": null
+        },
+        {
+          "name": "대한제강",
+          "code": "084010",
+          "rate": 7.97,
+          "amount": null
+        },
+        {
+          "name": "휴스틸",
+          "code": "005010",
+          "rate": 7.03,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 6.53,
+          "amount": null
+        },
+        {
+          "name": "이렘",
+          "code": "009730",
+          "rate": 5.6,
+          "amount": null
+        },
+        {
+          "name": "동국제강",
+          "code": "460860",
+          "rate": 4.33,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "한일단조",
+          "code": "024740",
+          "rate": 9.86,
+          "amount": null
+        },
+        {
+          "name": "LIG넥스원",
+          "code": "",
+          "rate": 9.69,
+          "amount": null
+        },
+        {
+          "name": "휴니드",
+          "code": "005870",
+          "rate": 6.67,
+          "amount": null
+        },
+        {
+          "name": "비츠로셀",
+          "code": "082920",
+          "rate": 5.04,
+          "amount": null
+        },
+        {
+          "name": "한화시스템",
+          "code": "272210",
+          "rate": 4.8,
+          "amount": null
+        },
+        {
+          "name": "현대로템",
+          "code": "064350",
+          "rate": 4.22,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선/기자재",
+      "stocks": [
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 14.32,
+          "amount": null
+        },
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 13.66,
+          "amount": null
+        },
+        {
+          "name": "한국카본",
+          "code": "017960",
+          "rate": 13.64,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 9.23,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 7.51,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 7.29,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 6.99,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "LIG넥스원"
+  ]
+}

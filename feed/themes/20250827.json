@@ -1,0 +1,74 @@
+{
+  "date": "20250827",
+  "label": "8/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "인벤티지랩",
+          "code": "389470",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "고바이오랩",
+          "code": "348150",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "지투지바이오",
+          "code": "456160",
+          "rate": 14.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "HD현대미포",
+          "code": "",
+          "rate": 14.59,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 11.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "수소연료전지",
+      "stocks": [
+        {
+          "name": "엔케이",
+          "code": "085310",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "미코",
+          "code": "059090",
+          "rate": 21.42,
+          "amount": null
+        },
+        {
+          "name": "범한퓨얼셀",
+          "code": "382900",
+          "rate": 11.6,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HD현대미포"
+  ]
+}

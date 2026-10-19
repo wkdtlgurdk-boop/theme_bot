@@ -1,0 +1,69 @@
+{
+  "date": "20260803",
+  "label": "8/3",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "나우로보틱스",
+          "code": "459510",
+          "rate": 19.04,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 17.25,
+          "amount": null
+        },
+        {
+          "name": "케이엔알시스템",
+          "code": "199430",
+          "rate": 13.05,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 10.13,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "펨트론",
+          "code": "168360",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "이앤디파마텍",
+          "code": "",
+          "rate": 12.5,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 11.18,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "이앤디파마텍"
+  ]
+}

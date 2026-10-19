@@ -1,0 +1,152 @@
+{
+  "date": "20260428",
+  "label": "4/28",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "철강",
+      "stocks": [
+        {
+          "name": "넥스틸",
+          "code": "092790",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "포스코스틸리온",
+          "code": "058430",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "금강철강",
+          "code": "053260",
+          "rate": 29.86,
+          "amount": null
+        },
+        {
+          "name": "TCC스틸",
+          "code": "002710",
+          "rate": 19.7,
+          "amount": null
+        },
+        {
+          "name": "휴스틸",
+          "code": "005010",
+          "rate": 17.22,
+          "amount": null
+        },
+        {
+          "name": "세아제강",
+          "code": "306200",
+          "rate": 12.55,
+          "amount": null
+        },
+        {
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "rate": 11.74,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지/리튬",
+      "stocks": [
+        {
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "rate": 11.74,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 7.09,
+          "amount": null
+        },
+        {
+          "name": "후성",
+          "code": "093370",
+          "rate": 6.7,
+          "amount": null
+        },
+        {
+          "name": "씨아이에스",
+          "code": "",
+          "rate": 6.25,
+          "amount": null
+        },
+        {
+          "name": "하이드로리튬",
+          "code": "101670",
+          "rate": 5.97,
+          "amount": null
+        },
+        {
+          "name": "포스코엠텍",
+          "code": "009520",
+          "rate": 5.93,
+          "amount": null
+        },
+        {
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "rate": 5.41,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 8.39,
+          "amount": null
+        },
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 7.69,
+          "amount": null
+        },
+        {
+          "name": "LG이노텍",
+          "code": "011070",
+          "rate": 7.65,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 5.92,
+          "amount": null
+        },
+        {
+          "name": "티로보틱스",
+          "code": "117730",
+          "rate": 5.41,
+          "amount": null
+        },
+        {
+          "name": "아크릴",
+          "code": "0007C0",
+          "rate": 5.4,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 4.67,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨아이에스"
+  ]
+}

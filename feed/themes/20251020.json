@@ -1,0 +1,231 @@
+{
+  "date": "20251020",
+  "label": "10/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 17.17,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 14.02,
+          "amount": null
+        },
+        {
+          "name": "키움증권",
+          "code": "039490",
+          "rate": 12.1,
+          "amount": null
+        },
+        {
+          "name": "부국증권",
+          "code": "001270",
+          "rate": 11.11,
+          "amount": null
+        },
+        {
+          "name": "NH투자증권",
+          "code": "005940",
+          "rate": 7.81,
+          "amount": null
+        },
+        {
+          "name": "신영증권",
+          "code": "001720",
+          "rate": 7.42,
+          "amount": null
+        },
+        {
+          "name": "대신증권",
+          "code": "003540",
+          "rate": 7.12,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 29.86,
+          "amount": null
+        },
+        {
+          "name": "에브리봇",
+          "code": "270660",
+          "rate": 18.36,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 16.11,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 12.63,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 11.18,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "엠앤씨솔루션",
+          "code": "484870",
+          "rate": 9.81,
+          "amount": null
+        },
+        {
+          "name": "삼양컴텍",
+          "code": "484590",
+          "rate": 9.49,
+          "amount": null
+        },
+        {
+          "name": "현대로템",
+          "code": "064350",
+          "rate": 4.71,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "rate": 4.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "피에스케이",
+          "code": "319660",
+          "rate": 14.2,
+          "amount": null
+        },
+        {
+          "name": "브이원텍",
+          "code": "251630",
+          "rate": 10.36,
+          "amount": null
+        },
+        {
+          "name": "코미코",
+          "code": "183300",
+          "rate": 9.46,
+          "amount": null
+        },
+        {
+          "name": "유진테크",
+          "code": "084370",
+          "rate": 8.37,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 4.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "호텔/리조트",
+      "stocks": [
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 4.47,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 4.0,
+          "amount": null
+        },
+        {
+          "name": "파라다이스",
+          "code": "034230",
+          "rate": 3.34,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 2.52,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주",
+      "stocks": [
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 14.02,
+          "amount": null
+        },
+        {
+          "name": "코오롱",
+          "code": "002020",
+          "rate": 9.41,
+          "amount": null
+        },
+        {
+          "name": "한화",
+          "code": "000880",
+          "rate": 7.64,
+          "amount": null
+        },
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 6.0,
+          "amount": null
+        },
+        {
+          "name": "메리츠금융지주",
+          "code": "138040",
+          "rate": 5.55,
+          "amount": null
+        },
+        {
+          "name": "HD현대",
+          "code": "267250",
+          "rate": 5.28,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 5.01,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

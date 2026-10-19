@@ -1,0 +1,78 @@
+{
+  "date": "20260223",
+  "label": "2/23",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "아모텍",
+          "code": "052710",
+          "rate": 25.0,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 13.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "엠디바이스",
+          "code": "226590",
+          "rate": 29.86,
+          "amount": null
+        },
+        {
+          "name": "DSC인베스트먼트",
+          "code": "241520",
+          "rate": 25.9,
+          "amount": null
+        },
+        {
+          "name": "TS인베스트먼트",
+          "code": "246690",
+          "rate": 11.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "보험",
+      "stocks": [
+        {
+          "name": "미래에셋생명",
+          "code": "085620",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "흥국화재",
+          "code": "000540",
+          "rate": 14.4,
+          "amount": null
+        },
+        {
+          "name": "롯데손해보험",
+          "code": "000400",
+          "rate": 7.9,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,117 @@
+{
+  "date": "20250901",
+  "label": "9/1",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "케이엔알시스템",
+          "code": "199430",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "제닉스로보스틱스",
+          "code": "",
+          "rate": 19.51,
+          "amount": null
+        },
+        {
+          "name": "에스피시스템스",
+          "code": "317830",
+          "rate": 16.38,
+          "amount": null
+        },
+        {
+          "name": "에스엠코어",
+          "code": "",
+          "rate": 9.8,
+          "amount": null
+        },
+        {
+          "name": "나우로보틱스",
+          "code": "459510",
+          "rate": 8.93,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선/조선기자재",
+      "stocks": [
+        {
+          "name": "범한퓨얼셀",
+          "code": "382900",
+          "rate": 13.08,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 12.55,
+          "amount": null
+        },
+        {
+          "name": "삼영엠텍",
+          "code": "054540",
+          "rate": 6.83,
+          "amount": null
+        },
+        {
+          "name": "세진중공업",
+          "code": "075580",
+          "rate": 4.34,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "상법개정(지주/보험/증권)",
+      "stocks": [
+        {
+          "name": "지역난방공사",
+          "code": "071320",
+          "rate": 7.7,
+          "amount": null
+        },
+        {
+          "name": "부국증권",
+          "code": "001270",
+          "rate": 6.7,
+          "amount": null
+        },
+        {
+          "name": "미래에셋생명",
+          "code": "085620",
+          "rate": 4.5,
+          "amount": null
+        },
+        {
+          "name": "DB손해보험",
+          "code": "005830",
+          "rate": 4.4,
+          "amount": null
+        },
+        {
+          "name": "롯데지주",
+          "code": "004990",
+          "rate": 4.1,
+          "amount": null
+        },
+        {
+          "name": "농심홀딩스",
+          "code": "072710",
+          "rate": 3.1,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "에스엠코어",
+    "제닉스로보스틱스"
+  ]
+}

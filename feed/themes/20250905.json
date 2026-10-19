@@ -1,0 +1,164 @@
+{
+  "date": "20250905",
+  "label": "9/5",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "온코닉테라퓨틱스",
+          "code": "",
+          "rate": 9.17,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 8.44,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 7.85,
+          "amount": null
+        },
+        {
+          "name": "프로티나",
+          "code": "",
+          "rate": 6.1,
+          "amount": null
+        },
+        {
+          "name": "HLB제약",
+          "code": "047920",
+          "rate": 6.02,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 4.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "의료기기(의료AI)/미용",
+      "stocks": [
+        {
+          "name": "휴메딕스",
+          "code": "200670",
+          "rate": 14.92,
+          "amount": null
+        },
+        {
+          "name": "동방메디컬",
+          "code": "240550",
+          "rate": 6.2,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재/조선",
+      "stocks": [
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 13.14,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 12.53,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린솔루션",
+          "code": "443060",
+          "rate": 7.58,
+          "amount": null
+        },
+        {
+          "name": "현대힘스",
+          "code": "460930",
+          "rate": 4.79,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇(산업용)",
+      "stocks": [
+        {
+          "name": "티엑스알로보틱스",
+          "code": "484810",
+          "rate": 26.41,
+          "amount": null
+        },
+        {
+          "name": "코닉오토매이션",
+          "code": "",
+          "rate": 19.09,
+          "amount": null
+        },
+        {
+          "name": "현대무벡스",
+          "code": "319400",
+          "rate": 7.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "두산",
+          "code": "000150",
+          "rate": 8.0,
+          "amount": null
+        },
+        {
+          "name": "엑시콘",
+          "code": "092870",
+          "rate": 6.7,
+          "amount": null
+        },
+        {
+          "name": "파두",
+          "code": "440110",
+          "rate": 6.3,
+          "amount": null
+        },
+        {
+          "name": "에프에스티",
+          "code": "036810",
+          "rate": 5.8,
+          "amount": null
+        },
+        {
+          "name": "네오셈",
+          "code": "253590",
+          "rate": 4.8,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "온코닉테라퓨틱스",
+    "코닉오토매이션",
+    "프로티나"
+  ]
+}

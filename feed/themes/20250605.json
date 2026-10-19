@@ -1,0 +1,145 @@
+{
+  "date": "20250605",
+  "label": "6/5",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "AI",
+      "stocks": [
+        {
+          "name": "솔트룩스",
+          "code": "304100",
+          "rate": 12.59,
+          "amount": null
+        },
+        {
+          "name": "코난테크놀로지",
+          "code": "402030",
+          "rate": 10.25,
+          "amount": null
+        },
+        {
+          "name": "카카오",
+          "code": "035720",
+          "rate": 6.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사(삼성 계열)",
+      "stocks": [
+        {
+          "name": "삼성생명",
+          "code": "032830",
+          "rate": 10.75,
+          "amount": null
+        },
+        {
+          "name": "삼성물산",
+          "code": "028260",
+          "rate": 7.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "심텍",
+          "code": "222800",
+          "rate": 17.87,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 11.49,
+          "amount": null
+        },
+        {
+          "name": "리노공업",
+          "code": "058470",
+          "rate": 8.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "제이에스티나",
+          "code": "026040",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "좋은사람들",
+          "code": "",
+          "rate": 20.65,
+          "amount": null
+        },
+        {
+          "name": "일신석재",
+          "code": "",
+          "rate": 18.79,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지역화폐",
+      "stocks": [
+        {
+          "name": "쿠콘",
+          "code": "294570",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "코나아이",
+          "code": "052400",
+          "rate": 21.36,
+          "amount": null
+        },
+        {
+          "name": "웹캐시",
+          "code": "",
+          "rate": 7.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "성광벤드",
+          "code": "014620",
+          "rate": 25.62,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 19.8,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 7.62,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "웹캐시",
+    "일신석재",
+    "좋은사람들"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "20250925",
+  "label": "9/25",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "스테이블 코인",
+      "stocks": [
+        {
+          "name": "뱅크웨어글로벌",
+          "code": "199480",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "NHN KCP",
+          "code": "060250",
+          "rate": 27.17,
+          "amount": null
+        },
+        {
+          "name": "엔비티",
+          "code": "236810",
+          "rate": 17.34,
+          "amount": null
+        },
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "rate": 11.4,
+          "amount": null
+        },
+        {
+          "name": "쿠콘",
+          "code": "294570",
+          "rate": 11.06,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "에아이코리아",
+          "code": "",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "아이언디바이스",
+          "code": "464500",
+          "rate": 11.52,
+          "amount": null
+        },
+        {
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "rate": 8.86,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "에아이코리아"
+  ]
+}

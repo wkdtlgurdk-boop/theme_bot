@@ -1,0 +1,69 @@
+{
+  "date": "20250812",
+  "label": "8/12",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "코데즈컴바인",
+          "code": "047770",
+          "rate": 23.23,
+          "amount": null
+        },
+        {
+          "name": "좋은사람들",
+          "code": "",
+          "rate": 15.0,
+          "amount": null
+        },
+        {
+          "name": "제이에스티나",
+          "code": "026040",
+          "rate": 8.48,
+          "amount": null
+        },
+        {
+          "name": "아난티",
+          "code": "025980",
+          "rate": 5.09,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "태광",
+          "code": "023160",
+          "rate": 12.11,
+          "amount": null
+        },
+        {
+          "name": "에이텀",
+          "code": "355690",
+          "rate": 10.16,
+          "amount": null
+        },
+        {
+          "name": "하이록코리아",
+          "code": "013030",
+          "rate": 5.49,
+          "amount": null
+        },
+        {
+          "name": "성광벤드",
+          "code": "014620",
+          "rate": 3.36,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "좋은사람들"
+  ]
+}

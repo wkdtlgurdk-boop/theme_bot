@@ -1,0 +1,126 @@
+{
+  "date": "20260324",
+  "label": "3/24",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "와이어블",
+          "code": "065530",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "우리로",
+          "code": "046970",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "기가레인",
+          "code": "049080",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "에이스테크",
+          "code": "088800",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 29.84,
+          "amount": null
+        },
+        {
+          "name": "이노인스트루먼트",
+          "code": "215790",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "머큐리",
+          "code": "100590",
+          "rate": 29.81,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 10.25,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 5.58,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 4.26,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "파이버프로",
+          "code": "368770",
+          "rate": 29.79,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 19.34,
+          "amount": null
+        },
+        {
+          "name": "컨텍",
+          "code": "451760",
+          "rate": 14.68,
+          "amount": null
+        },
+        {
+          "name": "세아베스틸지주",
+          "code": "001430",
+          "rate": 14.07,
+          "amount": null
+        },
+        {
+          "name": "쎄트렉아이",
+          "code": "099320",
+          "rate": 12.88,
+          "amount": null
+        },
+        {
+          "name": "제노코",
+          "code": "361390",
+          "rate": 12.09,
+          "amount": null
+        },
+        {
+          "name": "그린광학",
+          "code": "0015G0",
+          "rate": 10.16,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

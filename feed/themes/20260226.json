@@ -1,0 +1,90 @@
+{
+  "date": "20260226",
+  "label": "2/26",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 28.44,
+          "amount": null
+        },
+        {
+          "name": "에스티아이",
+          "code": "039440",
+          "rate": 19.65,
+          "amount": null
+        },
+        {
+          "name": "오로스테크놀로지",
+          "code": "322310",
+          "rate": 18.5,
+          "amount": null
+        },
+        {
+          "name": "한화비전",
+          "code": "489790",
+          "rate": 13.46,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 7.96,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 7.13,
+          "amount": null
+        },
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 3.41,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "금융",
+      "stocks": [
+        {
+          "name": "상상인증권",
+          "code": "001290",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "SK증권",
+          "code": "001510",
+          "rate": 18.98,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "엔투텍",
+          "code": "227950",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "rate": 2.2,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,67 @@
+{
+  "date": "20260327",
+  "label": "3/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "창투사",
+      "stocks": [
+        {
+          "name": "SV인베스트먼트",
+          "code": "289080",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "캡스톤파트너스",
+          "code": "452300",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 15.22,
+          "amount": null
+        },
+        {
+          "name": "DSC인베스트먼트",
+          "code": "241520",
+          "rate": 10.73,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "파워넷",
+          "code": "037030",
+          "rate": 29.79,
+          "amount": null
+        },
+        {
+          "name": "애경케미칼",
+          "code": "161000",
+          "rate": 22.58,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 7.47,
+          "amount": null
+        },
+        {
+          "name": "브이티",
+          "code": "018290",
+          "rate": 7.3,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

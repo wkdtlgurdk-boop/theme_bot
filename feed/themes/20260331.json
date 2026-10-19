@@ -1,0 +1,108 @@
+{
+  "date": "20260331",
+  "label": "3/31",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "해운",
+      "stocks": [
+        {
+          "name": "흥아해운",
+          "code": "003280",
+          "rate": 29.85,
+          "amount": null
+        },
+        {
+          "name": "STX그린로지스",
+          "code": "465770",
+          "rate": 18.18,
+          "amount": null
+        },
+        {
+          "name": "대한해운",
+          "code": "005880",
+          "rate": 5.97,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "비철금속",
+      "stocks": [
+        {
+          "name": "조일알미늄",
+          "code": "018470",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "남선알미늄",
+          "code": "008350",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "삼아알미늄",
+          "code": "006110",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "알루코",
+          "code": "001780",
+          "rate": 23.78,
+          "amount": null
+        },
+        {
+          "name": "피제이메탈",
+          "code": "128660",
+          "rate": 18.05,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "강원에너지",
+          "code": "114190",
+          "rate": 26.29,
+          "amount": null
+        },
+        {
+          "name": "삼미금속",
+          "code": "012210",
+          "rate": 12.4,
+          "amount": null
+        },
+        {
+          "name": "금양그린파워",
+          "code": "282720",
+          "rate": 5.88,
+          "amount": null
+        },
+        {
+          "name": "태웅",
+          "code": "044490",
+          "rate": 5.86,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 5.28,
+          "amount": null
+        },
+        {
+          "name": "한텍",
+          "code": "098070",
+          "rate": 3.38,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

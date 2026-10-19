@@ -1,0 +1,204 @@
+{
+  "date": "20260417",
+  "label": "4/17",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "스페이스x",
+      "stocks": [
+        {
+          "name": "와이제이링크",
+          "code": "209640",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 19.64,
+          "amount": null
+        },
+        {
+          "name": "나노팀",
+          "code": "417010",
+          "rate": 14.9,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 10.19,
+          "amount": null
+        },
+        {
+          "name": "아주IB투자",
+          "code": "027360",
+          "rate": 8.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "진단키트",
+      "stocks": [
+        {
+          "name": "셀리드",
+          "code": "299660",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "진원생명과학",
+          "code": "",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "신풍제약",
+          "code": "019170",
+          "rate": 26.48,
+          "amount": null
+        },
+        {
+          "name": "아이진",
+          "code": "185490",
+          "rate": 23.21,
+          "amount": null
+        },
+        {
+          "name": "큐라티스",
+          "code": "348080",
+          "rate": 15.68,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "엔진(데이터센터)",
+      "stocks": [
+        {
+          "name": "STX엔진",
+          "code": "077970",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "한화엔진",
+          "code": "082740",
+          "rate": 16.39,
+          "amount": null
+        },
+        {
+          "name": "케이에스피",
+          "code": "073010",
+          "rate": 10.2,
+          "amount": null
+        },
+        {
+          "name": "삼영엠텍",
+          "code": "054540",
+          "rate": 9.92,
+          "amount": null
+        },
+        {
+          "name": "케이프",
+          "code": "064820",
+          "rate": 8.72,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "더블유씨피",
+          "code": "393890",
+          "rate": 10.5,
+          "amount": null
+        },
+        {
+          "name": "롯데에너지머티리얼즈",
+          "code": "020150",
+          "rate": 8.29,
+          "amount": null
+        },
+        {
+          "name": "이수스페셜티케미컬",
+          "code": "457190",
+          "rate": 8.04,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 7.21,
+          "amount": null
+        },
+        {
+          "name": "덕산테코피아",
+          "code": "317330",
+          "rate": 6.43,
+          "amount": null
+        },
+        {
+          "name": "덕산테코피아",
+          "code": "317330",
+          "rate": 6.43,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "고영",
+          "code": "098460",
+          "rate": 11.49,
+          "amount": null
+        },
+        {
+          "name": "코세스",
+          "code": "089890",
+          "rate": 9.97,
+          "amount": null
+        },
+        {
+          "name": "브이엠",
+          "code": "089970",
+          "rate": 9.76,
+          "amount": null
+        },
+        {
+          "name": "엘티씨",
+          "code": "170920",
+          "rate": 7.59,
+          "amount": null
+        },
+        {
+          "name": "피엠티",
+          "code": "147760",
+          "rate": 7.53,
+          "amount": null
+        },
+        {
+          "name": "씨엠티엑스",
+          "code": "388210",
+          "rate": 6.98,
+          "amount": null
+        },
+        {
+          "name": "메가터치",
+          "code": "446540",
+          "rate": 6.9,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "진원생명과학"
+  ]
+}

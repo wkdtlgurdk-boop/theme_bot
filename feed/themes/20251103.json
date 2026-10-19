@@ -1,0 +1,234 @@
+{
+  "date": "20251103",
+  "label": "11/3",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "태성",
+          "code": "323280",
+          "rate": 14.23,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 10.91,
+          "amount": null
+        },
+        {
+          "name": "오픈엣지테크놀로지",
+          "code": "394280",
+          "rate": 7.8,
+          "amount": null
+        },
+        {
+          "name": "퀄리타스반도체",
+          "code": "432720",
+          "rate": 6.92,
+          "amount": null
+        },
+        {
+          "name": "가온칩스",
+          "code": "399720",
+          "rate": 6.2,
+          "amount": null
+        },
+        {
+          "name": "칩스앤미디어",
+          "code": "094360",
+          "rate": 5.15,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "티로보틱스",
+          "code": "117730",
+          "rate": 29.75,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 24.49,
+          "amount": null
+        },
+        {
+          "name": "로보스타",
+          "code": "090360",
+          "rate": 17.03,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 14.78,
+          "amount": null
+        },
+        {
+          "name": "씨메스",
+          "code": "",
+          "rate": 10.92,
+          "amount": null
+        },
+        {
+          "name": "오브젠",
+          "code": "417860",
+          "rate": 9.93,
+          "amount": null
+        },
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 9.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "유리기판",
+      "stocks": [
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 21.33,
+          "amount": null
+        },
+        {
+          "name": "켐트로닉스",
+          "code": "089010",
+          "rate": 19.17,
+          "amount": null
+        },
+        {
+          "name": "태성",
+          "code": "323280",
+          "rate": 14.23,
+          "amount": null
+        },
+        {
+          "name": "피아이이",
+          "code": "452450",
+          "rate": 6.86,
+          "amount": null
+        },
+        {
+          "name": "와이씨켐",
+          "code": "112290",
+          "rate": 6.25,
+          "amount": null
+        },
+        {
+          "name": "SKC",
+          "code": "011790",
+          "rate": 5.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전기",
+      "stocks": [
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 15.62,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 12.3,
+          "amount": null
+        },
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 10.42,
+          "amount": null
+        },
+        {
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "rate": 9.08,
+          "amount": null
+        },
+        {
+          "name": "효성중공업",
+          "code": "298040",
+          "rate": 9.04,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 8.33,
+          "amount": null
+        },
+        {
+          "name": "산일전기",
+          "code": "062040",
+          "rate": 7.66,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "친환경",
+      "stocks": [
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 28.35,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 12.61,
+          "amount": null
+        },
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 8.17,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 6.25,
+          "amount": null
+        },
+        {
+          "name": "SK오션플랜트",
+          "code": "100090",
+          "rate": 6.13,
+          "amount": null
+        },
+        {
+          "name": "한국전력",
+          "code": "015760",
+          "rate": 5.99,
+          "amount": null
+        },
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 5.36,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨메스"
+  ]
+}

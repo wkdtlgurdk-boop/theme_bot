@@ -1,0 +1,149 @@
+{
+  "date": "20250612",
+  "label": "6/12",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 25.63,
+          "amount": null
+        },
+        {
+          "name": "한전산업",
+          "code": "130660",
+          "rate": 18.76,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 15.84,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "아난티",
+          "code": "025980",
+          "rate": 26.7,
+          "amount": null
+        },
+        {
+          "name": "대아티아이",
+          "code": "045390",
+          "rate": 13.86,
+          "amount": null
+        },
+        {
+          "name": "인디에프",
+          "code": "014990",
+          "rate": 12.67,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "석유",
+      "stocks": [
+        {
+          "name": "중앙에너비스",
+          "code": "000440",
+          "rate": 25.43,
+          "amount": null
+        },
+        {
+          "name": "홍구석유",
+          "code": "",
+          "rate": 11.53,
+          "amount": null
+        },
+        {
+          "name": "한국석유",
+          "code": "004090",
+          "rate": 7.93,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "저출산",
+      "stocks": [
+        {
+          "name": "제로투세븐",
+          "code": "159580",
+          "rate": 7.01,
+          "amount": null
+        },
+        {
+          "name": "에르코스",
+          "code": "435570",
+          "rate": 5.97,
+          "amount": null
+        },
+        {
+          "name": "아가방컴퍼니",
+          "code": "013990",
+          "rate": 4.12,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "퍼스텍",
+          "code": "010820",
+          "rate": 5.37,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "rate": 5.3,
+          "amount": null
+        },
+        {
+          "name": "현대로템",
+          "code": "064350",
+          "rate": 5.15,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "한화투자증권",
+          "code": "003530",
+          "rate": 14.21,
+          "amount": null
+        },
+        {
+          "name": "키움증권",
+          "code": "039490",
+          "rate": 3.68,
+          "amount": null
+        },
+        {
+          "name": "교보증권",
+          "code": "030610",
+          "rate": 2.63,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "홍구석유"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "date": "20260528",
+  "label": "5/28",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "MLCC/기판",
+      "stocks": [
+        {
+          "name": "코칩",
+          "code": "126730",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "삼화콘덴서",
+          "code": "001820",
+          "rate": 24.07,
+          "amount": null
+        },
+        {
+          "name": "원준",
+          "code": "382840",
+          "rate": 13.96,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 13.44,
+          "amount": null
+        },
+        {
+          "name": "LG이노텍",
+          "code": "011070",
+          "rate": 8.62,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "이브이첨단소재",
+          "code": "",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "나노팀",
+          "code": "417010",
+          "rate": 16.64,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 15.25,
+          "amount": null
+        },
+        {
+          "name": "더블유씨피",
+          "code": "393890",
+          "rate": 14.15,
+          "amount": null
+        },
+        {
+          "name": "엘앤에프",
+          "code": "066970",
+          "rate": 13.03,
+          "amount": null
+        },
+        {
+          "name": "신성에스티",
+          "code": "416180",
+          "rate": 12.01,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 7.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 11.3,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 8.81,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 6.54,
+          "amount": null
+        },
+        {
+          "name": "지아이이노베이션",
+          "code": "358570",
+          "rate": 6.14,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "이브이첨단소재"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20251224",
+  "label": "12/24",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "우림피티에스",
+          "code": "101170",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 11.69,
+          "amount": null
+        },
+        {
+          "name": "에스피시스템스",
+          "code": "317830",
+          "rate": 10.91,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자율주행",
+      "stocks": [
+        {
+          "name": "에이테크솔루션",
+          "code": "071670",
+          "rate": 29.84,
+          "amount": null
+        },
+        {
+          "name": "퓨런티어",
+          "code": "370090",
+          "rate": 24.2,
+          "amount": null
+        },
+        {
+          "name": "에스오에스랩",
+          "code": "464080",
+          "rate": 15.0,
+          "amount": null
+        },
+        {
+          "name": "재영솔루텍",
+          "code": "049630",
+          "rate": 10.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 26.92,
+          "amount": null
+        },
+        {
+          "name": "비츠로넥스텍",
+          "code": "488900",
+          "rate": 17.58,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

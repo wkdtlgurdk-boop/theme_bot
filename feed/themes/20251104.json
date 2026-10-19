@@ -1,0 +1,157 @@
+{
+  "date": "20251104",
+  "label": "11/4",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "SK바이오사이언스",
+          "code": "302440",
+          "rate": 18.31,
+          "amount": null
+        },
+        {
+          "name": "한국비엔씨",
+          "code": "256840",
+          "rate": 18.16,
+          "amount": null
+        },
+        {
+          "name": "인벤티지랩",
+          "code": "389470",
+          "rate": 12.95,
+          "amount": null
+        },
+        {
+          "name": "오스코텍",
+          "code": "039200",
+          "rate": 12.69,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 7.65,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 7.5,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 7.02,
+          "amount": null
+        },
+        {
+          "name": "한미약품",
+          "code": "128940",
+          "rate": 6.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "HLB",
+      "stocks": [
+        {
+          "name": "HLB바이오스텝",
+          "code": "278650",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "HLB생명과학",
+          "code": "067630",
+          "rate": 19.1,
+          "amount": null
+        },
+        {
+          "name": "HLB제약",
+          "code": "047920",
+          "rate": 16.34,
+          "amount": null
+        },
+        {
+          "name": "HLB",
+          "code": "028300",
+          "rate": 13.68,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "이오테크닉스",
+          "code": "039030",
+          "rate": 20.53,
+          "amount": null
+        },
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 11.91,
+          "amount": null
+        },
+        {
+          "name": "태성",
+          "code": "323280",
+          "rate": 11.36,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 8.49,
+          "amount": null
+        },
+        {
+          "name": "유진테크",
+          "code": "084370",
+          "rate": 8.18,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 5.38,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "강원에너지",
+          "code": "114190",
+          "rate": 18.02,
+          "amount": null
+        },
+        {
+          "name": "유일에너테크",
+          "code": "",
+          "rate": 15.04,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 3.21,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "유일에너테크"
+  ]
+}

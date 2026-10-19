@@ -1,0 +1,263 @@
+{
+  "date": "20251201",
+  "label": "12/1",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "우림피티에스",
+          "code": "101170",
+          "rate": 18.28,
+          "amount": null
+        },
+        {
+          "name": "씨피시스템",
+          "code": "413630",
+          "rate": 15.68,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 12.57,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 11.45,
+          "amount": null
+        },
+        {
+          "name": "에스피시스템스",
+          "code": "317830",
+          "rate": 7.03,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 5.27,
+          "amount": null
+        },
+        {
+          "name": "디아이씨",
+          "code": "092200",
+          "rate": 5.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "보안",
+      "stocks": [
+        {
+          "name": "소프트캠프",
+          "code": "258790",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "카티스",
+          "code": "140430",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "신시웨이",
+          "code": "",
+          "rate": 17.31,
+          "amount": null
+        },
+        {
+          "name": "지니언스",
+          "code": "263860",
+          "rate": 15.11,
+          "amount": null
+        },
+        {
+          "name": "싸이버원",
+          "code": "356890",
+          "rate": 13.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "한올바이오파마",
+          "code": "009420",
+          "rate": 17.95,
+          "amount": null
+        },
+        {
+          "name": "헬릭스미스",
+          "code": "084990",
+          "rate": 15.02,
+          "amount": null
+        },
+        {
+          "name": "온코크로스",
+          "code": "382150",
+          "rate": 11.98,
+          "amount": null
+        },
+        {
+          "name": "바이젠셀",
+          "code": "308080",
+          "rate": 11.56,
+          "amount": null
+        },
+        {
+          "name": "삼양바이오팜",
+          "code": "0120G0",
+          "rate": 8.56,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 5.67,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 4.68,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "인바운드(호텔/카지노/백화점)",
+      "stocks": [
+        {
+          "name": "신세계",
+          "code": "004170",
+          "rate": 7.59,
+          "amount": null
+        },
+        {
+          "name": "현대백화점",
+          "code": "069960",
+          "rate": 6.58,
+          "amount": null
+        },
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 6.0,
+          "amount": null
+        },
+        {
+          "name": "파라다이스",
+          "code": "034230",
+          "rate": 5.81,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 4.91,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 4.44,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "日 수출규제(국산화)",
+      "stocks": [
+        {
+          "name": "켐트로스",
+          "code": "220260",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "경인양행",
+          "code": "012610",
+          "rate": 17.46,
+          "amount": null
+        },
+        {
+          "name": "솔브레인",
+          "code": "357780",
+          "rate": 12.79,
+          "amount": null
+        },
+        {
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "rate": 11.07,
+          "amount": null
+        },
+        {
+          "name": "에스앤에스텍",
+          "code": "101490",
+          "rate": 10.84,
+          "amount": null
+        },
+        {
+          "name": "램테크놀러지",
+          "code": "171010",
+          "rate": 7.63,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "알테오젠 이전상장 수혜",
+      "stocks": [
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 10.06,
+          "amount": null
+        },
+        {
+          "name": "롯데에너지머티리얼즈",
+          "code": "020150",
+          "rate": 7.67,
+          "amount": null
+        },
+        {
+          "name": "제이오",
+          "code": "418550",
+          "rate": 6.09,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 6.0,
+          "amount": null
+        },
+        {
+          "name": "솔브레인홀딩스",
+          "code": "036830",
+          "rate": 4.26,
+          "amount": null
+        },
+        {
+          "name": "한솔케미칼",
+          "code": "014680",
+          "rate": 4.2,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "신시웨이"
+  ]
+}

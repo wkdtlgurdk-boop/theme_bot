@@ -1,0 +1,231 @@
+{
+  "date": "20250918",
+  "label": "9/18",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "양자",
+      "stocks": [
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "아이씨티케이",
+          "code": "456010",
+          "rate": 12.88,
+          "amount": null
+        },
+        {
+          "name": "엑스게이트",
+          "code": "356680",
+          "rate": 12.35,
+          "amount": null
+        },
+        {
+          "name": "아톤",
+          "code": "158430",
+          "rate": 8.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체/반도체 소부장",
+      "stocks": [
+        {
+          "name": "와이씨",
+          "code": "232140",
+          "rate": 15.37,
+          "amount": null
+        },
+        {
+          "name": "제우스",
+          "code": "079370",
+          "rate": 12.39,
+          "amount": null
+        },
+        {
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "rate": 11.29,
+          "amount": null
+        },
+        {
+          "name": "이오테크닉스",
+          "code": "039030",
+          "rate": 11.09,
+          "amount": null
+        },
+        {
+          "name": "디아이",
+          "code": "003160",
+          "rate": 6.63,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 5.85,
+          "amount": null
+        },
+        {
+          "name": "테크윙",
+          "code": "089030",
+          "rate": 5.51,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "로보스타",
+          "code": "090360",
+          "rate": 29.41,
+          "amount": null
+        },
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 12.65,
+          "amount": null
+        },
+        {
+          "name": "제우스",
+          "code": "079370",
+          "rate": 12.39,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 10.7,
+          "amount": null
+        },
+        {
+          "name": "에브리봇",
+          "code": "270660",
+          "rate": 10.28,
+          "amount": null
+        },
+        {
+          "name": "LG전자",
+          "code": "066570",
+          "rate": 5.52,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "사이버보안",
+      "stocks": [
+        {
+          "name": "한싹",
+          "code": "430690",
+          "rate": 22.01,
+          "amount": null
+        },
+        {
+          "name": "아이씨티케이",
+          "code": "456010",
+          "rate": 12.88,
+          "amount": null
+        },
+        {
+          "name": "엑스게이트",
+          "code": "356680",
+          "rate": 12.35,
+          "amount": null
+        },
+        {
+          "name": "SGA솔루션즈",
+          "code": "184230",
+          "rate": 10.14,
+          "amount": null
+        },
+        {
+          "name": "지니언스",
+          "code": "263860",
+          "rate": 8.27,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "잉글우드랩",
+          "code": "950140",
+          "rate": 6.33,
+          "amount": null
+        },
+        {
+          "name": "한국화장품",
+          "code": "123690",
+          "rate": 6.11,
+          "amount": null
+        },
+        {
+          "name": "코스메카코리아",
+          "code": "241710",
+          "rate": 5.59,
+          "amount": null
+        },
+        {
+          "name": "코스맥스",
+          "code": "192820",
+          "rate": 4.04,
+          "amount": null
+        },
+        {
+          "name": "실리콘투",
+          "code": "257720",
+          "rate": 3.62,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "호텔/리조트",
+      "stocks": [
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 4.81,
+          "amount": null
+        },
+        {
+          "name": "서부T&D",
+          "code": "006730",
+          "rate": 3.67,
+          "amount": null
+        },
+        {
+          "name": "소노스퀘어",
+          "code": "007720",
+          "rate": 3.33,
+          "amount": null
+        },
+        {
+          "name": "이마트",
+          "code": "139480",
+          "rate": 2.17,
+          "amount": null
+        },
+        {
+          "name": "GS피앤엘",
+          "code": "499790",
+          "rate": 2.13,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,144 @@
+{
+  "date": "20250807",
+  "label": "8/7",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "조선/조선기자재",
+      "stocks": [
+        {
+          "name": "오리엔탈정공",
+          "code": "014940",
+          "rate": 27.94,
+          "amount": null
+        },
+        {
+          "name": "HJ중공업",
+          "code": "097230",
+          "rate": 19.86,
+          "amount": null
+        },
+        {
+          "name": "HD현대마린엔진",
+          "code": "071970",
+          "rate": 7.07,
+          "amount": null
+        },
+        {
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "rate": 4.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "두산테스나",
+          "code": "131970",
+          "rate": 9.2,
+          "amount": null
+        },
+        {
+          "name": "이오테크닉스",
+          "code": "039030",
+          "rate": 8.92,
+          "amount": null
+        },
+        {
+          "name": "코미코",
+          "code": "183300",
+          "rate": 6.36,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자동차 부품(일본 자동차 관세이슈)",
+      "stocks": [
+        {
+          "name": "삼기에너지솔루션즈",
+          "code": "419050",
+          "rate": 16.9,
+          "amount": null
+        },
+        {
+          "name": "코오롱모빌리티그룹",
+          "code": "",
+          "rate": 10.83,
+          "amount": null
+        },
+        {
+          "name": "현대글로비스",
+          "code": "086280",
+          "rate": 4.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품/미용기기",
+      "stocks": [
+        {
+          "name": "달바글로벌",
+          "code": "483650",
+          "rate": 9.4,
+          "amount": null
+        },
+        {
+          "name": "에이피알",
+          "code": "278470",
+          "rate": 5.3,
+          "amount": null
+        },
+        {
+          "name": "휴젤",
+          "code": "145020",
+          "rate": 5.3,
+          "amount": null
+        },
+        {
+          "name": "코스맥스",
+          "code": "192820",
+          "rate": 3.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "실적",
+      "stocks": [
+        {
+          "name": "카카오",
+          "code": "035720",
+          "rate": 11.97,
+          "amount": null
+        },
+        {
+          "name": "데브시스터즈",
+          "code": "194480",
+          "rate": 10.3,
+          "amount": null
+        },
+        {
+          "name": "하이브",
+          "code": "352820",
+          "rate": 7.14,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 5.93,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "코오롱모빌리티그룹"
+  ]
+}

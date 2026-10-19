@@ -1,0 +1,69 @@
+{
+  "date": "20260224",
+  "label": "2/24",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "한화비전",
+          "code": "489790",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "디아이티",
+          "code": "110990",
+          "rate": 13.19,
+          "amount": null
+        },
+        {
+          "name": "미래반도체",
+          "code": "254490",
+          "rate": 12.7,
+          "amount": null
+        },
+        {
+          "name": "레이저쎌",
+          "code": "412350",
+          "rate": 10.98,
+          "amount": null
+        },
+        {
+          "name": "예스티",
+          "code": "122640",
+          "rate": 10.16,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "비츠로시스",
+          "code": "054220",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 19.67,
+          "amount": null
+        },
+        {
+          "name": "씨아이에스",
+          "code": "",
+          "rate": 17.56,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "씨아이에스"
+  ]
+}

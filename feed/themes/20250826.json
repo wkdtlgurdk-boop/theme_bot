@@ -1,0 +1,39 @@
+{
+  "date": "20250826",
+  "label": "8/26",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "에스엠코어",
+          "code": "",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "에스피시스템스",
+          "code": "317830",
+          "rate": 29.88,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "트럼프",
+      "stocks": [
+        {
+          "name": "모나미",
+          "code": "005360",
+          "rate": 29.92,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "에스엠코어"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "date": "20251211",
+  "label": "12/11",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "헬스케어",
+      "stocks": [
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 24.62,
+          "amount": null
+        },
+        {
+          "name": "이뮨온시아",
+          "code": "424870",
+          "rate": 22.19,
+          "amount": null
+        },
+        {
+          "name": "녹십자",
+          "code": "006280",
+          "rate": 11.84,
+          "amount": null
+        },
+        {
+          "name": "온코닉테라퓨틱스",
+          "code": "",
+          "rate": 9.96,
+          "amount": null
+        },
+        {
+          "name": "오름테라퓨틱",
+          "code": "",
+          "rate": 7.7,
+          "amount": null
+        },
+        {
+          "name": "올릭스",
+          "code": "226950",
+          "rate": 5.65,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "stocks": [
+        {
+          "name": "신원종합개발",
+          "code": "017000",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "상지건설",
+          "code": "042940",
+          "rate": 18.55,
+          "amount": null
+        },
+        {
+          "name": "일성건설",
+          "code": "013360",
+          "rate": 15.37,
+          "amount": null
+        },
+        {
+          "name": "HD현대산업개발",
+          "code": "",
+          "rate": 5.74,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "고속터미널",
+      "stocks": [
+        {
+          "name": "동양고속",
+          "code": "084670",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "대성산업",
+          "code": "128820",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "천일고속",
+          "code": "000650",
+          "rate": 26.56,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "HD현대산업개발",
+    "오름테라퓨틱",
+    "온코닉테라퓨틱스"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "date": "20250911",
+  "label": "9/11",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "하나머티리얼즈",
+          "code": "166090",
+          "rate": 21.84,
+          "amount": null
+        },
+        {
+          "name": "티씨케이",
+          "code": "064760",
+          "rate": 14.25,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 13.75,
+          "amount": null
+        },
+        {
+          "name": "제이앤티씨",
+          "code": "204270",
+          "rate": 10.7,
+          "amount": null
+        },
+        {
+          "name": "코미코",
+          "code": "183300",
+          "rate": 9.17,
+          "amount": null
+        },
+        {
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "rate": 7.74,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 7.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "헬스케어",
+      "stocks": [
+        {
+          "name": "메디포스트",
+          "code": "078160",
+          "rate": 19.26,
+          "amount": null
+        },
+        {
+          "name": "보로노이",
+          "code": "310210",
+          "rate": 12.64,
+          "amount": null
+        },
+        {
+          "name": "코오롱티슈진",
+          "code": "950160",
+          "rate": 9.85,
+          "amount": null
+        },
+        {
+          "name": "메지온",
+          "code": "",
+          "rate": 8.38,
+          "amount": null
+        },
+        {
+          "name": "시노펙스",
+          "code": "025320",
+          "rate": 7.56,
+          "amount": null
+        },
+        {
+          "name": "SK바이오사이언스",
+          "code": "302440",
+          "rate": 6.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 13.88,
+          "amount": null
+        },
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 6.75,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 5.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "음식료",
+      "stocks": [
+        {
+          "name": "엠에스씨",
+          "code": "009780",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "사조동아원",
+          "code": "008040",
+          "rate": 23.57,
+          "amount": null
+        },
+        {
+          "name": "농심",
+          "code": "004370",
+          "rate": 6.97,
+          "amount": null
+        },
+        {
+          "name": "오뚜기",
+          "code": "007310",
+          "rate": 5.87,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "메지온"
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "date": "20260219",
+  "label": "2/19",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "한화투자증권",
+          "code": "003530",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "현대차증권",
+          "code": "001500",
+          "rate": 29.21,
+          "amount": null
+        },
+        {
+          "name": "NH투자증권",
+          "code": "005940",
+          "rate": 18.93,
+          "amount": null
+        },
+        {
+          "name": "유안타증권",
+          "code": "003470",
+          "rate": 16.67,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 14.45,
+          "amount": null
+        },
+        {
+          "name": "교보증권",
+          "code": "030610",
+          "rate": 13.86,
+          "amount": null
+        },
+        {
+          "name": "유화증권",
+          "code": "003460",
+          "rate": 13.59,
+          "amount": null
+        },
+        {
+          "name": "삼성증권",
+          "code": "016360",
+          "rate": 10.4,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 10.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "선익시스템",
+          "code": "171090",
+          "rate": 28.5,
+          "amount": null
+        },
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 27.45,
+          "amount": null
+        },
+        {
+          "name": "엘케이켐",
+          "code": "489500",
+          "rate": 15.38,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 11.82,
+          "amount": null
+        },
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 10.07,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "퓨리오사 AI",
+      "stocks": [
+        {
+          "name": "포바이포",
+          "code": "389140",
+          "rate": 21.14,
+          "amount": null
+        },
+        {
+          "name": "DSC인베스트먼트",
+          "code": "241520",
+          "rate": 15.72,
+          "amount": null
+        },
+        {
+          "name": "나우IB",
+          "code": "293580",
+          "rate": 9.47,
+          "amount": null
+        },
+        {
+          "name": "TS인베스트먼트",
+          "code": "246690",
+          "rate": 7.54,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체(장비)",
+      "stocks": [
+        {
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "rate": 21.11,
+          "amount": null
+        },
+        {
+          "name": "유진테크",
+          "code": "084370",
+          "rate": 18.75,
+          "amount": null
+        },
+        {
+          "name": "엔투텍",
+          "code": "227950",
+          "rate": 12.62,
+          "amount": null
+        },
+        {
+          "name": "다원넥스뷰",
+          "code": "323350",
+          "rate": 12.22,
+          "amount": null
+        },
+        {
+          "name": "제이스텍",
+          "code": "",
+          "rate": 11.96,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 11.82,
+          "amount": null
+        },
+        {
+          "name": "테크윙",
+          "code": "089030",
+          "rate": 11.52,
+          "amount": null
+        },
+        {
+          "name": "와이씨",
+          "code": "232140",
+          "rate": 10.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "에코프로",
+          "code": "086520",
+          "rate": 14.56,
+          "amount": null
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "rate": 9.13,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 8.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선기자재",
+      "stocks": [
+        {
+          "name": "성광벤드",
+          "code": "014620",
+          "rate": 16.79,
+          "amount": null
+        },
+        {
+          "name": "태광",
+          "code": "023160",
+          "rate": 7.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "피부미용(ECM)",
+      "stocks": [
+        {
+          "name": "엘앤씨바이오",
+          "code": "290650",
+          "rate": 23.36,
+          "amount": null
+        },
+        {
+          "name": "한스바이오메드",
+          "code": "042520",
+          "rate": 14.49,
+          "amount": null
+        },
+        {
+          "name": "휴메딕스",
+          "code": "200670",
+          "rate": 9.31,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "제이스텍"
+  ]
+}

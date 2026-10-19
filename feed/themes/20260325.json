@@ -1,0 +1,122 @@
+{
+  "date": "20260325",
+  "label": "3/25",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "아주IB투자",
+          "code": "027360",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 29.81,
+          "amount": null
+        },
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 17.39,
+          "amount": null
+        },
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 12.32,
+          "amount": null
+        },
+        {
+          "name": "나노팀",
+          "code": "417010",
+          "rate": 11.88,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 10.15,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "우리넷",
+          "code": "115440",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "한국첨단소재",
+          "code": "062970",
+          "rate": 29.85,
+          "amount": null
+        },
+        {
+          "name": "라이콤",
+          "code": "388790",
+          "rate": 17.98,
+          "amount": null
+        },
+        {
+          "name": "RFHIC",
+          "code": "218410",
+          "rate": 15.97,
+          "amount": null
+        },
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 15.27,
+          "amount": null
+        },
+        {
+          "name": "RF머트리얼즈",
+          "code": "327260",
+          "rate": 13.87,
+          "amount": null
+        },
+        {
+          "name": "성호전자",
+          "code": "043260",
+          "rate": 11.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "이차전지",
+      "stocks": [
+        {
+          "name": "중앙첨단소재",
+          "code": "",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "엔켐",
+          "code": "348370",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "하이드로리튬",
+          "code": "101670",
+          "rate": 10.33,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "중앙첨단소재"
+  ]
+}

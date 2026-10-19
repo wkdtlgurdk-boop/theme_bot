@@ -1,0 +1,90 @@
+{
+  "date": "20251226",
+  "label": "12/26",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "계양전기",
+          "code": "012200",
+          "rate": 29.7,
+          "amount": null
+        },
+        {
+          "name": "우림피티에스",
+          "code": "101170",
+          "rate": 18.9,
+          "amount": null
+        },
+        {
+          "name": "원익홀딩스",
+          "code": "030530",
+          "rate": 11.08,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "라닉스",
+          "code": "317120",
+          "rate": 29.81,
+          "amount": null
+        },
+        {
+          "name": "에이디테크놀로지",
+          "code": "200710",
+          "rate": 27.9,
+          "amount": null
+        },
+        {
+          "name": "코아시아",
+          "code": "045970",
+          "rate": 22.86,
+          "amount": null
+        },
+        {
+          "name": "오픈엣지테크놀로지",
+          "code": "394280",
+          "rate": 22.59,
+          "amount": null
+        },
+        {
+          "name": "가온칩스",
+          "code": "399720",
+          "rate": 16.9,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자율주행",
+      "stocks": [
+        {
+          "name": "에이테크솔루션",
+          "code": "071670",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "오비고",
+          "code": "352910",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "모트렉스",
+          "code": "118990",
+          "rate": 15.15,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

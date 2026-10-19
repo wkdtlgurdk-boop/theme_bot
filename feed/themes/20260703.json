@@ -1,0 +1,131 @@
+{
+  "date": "20260703",
+  "label": "7/3",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "삼전닉스",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 10.88,
+          "amount": null
+        },
+        {
+          "name": "삼성전자우",
+          "code": "005935",
+          "rate": 10.23,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 8.22,
+          "amount": null
+        },
+        {
+          "name": "삼성물산",
+          "code": "028260",
+          "rate": 6.64,
+          "amount": null
+        },
+        {
+          "name": "SK스퀘어",
+          "code": "402340",
+          "rate": 4.2,
+          "amount": null
+        },
+        {
+          "name": "삼성생명",
+          "code": "032830",
+          "rate": 3.37,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "삼성증권",
+          "code": "016360",
+          "rate": 10.38,
+          "amount": null
+        },
+        {
+          "name": "키움증권",
+          "code": "039490",
+          "rate": 8.06,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 7.32,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 6.48,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "오가닉티코스메틱",
+          "code": "900300",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "바이오비쥬",
+          "code": "489460",
+          "rate": 13.26,
+          "amount": null
+        },
+        {
+          "name": "아로마티카",
+          "code": "0015N0",
+          "rate": 13.04,
+          "amount": null
+        },
+        {
+          "name": "네이처셀",
+          "code": "007390",
+          "rate": 8.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "폴더블폰",
+      "stocks": [
+        {
+          "name": "파인엠텍",
+          "code": "441270",
+          "rate": 16.38,
+          "amount": null
+        },
+        {
+          "name": "도우인시스",
+          "code": "484120",
+          "rate": 15.81,
+          "amount": null
+        },
+        {
+          "name": "유티아이",
+          "code": "179900",
+          "rate": 11.77,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

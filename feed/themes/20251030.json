@@ -1,0 +1,78 @@
+{
+  "date": "20251030",
+  "label": "10/30",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "오가닉티코스메틱",
+          "code": "900300",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "한국화장품",
+          "code": "123690",
+          "rate": 24.76,
+          "amount": null
+        },
+        {
+          "name": "컬러레이",
+          "code": "900310",
+          "rate": 21.26,
+          "amount": null
+        },
+        {
+          "name": "지놈앤컴퍼니",
+          "code": "314130",
+          "rate": 13.2,
+          "amount": null
+        },
+        {
+          "name": "코리아나",
+          "code": "027050",
+          "rate": 12.22,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "일진전기",
+          "code": "103590",
+          "rate": 11.72,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 7.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "통신",
+      "stocks": [
+        {
+          "name": "에이스테크",
+          "code": "088800",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "케이엠더블유",
+          "code": "032500",
+          "rate": 8.66,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,108 @@
+{
+  "date": "20260123",
+  "label": "1/23",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "NHN KCP",
+          "code": "060250",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "다날",
+          "code": "064260",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 26.59,
+          "amount": null
+        },
+        {
+          "name": "쿠콘",
+          "code": "294570",
+          "rate": 26.43,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "에스티팜",
+          "code": "237690",
+          "rate": 16.24,
+          "amount": null
+        },
+        {
+          "name": "앱클론",
+          "code": "174900",
+          "rate": 15.72,
+          "amount": null
+        },
+        {
+          "name": "삼천당제약",
+          "code": "000250",
+          "rate": 13.7,
+          "amount": null
+        },
+        {
+          "name": "리가켐바이오",
+          "code": "141080",
+          "rate": 12.32,
+          "amount": null
+        },
+        {
+          "name": "에이비엘바이오",
+          "code": "298380",
+          "rate": 10.24,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 16.58,
+          "amount": null
+        },
+        {
+          "name": "스피어",
+          "code": "347700",
+          "rate": 11.95,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

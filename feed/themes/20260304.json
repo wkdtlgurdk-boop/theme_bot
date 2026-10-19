@@ -1,0 +1,92 @@
+{
+  "date": "20260304",
+  "label": "3/4",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "석유/가스",
+      "stocks": [
+        {
+          "name": "흥구석유",
+          "code": "024060",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "대성에너지",
+          "code": "117580",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "중앙에너비스",
+          "code": "000440",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "극동유화",
+          "code": "014530",
+          "rate": 29.79,
+          "amount": null
+        },
+        {
+          "name": "지에스이",
+          "code": "053050",
+          "rate": 29.77,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "해운",
+      "stocks": [
+        {
+          "name": "흥아해운",
+          "code": "003280",
+          "rate": 24.68,
+          "amount": null
+        },
+        {
+          "name": "stx그린로지스",
+          "code": "",
+          "rate": 8.58,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "식량",
+      "stocks": [
+        {
+          "name": "한탑",
+          "code": "002680",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "한일사료",
+          "code": "005860",
+          "rate": 20.45,
+          "amount": null
+        },
+        {
+          "name": "고려산업",
+          "code": "002140",
+          "rate": 7.29,
+          "amount": null
+        },
+        {
+          "name": "미래생명자원",
+          "code": "218150",
+          "rate": 3.99,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "stx그린로지스"
+  ]
+}

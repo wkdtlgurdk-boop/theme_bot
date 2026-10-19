@@ -1,0 +1,150 @@
+{
+  "date": "20250916",
+  "label": "9/16",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체 IDM",
+      "stocks": [
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 9.2,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 5.14,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 3.79,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "유리기판",
+      "stocks": [
+        {
+          "name": "기가비스",
+          "code": "420770",
+          "rate": 16.99,
+          "amount": null
+        },
+        {
+          "name": "켐트로닉스",
+          "code": "089010",
+          "rate": 15.4,
+          "amount": null
+        },
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 9.47,
+          "amount": null
+        },
+        {
+          "name": "SKC",
+          "code": "011790",
+          "rate": 3.33,
+          "amount": null
+        },
+        {
+          "name": "삼성전기",
+          "code": "009150",
+          "rate": 2.06,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "웹툰",
+      "stocks": [
+        {
+          "name": "미스터블루",
+          "code": "207760",
+          "rate": 29.7,
+          "amount": null
+        },
+        {
+          "name": "탑코미디어",
+          "code": "134580",
+          "rate": 16.57,
+          "amount": null
+        },
+        {
+          "name": "와이랩",
+          "code": "432430",
+          "rate": 8.27,
+          "amount": null
+        },
+        {
+          "name": "키다리스튜디오",
+          "code": "020120",
+          "rate": 4.62,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "디스플레이(OLED)",
+      "stocks": [
+        {
+          "name": "LG디스플레이",
+          "code": "034220",
+          "rate": 10.46,
+          "amount": null
+        },
+        {
+          "name": "LG이노텍",
+          "code": "011070",
+          "rate": 7.15,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "LIG넥스원",
+          "code": "",
+          "rate": 9.49,
+          "amount": null
+        },
+        {
+          "name": "한화시스템",
+          "code": "272210",
+          "rate": 6.81,
+          "amount": null
+        },
+        {
+          "name": "RFHIC",
+          "code": "218410",
+          "rate": 5.62,
+          "amount": null
+        },
+        {
+          "name": "풍산",
+          "code": "103140",
+          "rate": 5.59,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "rate": 5.58,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "LIG넥스원"
+  ]
+}

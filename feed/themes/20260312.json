@@ -1,0 +1,193 @@
+{
+  "date": "20260312",
+  "label": "3/12",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "통신장비",
+      "stocks": [
+        {
+          "name": "에프알텍",
+          "code": "073540",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "에치에프알",
+          "code": "230240",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "옵티코어",
+          "code": "",
+          "rate": 24.1,
+          "amount": null
+        },
+        {
+          "name": "티엠씨",
+          "code": "217590",
+          "rate": 17.97,
+          "amount": null
+        },
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 16.17,
+          "amount": null
+        },
+        {
+          "name": "머큐리",
+          "code": "100590",
+          "rate": 12.56,
+          "amount": null
+        },
+        {
+          "name": "라이콤",
+          "code": "388790",
+          "rate": 11.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "캐리",
+          "code": "",
+          "rate": 29.86,
+          "amount": null
+        },
+        {
+          "name": "HD현대에너지솔루션",
+          "code": "322000",
+          "rate": 24.48,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 22.07,
+          "amount": null
+        },
+        {
+          "name": "에스에너지",
+          "code": "095910",
+          "rate": 19.97,
+          "amount": null
+        },
+        {
+          "name": "금양그린파워",
+          "code": "282720",
+          "rate": 15.45,
+          "amount": null
+        },
+        {
+          "name": "OCI홀딩스",
+          "code": "010060",
+          "rate": 13.02,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "한전KPS",
+          "code": "051600",
+          "rate": 7.3,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 6.1,
+          "amount": null
+        },
+        {
+          "name": "한텍",
+          "code": "098070",
+          "rate": 5.04,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 4.64,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 2.48,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "비료",
+      "stocks": [
+        {
+          "name": "조비",
+          "code": "001550",
+          "rate": 11.31,
+          "amount": null
+        },
+        {
+          "name": "남해화학",
+          "code": "025860",
+          "rate": 8.31,
+          "amount": null
+        },
+        {
+          "name": "유니드",
+          "code": "014830",
+          "rate": 5.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전선",
+      "stocks": [
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 12.29,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 8.1,
+          "amount": null
+        },
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 3.73,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "옵티코어",
+    "캐리"
+  ]
+}

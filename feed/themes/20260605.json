@@ -1,0 +1,49 @@
+{
+  "date": "20260605",
+  "label": "6/5",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "은행",
+      "stocks": [
+        {
+          "name": "신한지주",
+          "code": "055550",
+          "rate": 7.39,
+          "amount": null
+        },
+        {
+          "name": "제주은행",
+          "code": "006220",
+          "rate": 6.8,
+          "amount": null
+        },
+        {
+          "name": "KB금융",
+          "code": "105560",
+          "rate": 4.51,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "MLCC",
+      "stocks": [
+        {
+          "name": "한켐",
+          "code": "457370",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "아바텍",
+          "code": "149950",
+          "rate": 9.86,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,103 @@
+{
+  "date": "20251029",
+  "label": "10/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "통신",
+      "stocks": [
+        {
+          "name": "빛과전자",
+          "code": "069540",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "에이스테크",
+          "code": "088800",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "이노인스트루먼트",
+          "code": "215790",
+          "rate": 29.83,
+          "amount": null
+        },
+        {
+          "name": "자람테크놀로지",
+          "code": "389020",
+          "rate": 26.43,
+          "amount": null
+        },
+        {
+          "name": "RFHIC",
+          "code": "218410",
+          "rate": 22.18,
+          "amount": null
+        },
+        {
+          "name": "쏠리드",
+          "code": "050890",
+          "rate": 22.12,
+          "amount": null
+        },
+        {
+          "name": "케이엠더블유",
+          "code": "032500",
+          "rate": 17.39,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "지엔씨에너지",
+          "code": "119850",
+          "rate": 17.83,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 11.57,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 11.37,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 10.43,
+          "amount": null
+        },
+        {
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "rate": 9.23,
+          "amount": null
+        },
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 8.66,
+          "amount": null
+        },
+        {
+          "name": "세명전기",
+          "code": "017510",
+          "rate": 5.14,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

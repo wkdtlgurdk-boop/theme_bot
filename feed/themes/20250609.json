@@ -1,0 +1,147 @@
+{
+  "date": "20250609",
+  "label": "6/9",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "카카오(스테이블코인)",
+      "stocks": [
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 29.92,
+          "amount": null
+        },
+        {
+          "name": "카카오뱅크",
+          "code": "323410",
+          "rate": 20.21,
+          "amount": null
+        },
+        {
+          "name": "카카오",
+          "code": "035720",
+          "rate": 16.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "핀테크(스테이블코인)",
+      "stocks": [
+        {
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "더즌",
+          "code": "462860",
+          "rate": 23.68,
+          "amount": null
+        },
+        {
+          "name": "한국정보인증",
+          "code": "053300",
+          "rate": 10.25,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "친환경",
+      "stocks": [
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 26.89,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 10.55,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 7.56,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "stocks": [
+        {
+          "name": "와이즈넛",
+          "code": "096250",
+          "rate": 20.53,
+          "amount": null
+        },
+        {
+          "name": "카카오",
+          "code": "035720",
+          "rate": 16.03,
+          "amount": null
+        },
+        {
+          "name": "솔트룩스",
+          "code": "304100",
+          "rate": 12.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "편의점",
+      "stocks": [
+        {
+          "name": "GS리테일",
+          "code": "007070",
+          "rate": 13.58,
+          "amount": null
+        },
+        {
+          "name": "BGF리테일",
+          "code": "282330",
+          "rate": 11.12,
+          "amount": null
+        },
+        {
+          "name": "롯데쇼핑",
+          "code": "023530",
+          "rate": 6.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "stocks": [
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 10.04,
+          "amount": null
+        },
+        {
+          "name": "오리온홀딩스",
+          "code": "001800",
+          "rate": 8.6,
+          "amount": null
+        },
+        {
+          "name": "두산",
+          "code": "000150",
+          "rate": 7.1,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

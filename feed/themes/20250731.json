@@ -1,0 +1,68 @@
+{
+  "date": "20250731",
+  "label": "7/31",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "남북경협",
+      "stocks": [
+        {
+          "name": "제이에스티나",
+          "code": "026040",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "좋은사람들",
+          "code": "",
+          "rate": 27.24,
+          "amount": null
+        },
+        {
+          "name": "아난티",
+          "code": "025980",
+          "rate": 11.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 13.43,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 4.14,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "엔터테인먼트",
+      "stocks": [
+        {
+          "name": "NEW",
+          "code": "160550",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "포바이포",
+          "code": "389140",
+          "rate": 4.36,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "좋은사람들"
+  ]
+}

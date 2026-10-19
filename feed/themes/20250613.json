@@ -1,0 +1,126 @@
+{
+  "date": "20250613",
+  "label": "6/13",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "석유",
+      "stocks": [
+        {
+          "name": "한국석유",
+          "code": "004090",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "중앙에너비스",
+          "code": "000440",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "흥구석유",
+          "code": "024060",
+          "rate": 29.97,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "해운",
+      "stocks": [
+        {
+          "name": "흥아해운",
+          "code": "003280",
+          "rate": 29.79,
+          "amount": null
+        },
+        {
+          "name": "STX그린로지스",
+          "code": "465770",
+          "rate": 21.46,
+          "amount": null
+        },
+        {
+          "name": "대한해운",
+          "code": "005880",
+          "rate": 8.91,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "대성하이텍",
+          "code": "129920",
+          "rate": 29.41,
+          "amount": null
+        },
+        {
+          "name": "풍산",
+          "code": "103140",
+          "rate": 22.15,
+          "amount": null
+        },
+        {
+          "name": "LIG넥스원",
+          "code": "",
+          "rate": 14.35,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "stocks": [
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 16.05,
+          "amount": null
+        },
+        {
+          "name": "원일티엔아이",
+          "code": "136150",
+          "rate": 6.76,
+          "amount": null
+        },
+        {
+          "name": "이루온",
+          "code": "065440",
+          "rate": 0.87,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "가상자산",
+      "stocks": [
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 29.89,
+          "amount": null
+        },
+        {
+          "name": "헥토파이낸셜",
+          "code": "234340",
+          "rate": 13.28,
+          "amount": null
+        },
+        {
+          "name": "카카오페이",
+          "code": "377300",
+          "rate": 6.53,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "LIG넥스원"
+  ]
+}

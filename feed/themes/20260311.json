@@ -1,0 +1,181 @@
+{
+  "date": "20260311",
+  "label": "3/11",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "통신장비",
+      "stocks": [
+        {
+          "name": "에치에프알",
+          "code": "230240",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "쏠리드",
+          "code": "050890",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "케이엠더블유",
+          "code": "032500",
+          "rate": 29.8,
+          "amount": null
+        },
+        {
+          "name": "자림테크놀로지",
+          "code": "",
+          "rate": 25.51,
+          "amount": null
+        },
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 24.51,
+          "amount": null
+        },
+        {
+          "name": "이노와이어리스",
+          "code": "",
+          "rate": 20.82,
+          "amount": null
+        },
+        {
+          "name": "오이솔루션",
+          "code": "138080",
+          "rate": 20.67,
+          "amount": null
+        },
+        {
+          "name": "RFHIC",
+          "code": "218410",
+          "rate": 19.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스페이스X",
+      "stocks": [
+        {
+          "name": "아주IB투자",
+          "code": "027360",
+          "rate": 19.26,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 14.53,
+          "amount": null
+        },
+        {
+          "name": "세아베스틸지주",
+          "code": "001430",
+          "rate": 12.6,
+          "amount": null
+        },
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 10.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "부동산 보유 자산주",
+      "stocks": [
+        {
+          "name": "삼표시멘트",
+          "code": "038500",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "SG세계물산",
+          "code": "004060",
+          "rate": 11.85,
+          "amount": null
+        },
+        {
+          "name": "아이에스동서",
+          "code": "010780",
+          "rate": 7.49,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "증권",
+      "stocks": [
+        {
+          "name": "미래에셋증권",
+          "code": "006800",
+          "rate": 10.53,
+          "amount": null
+        },
+        {
+          "name": "신영증권",
+          "code": "001720",
+          "rate": 7.83,
+          "amount": null
+        },
+        {
+          "name": "NH투자증권",
+          "code": "005940",
+          "rate": 6.05,
+          "amount": null
+        },
+        {
+          "name": "키움증권",
+          "code": "039490",
+          "rate": 5.51,
+          "amount": null
+        },
+        {
+          "name": "한국금융지주",
+          "code": "071050",
+          "rate": 4.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자동차부품",
+      "stocks": [
+        {
+          "name": "성우하이텍",
+          "code": "015750",
+          "rate": 13.42,
+          "amount": null
+        },
+        {
+          "name": "알멕",
+          "code": "354320",
+          "rate": 10.97,
+          "amount": null
+        },
+        {
+          "name": "한중엔시에스",
+          "code": "107640",
+          "rate": 8.49,
+          "amount": null
+        },
+        {
+          "name": "삼미금속",
+          "code": "012210",
+          "rate": 6.43,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "이노와이어리스",
+    "자림테크놀로지"
+  ]
+}

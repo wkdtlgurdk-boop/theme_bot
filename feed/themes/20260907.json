@@ -1,0 +1,195 @@
+{
+  "date": "20260907",
+  "label": "9/7",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "디스플레이·폰 부품",
+      "stocks": [
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 29.84,
+          "amount": null
+        },
+        {
+          "name": "나무가",
+          "code": "190510",
+          "rate": 18.73,
+          "amount": null
+        },
+        {
+          "name": "서진시스템",
+          "code": "178320",
+          "rate": 8.77,
+          "amount": null
+        },
+        {
+          "name": "인탑스",
+          "code": "049070",
+          "rate": 8.74,
+          "amount": null
+        },
+        {
+          "name": "제이앤티씨",
+          "code": "204270",
+          "rate": 7.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원전·전력설비",
+      "stocks": [
+        {
+          "name": "삼미금속",
+          "code": "012210",
+          "rate": 22.16,
+          "amount": null
+        },
+        {
+          "name": "SNT에너지",
+          "code": "100840",
+          "rate": 14.98,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 13.66,
+          "amount": null
+        },
+        {
+          "name": "비에이치아이",
+          "code": "083650",
+          "rate": 12.83,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 10.98,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "연료전지",
+      "stocks": [
+        {
+          "name": "두산퓨얼셀",
+          "code": "336260",
+          "rate": 13.8,
+          "amount": null
+        },
+        {
+          "name": "비나텍",
+          "code": "126340",
+          "rate": 8.08,
+          "amount": null
+        },
+        {
+          "name": "코세스",
+          "code": "089890",
+          "rate": 6.98,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체·IT 대표주",
+      "stocks": [
+        {
+          "name": "DB하이텍",
+          "code": "000990",
+          "rate": 12.12,
+          "amount": null
+        },
+        {
+          "name": "두산테스나",
+          "code": "131970",
+          "rate": 11.31,
+          "amount": null
+        },
+        {
+          "name": "한솔테크닉스",
+          "code": "004710",
+          "rate": 8.39,
+          "amount": null
+        },
+        {
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "rate": 8.33,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 8.26,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 장비·소재",
+      "stocks": [
+        {
+          "name": "두산",
+          "code": "000150",
+          "rate": 11.3,
+          "amount": null
+        },
+        {
+          "name": "티에스이",
+          "code": "131290",
+          "rate": 10.57,
+          "amount": null
+        },
+        {
+          "name": "마이크로컨텍솔",
+          "code": "098120",
+          "rate": 9.53,
+          "amount": null
+        },
+        {
+          "name": "프로텍",
+          "code": "053610",
+          "rate": 8.0,
+          "amount": null
+        },
+        {
+          "name": "SFA반도체",
+          "code": "036540",
+          "rate": 7.13,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "JW신약",
+          "code": "067290",
+          "rate": 9.65,
+          "amount": null
+        },
+        {
+          "name": "로킷헬스케어",
+          "code": "376900",
+          "rate": 6.5,
+          "amount": null
+        },
+        {
+          "name": "현대약품",
+          "code": "004310",
+          "rate": 5.91,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

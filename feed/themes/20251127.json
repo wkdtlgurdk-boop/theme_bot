@@ -1,0 +1,75 @@
+{
+  "date": "20251127",
+  "label": "11/27",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 14.86,
+          "amount": null
+        },
+        {
+          "name": "하이젠알앤엠",
+          "code": "160190",
+          "rate": 12.74,
+          "amount": null
+        },
+        {
+          "name": "디아이씨",
+          "code": "092200",
+          "rate": 12.29,
+          "amount": null
+        },
+        {
+          "name": "에스피지",
+          "code": "058610",
+          "rate": 11.74,
+          "amount": null
+        },
+        {
+          "name": "아진엑스텍",
+          "code": "059120",
+          "rate": 11.28,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "바이젠셀",
+          "code": "308080",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "이뮨온시아",
+          "code": "424870",
+          "rate": 23.6,
+          "amount": null
+        },
+        {
+          "name": "온코닉테라퓨틱스",
+          "code": "",
+          "rate": 13.49,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "온코닉테라퓨틱스"
+  ]
+}

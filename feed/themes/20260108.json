@@ -1,0 +1,140 @@
+{
+  "date": "20260108",
+  "label": "1/8",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "우주항공",
+      "stocks": [
+        {
+          "name": "이노스페이스",
+          "code": "462350",
+          "rate": 16.73,
+          "amount": null
+        },
+        {
+          "name": "루미르",
+          "code": "474170",
+          "rate": 14.39,
+          "amount": null
+        },
+        {
+          "name": "제노코",
+          "code": "361390",
+          "rate": 13.05,
+          "amount": null
+        },
+        {
+          "name": "AP위성",
+          "code": "211270",
+          "rate": 9.82,
+          "amount": null
+        },
+        {
+          "name": "한국항공우주",
+          "code": "047810",
+          "rate": 4.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약바이오",
+      "stocks": [
+        {
+          "name": "지투지바이오",
+          "code": "456160",
+          "rate": 25.27,
+          "amount": null
+        },
+        {
+          "name": "삼익제약",
+          "code": "014950",
+          "rate": 15.96,
+          "amount": null
+        },
+        {
+          "name": "디앤디파마텍",
+          "code": "347850",
+          "rate": 9.91,
+          "amount": null
+        },
+        {
+          "name": "나이벡",
+          "code": "138610",
+          "rate": 7.74,
+          "amount": null
+        },
+        {
+          "name": "인벤티지랩",
+          "code": "389470",
+          "rate": 5.1,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "방산",
+      "stocks": [
+        {
+          "name": "솔디펜스",
+          "code": "215090",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "아이쓰리시스템",
+          "code": "214430",
+          "rate": 8.91,
+          "amount": null
+        },
+        {
+          "name": "LIG넥스원",
+          "code": "",
+          "rate": 8.48,
+          "amount": null
+        },
+        {
+          "name": "한화에어로스페이스9.01777",
+          "code": "",
+          "rate": 7.92,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "조선",
+      "stocks": [
+        {
+          "name": "동일스틸럭스",
+          "code": "023790",
+          "rate": 11.58,
+          "amount": null
+        },
+        {
+          "name": "한화오션",
+          "code": "042660",
+          "rate": 7.01,
+          "amount": null
+        },
+        {
+          "name": "HD현대중공업",
+          "code": "329180",
+          "rate": 4.49,
+          "amount": null
+        },
+        {
+          "name": "삼성중공업",
+          "code": "010140",
+          "rate": 3.94,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "LIG넥스원",
+    "한화에어로스페이스9.01777"
+  ]
+}

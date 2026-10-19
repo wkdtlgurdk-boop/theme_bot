@@ -1,0 +1,107 @@
+{
+  "date": "20250820",
+  "label": "8/20",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "한한령(K푸드)",
+      "stocks": [
+        {
+          "name": "우양",
+          "code": "103840",
+          "rate": 14.23,
+          "amount": null
+        },
+        {
+          "name": "스튜디오미르",
+          "code": "408900",
+          "rate": 6.56,
+          "amount": null
+        },
+        {
+          "name": "풀무원",
+          "code": "017810",
+          "rate": 2.5,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "경영권 분쟁",
+      "stocks": [
+        {
+          "name": "콜마비앤에이치",
+          "code": "200130",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "콜마홀딩스",
+          "code": "024720",
+          "rate": 8.71,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "카지노",
+      "stocks": [
+        {
+          "name": "토비스",
+          "code": "051360",
+          "rate": 2.58,
+          "amount": null
+        },
+        {
+          "name": "파라다이스",
+          "code": "034230",
+          "rate": 2.22,
+          "amount": null
+        },
+        {
+          "name": "GKL",
+          "code": "114090",
+          "rate": 2.07,
+          "amount": null
+        },
+        {
+          "name": "롯데관광개발",
+          "code": "032350",
+          "rate": 1.9,
+          "amount": null
+        },
+        {
+          "name": "강원랜드",
+          "code": "035250",
+          "rate": 1.68,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자동차 소부장",
+      "stocks": [
+        {
+          "name": "아진산업",
+          "code": "013310",
+          "rate": 11.8,
+          "amount": null
+        },
+        {
+          "name": "한온시스템",
+          "code": "018880",
+          "rate": 6.45,
+          "amount": null
+        },
+        {
+          "name": "SJG세종",
+          "code": "033530",
+          "rate": 5.77,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

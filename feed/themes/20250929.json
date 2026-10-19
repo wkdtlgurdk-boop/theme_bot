@@ -1,0 +1,224 @@
+{
+  "date": "20250929",
+  "label": "9/29",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "데이터센터/보안",
+      "stocks": [
+        {
+          "name": "파이오링크",
+          "code": "170790",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "소프트캠프",
+          "code": "258790",
+          "rate": 12.49,
+          "amount": null
+        },
+        {
+          "name": "모니터랩",
+          "code": "434480",
+          "rate": 9.12,
+          "amount": null
+        },
+        {
+          "name": "싸이버원",
+          "code": "356890",
+          "rate": 7.93,
+          "amount": null
+        },
+        {
+          "name": "아톤",
+          "code": "158430",
+          "rate": 6.61,
+          "amount": null
+        },
+        {
+          "name": "에스투더블유",
+          "code": "488280",
+          "rate": 6.45,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "두나무",
+      "stocks": [
+        {
+          "name": "우리기술투자",
+          "code": "041190",
+          "rate": 20.4,
+          "amount": null
+        },
+        {
+          "name": "한화투자증권",
+          "code": "003530",
+          "rate": 17.2,
+          "amount": null
+        },
+        {
+          "name": "네이버",
+          "code": "",
+          "rate": 7.2,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "제약/바이오",
+      "stocks": [
+        {
+          "name": "일동홀딩스",
+          "code": "",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "툴젠",
+          "code": "199800",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "일동제약",
+          "code": "249420",
+          "rate": 26.97,
+          "amount": null
+        },
+        {
+          "name": "앱클론",
+          "code": "174900",
+          "rate": 13.89,
+          "amount": null
+        },
+        {
+          "name": "에이프릴바이오",
+          "code": "397030",
+          "rate": 11.85,
+          "amount": null
+        },
+        {
+          "name": "샤페론",
+          "code": "",
+          "rate": 6.36,
+          "amount": null
+        },
+        {
+          "name": "펩트론",
+          "code": "087010",
+          "rate": 4.32,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "케이엔알시스템",
+          "code": "199430",
+          "rate": 21.17,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 15.74,
+          "amount": null
+        },
+        {
+          "name": "티로보틱스",
+          "code": "117730",
+          "rate": 8.44,
+          "amount": null
+        },
+        {
+          "name": "씨메스",
+          "code": "",
+          "rate": 8.05,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 7.58,
+          "amount": null
+        },
+        {
+          "name": "현대무벡스",
+          "code": "319400",
+          "rate": 7.53,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "오킨스전자",
+          "code": "080580",
+          "rate": 14.7,
+          "amount": null
+        },
+        {
+          "name": "티엘비",
+          "code": "356860",
+          "rate": 11.83,
+          "amount": null
+        },
+        {
+          "name": "제우스",
+          "code": "079370",
+          "rate": 6.03,
+          "amount": null
+        },
+        {
+          "name": "피에스케이",
+          "code": "319660",
+          "rate": 5.76,
+          "amount": null
+        },
+        {
+          "name": "유진테크",
+          "code": "084370",
+          "rate": 4.05,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "유리기판",
+      "stocks": [
+        {
+          "name": "필옵틱스",
+          "code": "161580",
+          "rate": 7.9,
+          "amount": null
+        },
+        {
+          "name": "제이앤티씨",
+          "code": "204270",
+          "rate": 6.9,
+          "amount": null
+        },
+        {
+          "name": "켐트로닉스",
+          "code": "089010",
+          "rate": 6.34,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "네이버",
+    "샤페론",
+    "씨메스",
+    "일동홀딩스"
+  ]
+}

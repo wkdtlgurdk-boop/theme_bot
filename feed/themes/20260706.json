@@ -1,0 +1,172 @@
+{
+  "date": "20260706",
+  "label": "7/6",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "전라도(테마)",
+      "stocks": [
+        {
+          "name": "금호건설",
+          "code": "002990",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "광주신세계",
+          "code": "037710",
+          "rate": 29.82,
+          "amount": null
+        },
+        {
+          "name": "대원",
+          "code": "007680",
+          "rate": 29.77,
+          "amount": null
+        },
+        {
+          "name": "일성건설",
+          "code": "013360",
+          "rate": 29.74,
+          "amount": null
+        },
+        {
+          "name": "남광토건",
+          "code": "001260",
+          "rate": 27.47,
+          "amount": null
+        },
+        {
+          "name": "동신건설",
+          "code": "025950",
+          "rate": 15.17,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇 자동차",
+      "stocks": [
+        {
+          "name": "기아",
+          "code": "000270",
+          "rate": 5.72,
+          "amount": null
+        },
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 4.25,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 2.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "여름(테마)",
+      "stocks": [
+        {
+          "name": "파세코",
+          "code": "037070",
+          "rate": 29.87,
+          "amount": null
+        },
+        {
+          "name": "위닉스",
+          "code": "044340",
+          "rate": 15.04,
+          "amount": null
+        },
+        {
+          "name": "신일전자",
+          "code": "002700",
+          "rate": 10.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "태양광",
+      "stocks": [
+        {
+          "name": "한화솔루션",
+          "code": "009830",
+          "rate": 13.57,
+          "amount": null
+        },
+        {
+          "name": "SK이터닉스",
+          "code": "475150",
+          "rate": 12.16,
+          "amount": null
+        },
+        {
+          "name": "선익시스템",
+          "code": "171090",
+          "rate": 9.53,
+          "amount": null
+        },
+        {
+          "name": "지투파워",
+          "code": "388050",
+          "rate": 4.85,
+          "amount": null
+        },
+        {
+          "name": "OCI",
+          "code": "456040",
+          "rate": 4.81,
+          "amount": null
+        },
+        {
+          "name": "대명에너지",
+          "code": "389260",
+          "rate": 4.47,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "rate": 20.25,
+          "amount": null
+        },
+        {
+          "name": "에이블씨엔씨",
+          "code": "078520",
+          "rate": 15.56,
+          "amount": null
+        },
+        {
+          "name": "아모레퍼시픽홀딩스",
+          "code": "002790",
+          "rate": 14.78,
+          "amount": null
+        },
+        {
+          "name": "브이티",
+          "code": "018290",
+          "rate": 11.08,
+          "amount": null
+        },
+        {
+          "name": "제닉",
+          "code": "123330",
+          "rate": 10.06,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

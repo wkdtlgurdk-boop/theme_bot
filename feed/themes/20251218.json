@@ -1,0 +1,114 @@
+{
+  "date": "20251218",
+  "label": "12/18",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "BIO",
+      "stocks": [
+        {
+          "name": "지놈앤컴퍼니",
+          "code": "314130",
+          "rate": 8.32,
+          "amount": null
+        },
+        {
+          "name": "엑세스바이오",
+          "code": "950130",
+          "rate": 6.41,
+          "amount": null
+        },
+        {
+          "name": "앱클론",
+          "code": "174900",
+          "rate": 5.69,
+          "amount": null
+        },
+        {
+          "name": "테라젠이텍스",
+          "code": "066700",
+          "rate": 5.65,
+          "amount": null
+        },
+        {
+          "name": "헬릭스미스",
+          "code": "084990",
+          "rate": 4.36,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "도우인시스",
+          "code": "484120",
+          "rate": 11.31,
+          "amount": null
+        },
+        {
+          "name": "현대무벡스",
+          "code": "319400",
+          "rate": 9.85,
+          "amount": null
+        },
+        {
+          "name": "에스비비테크",
+          "code": "389500",
+          "rate": 6.8,
+          "amount": null
+        },
+        {
+          "name": "알에스오토메이션",
+          "code": "140670",
+          "rate": 5.72,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "미래에셋벤처투자",
+          "code": "100790",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "아주IB투자",
+          "code": "027360",
+          "rate": 22.41,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 17.94,
+          "amount": null
+        },
+        {
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "rate": 14.3,
+          "amount": null
+        },
+        {
+          "name": "세아베스틸지주",
+          "code": "001430",
+          "rate": 5.83,
+          "amount": null
+        },
+        {
+          "name": "와이제이링크",
+          "code": "209640",
+          "rate": 5.68,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

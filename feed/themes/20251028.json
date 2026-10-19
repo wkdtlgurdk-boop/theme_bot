@@ -1,0 +1,81 @@
+{
+  "date": "20251028",
+  "label": "10/28",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "수소 연료전지",
+      "stocks": [
+        {
+          "name": "두산퓨얼셀",
+          "code": "336260",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "범한퓨얼셀",
+          "code": "382900",
+          "rate": 14.83,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "엔바이오니아",
+          "code": "317870",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "유일에너테크",
+          "code": "",
+          "rate": 13.0,
+          "amount": null
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "rate": 9.47,
+          "amount": null
+        },
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "rate": 3.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "stocks": [
+        {
+          "name": "LS마린솔루션",
+          "code": "060370",
+          "rate": 13.71,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 5.49,
+          "amount": null
+        },
+        {
+          "name": "대한전기",
+          "code": "",
+          "rate": 5.33,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "대한전기",
+    "유일에너테크"
+  ]
+}

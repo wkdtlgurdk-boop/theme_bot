@@ -1,0 +1,334 @@
+{
+  "date": "20260415",
+  "label": "4/15",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "사이버 보안",
+      "stocks": [
+        {
+          "name": "한싹",
+          "code": "430690",
+          "rate": 29.85,
+          "amount": null
+        },
+        {
+          "name": "샌즈랩",
+          "code": "411080",
+          "rate": 17.6,
+          "amount": null
+        },
+        {
+          "name": "모니터랩",
+          "code": "434480",
+          "rate": 10.71,
+          "amount": null
+        },
+        {
+          "name": "한국정보인증",
+          "code": "053300",
+          "rate": 8.12,
+          "amount": null
+        },
+        {
+          "name": "한국전자인증",
+          "code": "041460",
+          "rate": 6.33,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "양자",
+      "stocks": [
+        {
+          "name": "드림시큐리티",
+          "code": "203650",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "큐에스아이",
+          "code": "066310",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "알엔티엑스",
+          "code": "",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "아이씨티케이",
+          "code": "456010",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "파인텍",
+          "code": "131760",
+          "rate": 29.94,
+          "amount": null
+        },
+        {
+          "name": "엑스게이트",
+          "code": "356680",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "케이씨에스",
+          "code": "115500",
+          "rate": 29.91,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "전선전력",
+      "stocks": [
+        {
+          "name": "대한전선",
+          "code": "001440",
+          "rate": 28.3,
+          "amount": null
+        },
+        {
+          "name": "가온전선",
+          "code": "000500",
+          "rate": 20.75,
+          "amount": null
+        },
+        {
+          "name": "대원전선",
+          "code": "006340",
+          "rate": 18.69,
+          "amount": null
+        },
+        {
+          "name": "LS",
+          "code": "006260",
+          "rate": 13.93,
+          "amount": null
+        },
+        {
+          "name": "LS에코에너지",
+          "code": "229640",
+          "rate": 13.71,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "광통신",
+      "stocks": [
+        {
+          "name": "큐에스아이",
+          "code": "066310",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "광전자",
+          "code": "017900",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "루멘스",
+          "code": "",
+          "rate": 29.95,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "스테이블코인",
+      "stocks": [
+        {
+          "name": "미투온",
+          "code": "201490",
+          "rate": 10.24,
+          "amount": null
+        },
+        {
+          "name": "LG씨엔에스",
+          "code": "064400",
+          "rate": 5.97,
+          "amount": null
+        },
+        {
+          "name": "NHN KCP",
+          "code": "060250",
+          "rate": 5.47,
+          "amount": null
+        },
+        {
+          "name": "쿠콘",
+          "code": "294570",
+          "rate": 5.0,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원전(건설)",
+      "stocks": [
+        {
+          "name": "비츠로테크",
+          "code": "042370",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "대우건설",
+          "code": "047040",
+          "rate": 21.28,
+          "amount": null
+        },
+        {
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 9.48,
+          "amount": null
+        },
+        {
+          "name": "오르비텍",
+          "code": "046120",
+          "rate": 8.53,
+          "amount": null
+        },
+        {
+          "name": "위드텍",
+          "code": "348350",
+          "rate": 5.14,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 4.51,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "반도체 소부장",
+      "stocks": [
+        {
+          "name": "그린리소스",
+          "code": "402490",
+          "rate": 22.54,
+          "amount": null
+        },
+        {
+          "name": "아스플로",
+          "code": "159010",
+          "rate": 15.8,
+          "amount": null
+        },
+        {
+          "name": "기가레인",
+          "code": "049080",
+          "rate": 14.43,
+          "amount": null
+        },
+        {
+          "name": "엔투텍",
+          "code": "227950",
+          "rate": 11.62,
+          "amount": null
+        },
+        {
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "rate": 11.01,
+          "amount": null
+        },
+        {
+          "name": "레이크머티리얼즈",
+          "code": "281740",
+          "rate": 9.2,
+          "amount": null
+        },
+        {
+          "name": "삼양엔씨켐",
+          "code": "482630",
+          "rate": 8.42,
+          "amount": null
+        },
+        {
+          "name": "피에스케이",
+          "code": "319660",
+          "rate": 8.34,
+          "amount": null
+        },
+        {
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "rate": 8.03,
+          "amount": null
+        },
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 7.52,
+          "amount": null
+        },
+        {
+          "name": "브이엠",
+          "code": "089970",
+          "rate": 7.18,
+          "amount": null
+        },
+        {
+          "name": "유니테스트",
+          "code": "086390",
+          "rate": 7.11,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "2차전지",
+      "stocks": [
+        {
+          "name": "대주전자재료",
+          "code": "078600",
+          "rate": 16.94,
+          "amount": null
+        },
+        {
+          "name": "덕산테코피아",
+          "code": "317330",
+          "rate": 13.6,
+          "amount": null
+        },
+        {
+          "name": "나노신소재",
+          "code": "121600",
+          "rate": 10.82,
+          "amount": null
+        },
+        {
+          "name": "이수스페셜티케미컬",
+          "code": "457190",
+          "rate": 8.37,
+          "amount": null
+        },
+        {
+          "name": "솔루스첨단소재",
+          "code": "336370",
+          "rate": 7.44,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "루멘스",
+    "알엔티엑스"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "date": "20260121",
+  "label": "1/21",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "브이원텍",
+          "code": "251630",
+          "rate": 29.93,
+          "amount": null
+        },
+        {
+          "name": "로보로보",
+          "code": "215100",
+          "rate": 29.91,
+          "amount": null
+        },
+        {
+          "name": "해성에어로보틱스",
+          "code": "059270",
+          "rate": 29.9,
+          "amount": null
+        },
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 29.13,
+          "amount": null
+        },
+        {
+          "name": "뉴로메카",
+          "code": "348340",
+          "rate": 23.13,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자동차",
+      "stocks": [
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 14.6,
+          "amount": null
+        },
+        {
+          "name": "HL만도",
+          "code": "204320",
+          "rate": 12.7,
+          "amount": null
+        },
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 7.3,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "센서뷰",
+          "code": "321370",
+          "rate": 22.37,
+          "amount": null
+        },
+        {
+          "name": "나라스페이스테크놀로지",
+          "code": "478340",
+          "rate": 13.4,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

@@ -1,0 +1,221 @@
+{
+  "date": "20260116",
+  "label": "1/16",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "자동차",
+      "stocks": [
+        {
+          "name": "모베이스전자",
+          "code": "012860",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "DYP",
+          "code": "092780",
+          "rate": 29.98,
+          "amount": null
+        },
+        {
+          "name": "서연이화",
+          "code": "200880",
+          "rate": 15.05,
+          "amount": null
+        },
+        {
+          "name": "화신",
+          "code": "010690",
+          "rate": 13.66,
+          "amount": null
+        },
+        {
+          "name": "육일씨엔에쓰",
+          "code": "191410",
+          "rate": 13.64,
+          "amount": null
+        },
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 9.58,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "이스트에이드",
+          "code": "239340",
+          "rate": 29.76,
+          "amount": null
+        },
+        {
+          "name": "유진로봇",
+          "code": "056080",
+          "rate": 18.84,
+          "amount": null
+        },
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 14.68,
+          "amount": null
+        },
+        {
+          "name": "가온그룹",
+          "code": "078890",
+          "rate": 10.46,
+          "amount": null
+        },
+        {
+          "name": "시선AI",
+          "code": "340810",
+          "rate": 10.25,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 7.03,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "stocks": [
+        {
+          "name": "프롬바이오",
+          "code": "377220",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "현대약품",
+          "code": "004310",
+          "rate": 24.91,
+          "amount": null
+        },
+        {
+          "name": "TS트릴리온",
+          "code": "317240",
+          "rate": 23.96,
+          "amount": null
+        },
+        {
+          "name": "명문제약",
+          "code": "017180",
+          "rate": 9.56,
+          "amount": null
+        },
+        {
+          "name": "피플바이오",
+          "code": "",
+          "rate": 6.55,
+          "amount": null
+        },
+        {
+          "name": "JW신약",
+          "code": "067290",
+          "rate": 6.15,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "원전/전력",
+      "stocks": [
+        {
+          "name": "우리기술",
+          "code": "032820",
+          "rate": 17.1,
+          "amount": null
+        },
+        {
+          "name": "한전기술",
+          "code": "052690",
+          "rate": 11.73,
+          "amount": null
+        },
+        {
+          "name": "우진엔텍",
+          "code": "457550",
+          "rate": 6.85,
+          "amount": null
+        },
+        {
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "rate": 6.48,
+          "amount": null
+        },
+        {
+          "name": "한전KPS",
+          "code": "051600",
+          "rate": 4.72,
+          "amount": null
+        },
+        {
+          "name": "현대건설",
+          "code": "000720",
+          "rate": 4.4,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "정치테마주(정원오)",
+      "stocks": [
+        {
+          "name": "에스제이그룹",
+          "code": "306040",
+          "rate": 30.0,
+          "amount": null
+        },
+        {
+          "name": "대주산업",
+          "code": "003310",
+          "rate": 17.55,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "항공",
+      "stocks": [
+        {
+          "name": "대한항공",
+          "code": "003490",
+          "rate": 5.65,
+          "amount": null
+        },
+        {
+          "name": "제주항공",
+          "code": "089590",
+          "rate": 5.17,
+          "amount": null
+        },
+        {
+          "name": "진에어",
+          "code": "272450",
+          "rate": 4.44,
+          "amount": null
+        },
+        {
+          "name": "한진칼",
+          "code": "180640",
+          "rate": 3.22,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": [
+    "피플바이오"
+  ]
+}

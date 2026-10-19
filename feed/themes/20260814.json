@@ -1,0 +1,120 @@
+{
+  "date": "20260814",
+  "label": "8/14",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "정유",
+      "stocks": [
+        {
+          "name": "GS",
+          "code": "078930",
+          "rate": 8.94,
+          "amount": null
+        },
+        {
+          "name": "SK이노베이션",
+          "code": "096770",
+          "rate": 5.75,
+          "amount": null
+        },
+        {
+          "name": "S-Oil",
+          "code": "010950",
+          "rate": 4.76,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "보험",
+      "stocks": [
+        {
+          "name": "한화생명",
+          "code": "088350",
+          "rate": 11.93,
+          "amount": null
+        },
+        {
+          "name": "한화손해보험",
+          "code": "000370",
+          "rate": 9.05,
+          "amount": null
+        },
+        {
+          "name": "미래에셋생명",
+          "code": "085620",
+          "rate": 7.75,
+          "amount": null
+        },
+        {
+          "name": "DB손해보험",
+          "code": "005830",
+          "rate": 6.12,
+          "amount": null
+        },
+        {
+          "name": "현대해상",
+          "code": "001450",
+          "rate": 5.59,
+          "amount": null
+        },
+        {
+          "name": "코리안리",
+          "code": "003690",
+          "rate": 4.23,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "한라캐스트",
+          "code": "125490",
+          "rate": 16.25,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 15.24,
+          "amount": null
+        },
+        {
+          "name": "클로봇",
+          "code": "466100",
+          "rate": 13.74,
+          "amount": null
+        },
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 9.02,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 8.24,
+          "amount": null
+        },
+        {
+          "name": "로보티즈",
+          "code": "108490",
+          "rate": 7.28,
+          "amount": null
+        },
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 7.05,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

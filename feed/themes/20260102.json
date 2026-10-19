@@ -1,0 +1,232 @@
+{
+  "date": "20260102",
+  "label": "1/2",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "반도체",
+      "stocks": [
+        {
+          "name": "테스",
+          "code": "095610",
+          "rate": 19.42,
+          "amount": null
+        },
+        {
+          "name": "원익IPS",
+          "code": "240810",
+          "rate": 17.82,
+          "amount": null
+        },
+        {
+          "name": "유진테크",
+          "code": "084370",
+          "rate": 14.13,
+          "amount": null
+        },
+        {
+          "name": "한미반도체",
+          "code": "042700",
+          "rate": 13.42,
+          "amount": null
+        },
+        {
+          "name": "테크윙",
+          "code": "089030",
+          "rate": 11.14,
+          "amount": null
+        },
+        {
+          "name": "삼성전자",
+          "code": "005930",
+          "rate": 7.17,
+          "amount": null
+        },
+        {
+          "name": "SK하이닉스",
+          "code": "000660",
+          "rate": 3.99,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "stocks": [
+        {
+          "name": "스피어",
+          "code": "347700",
+          "rate": 29.95,
+          "amount": null
+        },
+        {
+          "name": "쎄트렉아이",
+          "code": "099320",
+          "rate": 29.88,
+          "amount": null
+        },
+        {
+          "name": "파이버프로",
+          "code": "368770",
+          "rate": 18.52,
+          "amount": null
+        },
+        {
+          "name": "인텔리안테크",
+          "code": "189300",
+          "rate": 14.62,
+          "amount": null
+        },
+        {
+          "name": "에이치브이엠",
+          "code": "295310",
+          "rate": 13.92,
+          "amount": null
+        },
+        {
+          "name": "이노스페이스",
+          "code": "462350",
+          "rate": 12.23,
+          "amount": null
+        },
+        {
+          "name": "세아베스틸지주",
+          "code": "001430",
+          "rate": 11.35,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "stocks": [
+        {
+          "name": "LS티라유텍",
+          "code": "322180",
+          "rate": 29.97,
+          "amount": null
+        },
+        {
+          "name": "원익",
+          "code": "032940",
+          "rate": 29.96,
+          "amount": null
+        },
+        {
+          "name": "현대무벡스",
+          "code": "319400",
+          "rate": 26.13,
+          "amount": null
+        },
+        {
+          "name": "고영",
+          "code": "098460",
+          "rate": 18.56,
+          "amount": null
+        },
+        {
+          "name": "계양전기",
+          "code": "012200",
+          "rate": 18.4,
+          "amount": null
+        },
+        {
+          "name": "한국피아이엠",
+          "code": "448900",
+          "rate": 17.81,
+          "amount": null
+        },
+        {
+          "name": "휴림로봇",
+          "code": "090710",
+          "rate": 9.93,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "stocks": [
+        {
+          "name": "한국화장품",
+          "code": "123690",
+          "rate": 21.51,
+          "amount": null
+        },
+        {
+          "name": "마녀공장",
+          "code": "439090",
+          "rate": 15.15,
+          "amount": null
+        },
+        {
+          "name": "토니모리",
+          "code": "214420",
+          "rate": 12.75,
+          "amount": null
+        },
+        {
+          "name": "코스맥스",
+          "code": "192820",
+          "rate": 9.2,
+          "amount": null
+        },
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "rate": 6.19,
+          "amount": null
+        },
+        {
+          "name": "한국콜마",
+          "code": "161890",
+          "rate": 5.31,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "엔터",
+      "stocks": [
+        {
+          "name": "에이스토리",
+          "code": "241840",
+          "rate": 18.94,
+          "amount": null
+        },
+        {
+          "name": "M83",
+          "code": "476080",
+          "rate": 18.24,
+          "amount": null
+        },
+        {
+          "name": "스튜디오드래곤",
+          "code": "253450",
+          "rate": 8.89,
+          "amount": null
+        },
+        {
+          "name": "JYP Ent.",
+          "code": "035900",
+          "rate": 6.75,
+          "amount": null
+        },
+        {
+          "name": "하이브",
+          "code": "352820",
+          "rate": 4.85,
+          "amount": null
+        },
+        {
+          "name": "YG PLUS",
+          "code": "037270",
+          "rate": 3.85,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}

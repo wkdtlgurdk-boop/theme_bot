@@ -1,0 +1,90 @@
+{
+  "date": "20260107",
+  "label": "1/7",
+  "source": "sheet-backfill",
+  "generated_at": "2026-10-19T18:29:43+09:00",
+  "groups": [
+    {
+      "keyword": "현대차그룹",
+      "stocks": [
+        {
+          "name": "현대오토에버",
+          "code": "307950",
+          "rate": 26.44,
+          "amount": null
+        },
+        {
+          "name": "현대글로비스",
+          "code": "086280",
+          "rate": 16.78,
+          "amount": null
+        },
+        {
+          "name": "현대차",
+          "code": "005380",
+          "rate": 13.8,
+          "amount": null
+        },
+        {
+          "name": "현대모비스",
+          "code": "012330",
+          "rate": 7.24,
+          "amount": null
+        },
+        {
+          "name": "현대위아",
+          "code": "011210",
+          "rate": 3.75,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "자율주행",
+      "stocks": [
+        {
+          "name": "슈어소프트테크",
+          "code": "298830",
+          "rate": 15.96,
+          "amount": null
+        },
+        {
+          "name": "아우토크립트",
+          "code": "331740",
+          "rate": 14.83,
+          "amount": null
+        },
+        {
+          "name": "삼현",
+          "code": "437730",
+          "rate": 10.09,
+          "amount": null
+        }
+      ]
+    },
+    {
+      "keyword": "희토류",
+      "stocks": [
+        {
+          "name": "유니온머티리얼",
+          "code": "047400",
+          "rate": 29.99,
+          "amount": null
+        },
+        {
+          "name": "유니온",
+          "code": "000910",
+          "rate": 19.95,
+          "amount": null
+        },
+        {
+          "name": "노바텍",
+          "code": "285490",
+          "rate": 13.95,
+          "amount": null
+        }
+      ]
+    }
+  ],
+  "missing_codes": []
+}
