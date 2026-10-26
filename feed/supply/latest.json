@@ -1,620 +1,15 @@
 {
-  "date": "20261023",
+  "date": "20261026",
   "window": [
-    "10/19",
     "10/20",
     "10/21",
     "10/22",
-    "10/23"
+    "10/23",
+    "10/26"
   ],
   "source": "supply-sheet",
-  "generated_at": "2026-10-23T21:03:14+09:00",
+  "generated_at": "2026-10-26T21:03:10+09:00",
   "days": [
-    {
-      "date": "20261019",
-      "label": "10/19",
-      "window_labels": [
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19"
-      ],
-      "generated_at": "2026-10-19T04:15:55+09:00",
-      "stocks": [
-        {
-          "code": "042660",
-          "name": "한화오션",
-          "amount": 504927,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "005930",
-          "name": "삼성전자",
-          "amount": 270774,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "006400",
-          "name": "삼성SDI",
-          "amount": 225813,
-          "blocks": [
-            "기관/KOSPI",
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "373220",
-          "name": "LG에너지솔루션",
-          "amount": 131741,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "207940",
-          "name": "삼성바이오로직스",
-          "amount": 101103,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "252670",
-          "name": "KODEX 200선물인버스2X",
-          "amount": 95444,
-          "blocks": [
-            "기관/KOSPI",
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "069500",
-          "name": "KODEX 200",
-          "amount": 77056,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "005935",
-          "name": "삼성전자우",
-          "amount": 47477,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "000100",
-          "name": "유한양행",
-          "amount": 45799,
-          "blocks": [
-            "기관/KOSPI",
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "402340",
-          "name": "SK스퀘어",
-          "amount": 42835,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "005380",
-          "name": "현대차",
-          "amount": 41020,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "096770",
-          "name": "SK이노베이션",
-          "amount": 39452,
-          "blocks": [
-            "기관/KOSPI",
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "068270",
-          "name": "셀트리온",
-          "amount": 37467,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "003670",
-          "name": "포스코퓨처엠",
-          "amount": 35553,
-          "blocks": [
-            "기관/KOSPI",
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "000270",
-          "name": "기아",
-          "amount": 34974,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "000150",
-          "name": "두산",
-          "amount": 34780,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "086520",
-          "name": "에코프로",
-          "amount": 31721,
-          "blocks": [
-            "기관/KOSDAQ",
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "003230",
-          "name": "삼양식품",
-          "amount": 31555,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "352820",
-          "name": "하이브",
-          "amount": 31439,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "009150",
-          "name": "삼성전기",
-          "amount": 31062,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "005490",
-          "name": "POSCO홀딩스",
-          "amount": 28352,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "012330",
-          "name": "현대모비스",
-          "amount": 27563,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "462330",
-          "name": "KODEX 2차전지산업레버리지",
-          "amount": 21966,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "316140",
-          "name": "우리금융지주",
-          "amount": 18959,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "003490",
-          "name": "대한항공",
-          "amount": 18311,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "105560",
-          "name": "KB금융",
-          "amount": 17429,
-          "blocks": [
-            "기관/KOSPI"
-          ]
-        },
-        {
-          "code": "0167A0",
-          "name": "SOL AI반도체TOP2플러스",
-          "amount": 14593,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "247540",
-          "name": "에코프로비엠",
-          "amount": 13677,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "010120",
-          "name": "LS ELECTRIC",
-          "amount": 12896,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "123320",
-          "name": "TIGER 레버리지",
-          "amount": 12192,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "278470",
-          "name": "에이피알",
-          "amount": 11368,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "062040",
-          "name": "산일전기",
-          "amount": 11074,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "000720",
-          "name": "현대건설",
-          "amount": 10702,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "066970",
-          "name": "엘앤에프",
-          "amount": 10197,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "329180",
-          "name": "HD현대중공업",
-          "amount": 9594,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "383220",
-          "name": "F&F",
-          "amount": 9557,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "253590",
-          "name": "네오셈",
-          "amount": 9263,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "396500",
-          "name": "TIGER 반도체TOP10",
-          "amount": 8571,
-          "blocks": [
-            "외인/KOSPI"
-          ]
-        },
-        {
-          "code": "078600",
-          "name": "대주전자재료",
-          "amount": 8093,
-          "blocks": [
-            "기관/KOSDAQ",
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "095610",
-          "name": "테스",
-          "amount": 7042,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "196170",
-          "name": "알테오젠",
-          "amount": 6596,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "425420",
-          "name": "티에프이",
-          "amount": 6071,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "323280",
-          "name": "태성",
-          "amount": 5715,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "328130",
-          "name": "루닛",
-          "amount": 5574,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "131970",
-          "name": "두산테스나",
-          "amount": 5282,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "178320",
-          "name": "서진시스템",
-          "amount": 5222,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "144960",
-          "name": "뉴파워프라즈마",
-          "amount": 4413,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "298380",
-          "name": "에이비엘바이오",
-          "amount": 4382,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "171090",
-          "name": "선익시스템",
-          "amount": 4210,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "108490",
-          "name": "로보티즈",
-          "amount": 4182,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "277810",
-          "name": "레인보우로보틱스",
-          "amount": 4168,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "257720",
-          "name": "실리콘투",
-          "amount": 4041,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "403870",
-          "name": "HPSP",
-          "amount": 3994,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "237690",
-          "name": "에스티팜",
-          "amount": 3794,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "417200",
-          "name": "LS머트리얼즈",
-          "amount": 3672,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "092870",
-          "name": "엑시콘",
-          "amount": 3663,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "023160",
-          "name": "태광",
-          "amount": 3554,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "095340",
-          "name": "ISC",
-          "amount": 3506,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "028300",
-          "name": "HLB",
-          "amount": 3022,
-          "blocks": [
-            "기관/KOSDAQ"
-          ]
-        },
-        {
-          "code": "356860",
-          "name": "티엘비",
-          "amount": 2936,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "141080",
-          "name": "리가켐바이오",
-          "amount": 2847,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "083650",
-          "name": "비에이치아이",
-          "amount": 2655,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "043260",
-          "name": "성호전자",
-          "amount": 2230,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "089970",
-          "name": "브이엠",
-          "amount": 2044,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "319660",
-          "name": "피에스케이",
-          "amount": 1832,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "393890",
-          "name": "더블유씨피",
-          "amount": 1804,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "214150",
-          "name": "클래시스",
-          "amount": 1716,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "468670",
-          "name": "브릴스",
-          "amount": 1716,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "222800",
-          "name": "심텍",
-          "amount": 1713,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "232140",
-          "name": "와이씨",
-          "amount": 1579,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "357780",
-          "name": "솔브레인",
-          "amount": 1570,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "319400",
-          "name": "현대무벡스",
-          "amount": 1496,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        },
-        {
-          "code": "039030",
-          "name": "이오테크닉스",
-          "amount": 1425,
-          "blocks": [
-            "외인/KOSDAQ"
-          ]
-        }
-      ]
-    },
     {
       "date": "20261020",
       "label": "10/20",
@@ -3164,6 +2559,653 @@
           "amount": 1639,
           "blocks": [
             "외인/KOSDAQ"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "20261026",
+      "label": "10/26",
+      "window_labels": [
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26"
+      ],
+      "generated_at": "2026-10-26T21:02:58+09:00",
+      "stocks": [
+        {
+          "code": "000660",
+          "name": "SK하이닉스",
+          "amount": 306982,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "069500",
+          "name": "KODEX 200",
+          "amount": 187158,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "005930",
+          "name": "삼성전자",
+          "amount": 134956,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "102110",
+          "name": "TIGER 200",
+          "amount": 72692,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "009150",
+          "name": "삼성전기",
+          "amount": 53932,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "402340",
+          "name": "SK스퀘어",
+          "amount": 52095,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "018260",
+          "name": "삼성에스디에스",
+          "amount": 45029,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "064400",
+          "name": "LG씨엔에스",
+          "amount": 35812,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "032830",
+          "name": "삼성생명",
+          "amount": 25456,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "079550",
+          "name": "LIG디펜스앤에어로스페이스",
+          "amount": 24773,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "034730",
+          "name": "SK",
+          "amount": 20136,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "028260",
+          "name": "삼성물산",
+          "amount": 19528,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "000150",
+          "name": "두산",
+          "amount": 18152,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "108490",
+          "name": "로보티즈",
+          "amount": 17534,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "421320",
+          "name": "PLUS 우주항공",
+          "amount": 15754,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "486290",
+          "name": "TIGER 미국나스닥100타겟데일리커버드콜",
+          "amount": 14011,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "012450",
+          "name": "한화에어로스페이스",
+          "amount": 13613,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "078930",
+          "name": "GS",
+          "amount": 12962,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "148020",
+          "name": "RISE 200",
+          "amount": 12769,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "012330",
+          "name": "현대모비스",
+          "amount": 11425,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "005935",
+          "name": "삼성전자우",
+          "amount": 10946,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "068270",
+          "name": "셀트리온",
+          "amount": 10434,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "005380",
+          "name": "현대차",
+          "amount": 10115,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "035420",
+          "name": "NAVER",
+          "amount": 9767,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "047810",
+          "name": "한국항공우주",
+          "amount": 9764,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "105190",
+          "name": "ACE 200",
+          "amount": 9659,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "010950",
+          "name": "S-Oil",
+          "amount": 9652,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "319660",
+          "name": "피에스케이",
+          "amount": 9231,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "000270",
+          "name": "기아",
+          "amount": 9121,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "240810",
+          "name": "원익IPS",
+          "amount": 9017,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "381180",
+          "name": "TIGER 미국필라델피아반도체나스닥",
+          "amount": 8671,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "082740",
+          "name": "한화엔진",
+          "amount": 8564,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "114800",
+          "name": "KODEX 인버스",
+          "amount": 8099,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "000720",
+          "name": "현대건설",
+          "amount": 8050,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "222800",
+          "name": "심텍",
+          "amount": 8025,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "458870",
+          "name": "씨어스",
+          "amount": 7965,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "122630",
+          "name": "KODEX 레버리지",
+          "amount": 7860,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "207940",
+          "name": "삼성바이오로직스",
+          "amount": 7729,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "196170",
+          "name": "알테오젠",
+          "amount": 7665,
+          "blocks": [
+            "기관/KOSDAQ",
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "229200",
+          "name": "KODEX 코스닥150",
+          "amount": 7575,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "120110",
+          "name": "코오롱인더",
+          "amount": 7455,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "161890",
+          "name": "한국콜마",
+          "amount": 7441,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "105560",
+          "name": "KB금융",
+          "amount": 7383,
+          "blocks": [
+            "기관/KOSPI"
+          ]
+        },
+        {
+          "code": "030530",
+          "name": "원익홀딩스",
+          "amount": 7030,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "006110",
+          "name": "삼아알미늄",
+          "amount": 6937,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "042660",
+          "name": "한화오션",
+          "amount": 6780,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "475300",
+          "name": "SOL 반도체전공정",
+          "amount": 6648,
+          "blocks": [
+            "외인/KOSPI"
+          ]
+        },
+        {
+          "code": "131970",
+          "name": "두산테스나",
+          "amount": 6247,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "437730",
+          "name": "삼현",
+          "amount": 5836,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "214450",
+          "name": "파마리서치",
+          "amount": 5806,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "058470",
+          "name": "리노공업",
+          "amount": 5230,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "083650",
+          "name": "비에이치아이",
+          "amount": 5117,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "403870",
+          "name": "HPSP",
+          "amount": 5022,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "468530",
+          "name": "프로티나",
+          "amount": 4940,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "031980",
+          "name": "피에스케이홀딩스",
+          "amount": 4684,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "039030",
+          "name": "이오테크닉스",
+          "amount": 4604,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "064760",
+          "name": "티씨케이",
+          "amount": 4555,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "078350",
+          "name": "한양디지텍",
+          "amount": 4229,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "327260",
+          "name": "RF머트리얼즈",
+          "amount": 4140,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "328130",
+          "name": "루닛",
+          "amount": 4132,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "095610",
+          "name": "테스",
+          "amount": 3991,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "036930",
+          "name": "주성엔지니어링",
+          "amount": 3745,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "078600",
+          "name": "대주전자재료",
+          "amount": 3714,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "126340",
+          "name": "비나텍",
+          "amount": 3702,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "357780",
+          "name": "솔브레인",
+          "amount": 3691,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "141080",
+          "name": "리가켐바이오",
+          "amount": 3591,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "064290",
+          "name": "인텍플러스",
+          "amount": 3509,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "036540",
+          "name": "SFA반도체",
+          "amount": 3338,
+          "blocks": [
+            "외인/KOSDAQ"
+          ]
+        },
+        {
+          "code": "218410",
+          "name": "RFHIC",
+          "amount": 2547,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "0035S0",
+          "name": "빅웨이브로보틱스",
+          "amount": 2400,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "425420",
+          "name": "티에프이",
+          "amount": 2294,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "484120",
+          "name": "도우인시스",
+          "amount": 2148,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "058610",
+          "name": "에스피지",
+          "amount": 1933,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "079370",
+          "name": "제우스",
+          "amount": 1836,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "253590",
+          "name": "네오셈",
+          "amount": 1687,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "251970",
+          "name": "펌텍코리아",
+          "amount": 1683,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "092870",
+          "name": "엑시콘",
+          "amount": 1621,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "290550",
+          "name": "디케이티",
+          "amount": 1595,
+          "blocks": [
+            "기관/KOSDAQ"
+          ]
+        },
+        {
+          "code": "394800",
+          "name": "쓰리빌리언",
+          "amount": 1525,
+          "blocks": [
+            "기관/KOSDAQ"
           ]
         }
       ]
