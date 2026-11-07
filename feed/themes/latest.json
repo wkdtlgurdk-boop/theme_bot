@@ -1,70 +1,40 @@
 {
-  "date": "20261105",
-  "label": "11/5",
+  "date": "20261106",
+  "label": "11/6",
   "source": "daily-sheet",
-  "generated_at": "2026-11-07T10:09:23+09:00",
+  "generated_at": "2026-11-07T10:12:47+09:00",
   "groups": [
     {
-      "keyword": "바이오",
+      "keyword": "전후 재건",
       "stocks": [
         {
-          "name": "삼성에피스홀딩스",
-          "code": "0126Z0",
-          "rate": 13.86,
-          "amount": 52697
+          "name": "혜인",
+          "code": "003010",
+          "rate": 15.18,
+          "amount": 14962
         },
         {
-          "name": "한미약품",
-          "code": "128940",
-          "rate": 9.8,
-          "amount": 127764
-        },
-        {
-          "name": "셀트리온",
-          "code": "068270",
-          "rate": 7.5,
-          "amount": 427954
-        },
-        {
-          "name": "한올바이오파마",
-          "code": "009420",
-          "rate": 6.46,
-          "amount": 10914
+          "name": "GS건설",
+          "code": "006360",
+          "rate": 6.62,
+          "amount": 61544
         }
       ]
     },
     {
-      "keyword": "화장품",
+      "keyword": "스마트홈",
       "stocks": [
         {
-          "name": "한국콜마",
-          "code": "161890",
-          "rate": 8.68,
-          "amount": 35728
+          "name": "자이에스앤디",
+          "code": "317400",
+          "rate": 12.23,
+          "amount": 15472
         },
         {
-          "name": "코스맥스",
-          "code": "192820",
-          "rate": 7.88,
-          "amount": 26875
-        },
-        {
-          "name": "펌텍코리아",
-          "code": "251970",
-          "rate": 7.64,
-          "amount": 14071
-        },
-        {
-          "name": "코스메카코리아",
-          "code": "241710",
-          "rate": 5.88,
-          "amount": 10863
-        },
-        {
-          "name": "에이피알",
-          "code": "278470",
-          "rate": 5.51,
-          "amount": 122412
+          "name": "LG유플러스",
+          "code": "032640",
+          "rate": 3.7,
+          "amount": 50050
         }
       ]
     }
