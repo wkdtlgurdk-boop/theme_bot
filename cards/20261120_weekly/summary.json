@@ -1,0 +1,629 @@
+{
+  "monday": "2026-11-16",
+  "friday": "2026-11-20",
+  "trading_days": [
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19"
+  ],
+  "themes": [
+    {
+      "keyword": "반도체 기판·PCB",
+      "days": 3,
+      "dates": [
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "week_return": -11.49,
+      "leader": "티엘비",
+      "stocks": [
+        "LG이노텍",
+        "SK하이닉스",
+        "삼성전기",
+        "이수페타시스",
+        "코리아써키트",
+        "태성",
+        "티엘비"
+      ]
+    },
+    {
+      "keyword": "엔터테인먼트",
+      "days": 2,
+      "dates": [
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "week_return": 12.27,
+      "leader": "에스엠",
+      "stocks": [
+        "CJ ENM",
+        "JYP Ent.",
+        "YG PLUS",
+        "에스엠",
+        "와이지엔터테인먼트",
+        "하이브"
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "days": 2,
+      "dates": [
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "week_return": 7.73,
+      "leader": "한국화장품제조",
+      "stocks": [
+        "달바글로벌",
+        "아모레퍼시픽",
+        "코스메카코리아",
+        "파마리서치",
+        "한국콜마",
+        "한국화장품제조",
+        "휴젤"
+      ]
+    },
+    {
+      "keyword": "반도체 후공정",
+      "days": 2,
+      "dates": [
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "week_return": -13.42,
+      "leader": "코세스",
+      "stocks": [
+        "SFA반도체",
+        "고영",
+        "네오셈",
+        "엑시콘",
+        "와이씨",
+        "코세스",
+        "테크윙",
+        "하나마이크론"
+      ]
+    },
+    {
+      "keyword": "반도체 소재·부품",
+      "days": 2,
+      "dates": [
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "week_return": -27.18,
+      "leader": "하나머티리얼즈",
+      "stocks": [
+        "뉴파워프라즈마",
+        "마이크로컨텍솔",
+        "샘씨엔에스",
+        "오킨스전자",
+        "티에스이",
+        "하나머티리얼즈",
+        "한양디지텍"
+      ]
+    },
+    {
+      "keyword": "소매유통",
+      "days": 1,
+      "dates": [
+        "2026-11-17"
+      ],
+      "week_return": 16.26,
+      "leader": "현대백화점",
+      "stocks": [
+        "신세계",
+        "현대백화점"
+      ]
+    },
+    {
+      "keyword": "호텔/리조트",
+      "days": 1,
+      "dates": [
+        "2026-11-19"
+      ],
+      "week_return": 4.05,
+      "leader": "파라다이스",
+      "stocks": [
+        "롯데관광개발",
+        "서부T&D",
+        "파라다이스",
+        "호텔신라"
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "days": 1,
+      "dates": [
+        "2026-11-18"
+      ],
+      "week_return": -1.58,
+      "leader": "레인보우로보틱스",
+      "stocks": [
+        "레인보우로보틱스",
+        "로보티즈",
+        "에스피지",
+        "원익홀딩스",
+        "한라캐스트"
+      ]
+    },
+    {
+      "keyword": "전력저장장치",
+      "days": 1,
+      "dates": [
+        "2026-11-18"
+      ],
+      "week_return": -3.04,
+      "leader": "디케이티",
+      "stocks": [
+        "디케이티",
+        "비나텍",
+        "서진시스템"
+      ]
+    },
+    {
+      "keyword": "손해보험",
+      "days": 1,
+      "dates": [
+        "2026-11-16"
+      ],
+      "week_return": -4.11,
+      "leader": "DB손해보험",
+      "stocks": [
+        "DB손해보험",
+        "현대해상"
+      ]
+    },
+    {
+      "keyword": "전후 재건",
+      "days": 1,
+      "dates": [
+        "2026-11-19"
+      ],
+      "week_return": -8.07,
+      "leader": "에스와이",
+      "stocks": [
+        "대우건설",
+        "에스와이",
+        "전진건설로봇"
+      ]
+    },
+    {
+      "keyword": "반도체 전공정 장비",
+      "days": 1,
+      "dates": [
+        "2026-11-19"
+      ],
+      "week_return": -8.98,
+      "leader": "테스",
+      "stocks": [
+        "GST",
+        "HPSP",
+        "브이엠",
+        "테스",
+        "피에스케이"
+      ]
+    },
+    {
+      "keyword": "지주사",
+      "days": 1,
+      "dates": [
+        "2026-11-18"
+      ],
+      "week_return": -9.08,
+      "leader": "두산",
+      "stocks": [
+        "CJ",
+        "SK",
+        "SK스퀘어",
+        "두산"
+      ]
+    },
+    {
+      "keyword": "남북경협",
+      "days": 1,
+      "dates": [
+        "2026-11-17"
+      ],
+      "week_return": -24.03,
+      "leader": "코데즈컴바인",
+      "stocks": [
+        "아난티",
+        "코데즈컴바인"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "name": "에스엠",
+      "week_return": 23.95,
+      "days": 2,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "CJ ENM",
+      "week_return": 22.64,
+      "days": 1,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "하이브",
+      "week_return": 17.34,
+      "days": 2,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "현대백화점",
+      "week_return": 16.29,
+      "days": 1,
+      "theme": "소매유통"
+    },
+    {
+      "name": "신세계",
+      "week_return": 16.23,
+      "days": 1,
+      "theme": "소매유통"
+    },
+    {
+      "name": "코스메카코리아",
+      "week_return": 14.47,
+      "days": 1,
+      "theme": "화장품"
+    },
+    {
+      "name": "한국콜마",
+      "week_return": 12.02,
+      "days": 1,
+      "theme": "화장품"
+    },
+    {
+      "name": "와이씨",
+      "week_return": 11.2,
+      "days": 2,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "아모레퍼시픽",
+      "week_return": 9.92,
+      "days": 1,
+      "theme": "화장품"
+    },
+    {
+      "name": "파라다이스",
+      "week_return": 9.54,
+      "days": 1,
+      "theme": "호텔/리조트"
+    },
+    {
+      "name": "파마리서치",
+      "week_return": 9.13,
+      "days": 1,
+      "theme": "화장품"
+    },
+    {
+      "name": "호텔신라",
+      "week_return": 8.01,
+      "days": 1,
+      "theme": "호텔/리조트"
+    },
+    {
+      "name": "GST",
+      "week_return": 7.43,
+      "days": 1,
+      "theme": "반도체 전공정 장비"
+    },
+    {
+      "name": "휴젤",
+      "week_return": 6.64,
+      "days": 1,
+      "theme": "화장품"
+    },
+    {
+      "name": "레인보우로보틱스",
+      "week_return": 6.47,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "와이지엔터테인먼트",
+      "week_return": 6.09,
+      "days": 1,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "디케이티",
+      "week_return": 4.85,
+      "days": 1,
+      "theme": "전력저장장치"
+    },
+    {
+      "name": "JYP Ent.",
+      "week_return": 4.05,
+      "days": 1,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "롯데관광개발",
+      "week_return": 3.51,
+      "days": 1,
+      "theme": "호텔/리조트"
+    },
+    {
+      "name": "코세스",
+      "week_return": 3.35,
+      "days": 2,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "CJ",
+      "week_return": 2.71,
+      "days": 1,
+      "theme": "지주사"
+    },
+    {
+      "name": "달바글로벌",
+      "week_return": 2.16,
+      "days": 1,
+      "theme": "화장품"
+    },
+    {
+      "name": "에스피지",
+      "week_return": 1.68,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "DB손해보험",
+      "week_return": 0.61,
+      "days": 1,
+      "theme": "손해보험"
+    },
+    {
+      "name": "한국화장품제조",
+      "week_return": -0.26,
+      "days": 2,
+      "theme": "화장품"
+    },
+    {
+      "name": "YG PLUS",
+      "week_return": -0.47,
+      "days": 2,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "코리아써키트",
+      "week_return": -2.84,
+      "days": 3,
+      "theme": "반도체 기판·PCB"
+    },
+    {
+      "name": "원익홀딩스",
+      "week_return": -4.67,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "서부T&D",
+      "week_return": -4.86,
+      "days": 1,
+      "theme": "호텔/리조트"
+    },
+    {
+      "name": "에스와이",
+      "week_return": -4.95,
+      "days": 1,
+      "theme": "전후 재건"
+    },
+    {
+      "name": "비나텍",
+      "week_return": -5.08,
+      "days": 1,
+      "theme": "전력저장장치"
+    },
+    {
+      "name": "티엘비",
+      "week_return": -5.25,
+      "days": 2,
+      "theme": "반도체 기판·PCB"
+    },
+    {
+      "name": "한라캐스트",
+      "week_return": -5.54,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "로보티즈",
+      "week_return": -5.85,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "전진건설로봇",
+      "week_return": -6.89,
+      "days": 1,
+      "theme": "전후 재건"
+    },
+    {
+      "name": "HPSP",
+      "week_return": -8.04,
+      "days": 1,
+      "theme": "반도체 전공정 장비"
+    },
+    {
+      "name": "현대해상",
+      "week_return": -8.83,
+      "days": 1,
+      "theme": "손해보험"
+    },
+    {
+      "name": "서진시스템",
+      "week_return": -8.88,
+      "days": 1,
+      "theme": "전력저장장치"
+    },
+    {
+      "name": "LG이노텍",
+      "week_return": -8.92,
+      "days": 1,
+      "theme": "반도체 기판·PCB"
+    },
+    {
+      "name": "SK",
+      "week_return": -9.96,
+      "days": 1,
+      "theme": "지주사"
+    },
+    {
+      "name": "SK하이닉스",
+      "week_return": -10.79,
+      "days": 1,
+      "theme": "반도체 기판·PCB"
+    },
+    {
+      "name": "삼성전기",
+      "week_return": -11.23,
+      "days": 2,
+      "theme": "반도체 기판·PCB"
+    },
+    {
+      "name": "하나머티리얼즈",
+      "week_return": -11.51,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "브이엠",
+      "week_return": -12.04,
+      "days": 1,
+      "theme": "반도체 전공정 장비"
+    },
+    {
+      "name": "대우건설",
+      "week_return": -12.38,
+      "days": 1,
+      "theme": "전후 재건"
+    },
+    {
+      "name": "SK스퀘어",
+      "week_return": -12.61,
+      "days": 1,
+      "theme": "지주사"
+    },
+    {
+      "name": "테스",
+      "week_return": -12.77,
+      "days": 1,
+      "theme": "반도체 전공정 장비"
+    },
+    {
+      "name": "SFA반도체",
+      "week_return": -13.45,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "테크윙",
+      "week_return": -15.48,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "두산",
+      "week_return": -16.45,
+      "days": 1,
+      "theme": "지주사"
+    },
+    {
+      "name": "태성",
+      "week_return": -16.7,
+      "days": 1,
+      "theme": "반도체 기판·PCB"
+    },
+    {
+      "name": "고영",
+      "week_return": -17.03,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "샘씨엔에스",
+      "week_return": -17.42,
+      "days": 2,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "피에스케이",
+      "week_return": -19.48,
+      "days": 1,
+      "theme": "반도체 전공정 장비"
+    },
+    {
+      "name": "아난티",
+      "week_return": -19.59,
+      "days": 1,
+      "theme": "남북경협"
+    },
+    {
+      "name": "엑시콘",
+      "week_return": -20.08,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "한양디지텍",
+      "week_return": -22.55,
+      "days": 2,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "하나마이크론",
+      "week_return": -23.81,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "이수페타시스",
+      "week_return": -24.73,
+      "days": 2,
+      "theme": "반도체 기판·PCB"
+    },
+    {
+      "name": "뉴파워프라즈마",
+      "week_return": -24.95,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "코데즈컴바인",
+      "week_return": -28.47,
+      "days": 1,
+      "theme": "남북경협"
+    },
+    {
+      "name": "네오셈",
+      "week_return": -32.09,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "티에스이",
+      "week_return": -34.2,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "마이크로컨텍솔",
+      "week_return": -34.74,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "오킨스전자",
+      "week_return": -44.9,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    }
+  ]
+}
