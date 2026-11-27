@@ -1,0 +1,924 @@
+{
+  "monday": "2026-11-23",
+  "friday": "2026-11-27",
+  "trading_days": [
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25",
+    "2026-11-26",
+    "2026-11-27"
+  ],
+  "themes": [
+    {
+      "keyword": "우주항공",
+      "days": 3,
+      "dates": [
+        "2026-11-23",
+        "2026-11-26",
+        "2026-11-27"
+      ],
+      "week_return": 37.16,
+      "leader": "스피어",
+      "stocks": [
+        "센서뷰",
+        "스피어",
+        "쎄트렉아이",
+        "에이치브이엠",
+        "인텔리안테크"
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "days": 3,
+      "dates": [
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-27"
+      ],
+      "week_return": 31.73,
+      "leader": "휴림로봇",
+      "stocks": [
+        "라온로보틱스",
+        "레인보우로보틱스",
+        "로보티즈",
+        "삼현",
+        "앤로보틱스",
+        "에스피지",
+        "원익홀딩스",
+        "제닉스로보틱스",
+        "클로봇",
+        "한국피아이엠",
+        "현대무벡스",
+        "휴림로봇"
+      ]
+    },
+    {
+      "keyword": "화장품",
+      "days": 3,
+      "dates": [
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-26"
+      ],
+      "week_return": 23.17,
+      "leader": "제닉",
+      "stocks": [
+        "실리콘투",
+        "에이피알",
+        "제닉",
+        "코스맥스",
+        "코스메카코리아",
+        "한국화장품제조"
+      ]
+    },
+    {
+      "keyword": "2차전지 소재",
+      "days": 3,
+      "dates": [
+        "2026-11-24",
+        "2026-11-26",
+        "2026-11-27"
+      ],
+      "week_return": 19.37,
+      "leader": "나노팀",
+      "stocks": [
+        "나노신소재",
+        "나노팀",
+        "대주전자재료",
+        "레이크머티리얼즈",
+        "롯데에너지머티리얼즈",
+        "삼아알미늄",
+        "에코프로",
+        "에코프로비엠",
+        "엔켐",
+        "이수스페셜티케미컬",
+        "포스코퓨처엠"
+      ]
+    },
+    {
+      "keyword": "통신장비",
+      "days": 2,
+      "dates": [
+        "2026-11-23",
+        "2026-11-26"
+      ],
+      "week_return": 31.8,
+      "leader": "LIG아큐버",
+      "stocks": [
+        "LIG아큐버",
+        "RFHIC",
+        "RF머트리얼즈",
+        "케이엠더블유"
+      ]
+    },
+    {
+      "keyword": "바이오",
+      "days": 2,
+      "dates": [
+        "2026-11-26",
+        "2026-11-27"
+      ],
+      "week_return": 30.05,
+      "leader": "에이비엘바이오",
+      "stocks": [
+        "디앤디파마텍",
+        "리가켐바이오",
+        "삼천당제약",
+        "앱클론",
+        "에이비엘바이오",
+        "에임드바이오",
+        "올릭스",
+        "지씨지놈",
+        "지투지바이오"
+      ]
+    },
+    {
+      "keyword": "반도체 소재·부품",
+      "days": 2,
+      "dates": [
+        "2026-11-24",
+        "2026-11-27"
+      ],
+      "week_return": 8.51,
+      "leader": "엘티씨",
+      "stocks": [
+        "뉴파워프라즈마",
+        "덕산하이메탈",
+        "동진쎄미켐",
+        "엘티씨",
+        "티씨케이",
+        "티에스이",
+        "한솔케미칼",
+        "해성디에스"
+      ]
+    },
+    {
+      "keyword": "반도체 기판",
+      "days": 2,
+      "dates": [
+        "2026-11-23",
+        "2026-11-27"
+      ],
+      "week_return": 5.44,
+      "leader": "태성",
+      "stocks": [
+        "LG이노텍",
+        "대덕전자",
+        "심텍",
+        "심텍홀딩스",
+        "이수페타시스",
+        "코리아써키트",
+        "태성",
+        "티엘비"
+      ]
+    },
+    {
+      "keyword": "보안주(정보)",
+      "days": 1,
+      "dates": [
+        "2026-11-25"
+      ],
+      "week_return": 34.36,
+      "leader": "안랩",
+      "stocks": [
+        "라온시큐어",
+        "안랩",
+        "지니언스",
+        "파수AI"
+      ]
+    },
+    {
+      "keyword": "양자암호/양자컴퓨팅",
+      "days": 1,
+      "dates": [
+        "2026-11-27"
+      ],
+      "week_return": 22.69,
+      "leader": "라온시큐어",
+      "stocks": [
+        "LG씨엔에스",
+        "라온시큐어",
+        "아톤"
+      ]
+    },
+    {
+      "keyword": "자동차 부품",
+      "days": 1,
+      "dates": [
+        "2026-11-24"
+      ],
+      "week_return": 18.61,
+      "leader": "모베이스전자",
+      "stocks": [
+        "HL만도",
+        "모베이스전자",
+        "한온시스템"
+      ]
+    },
+    {
+      "keyword": "증권",
+      "days": 1,
+      "dates": [
+        "2026-11-27"
+      ],
+      "week_return": 17.32,
+      "leader": "키움증권",
+      "stocks": [
+        "NH투자증권",
+        "미래에셋증권",
+        "삼성증권",
+        "키움증권",
+        "한국금융지주"
+      ]
+    },
+    {
+      "keyword": "ESS",
+      "days": 1,
+      "dates": [
+        "2026-11-23"
+      ],
+      "week_return": 15.75,
+      "leader": "금양그린파워",
+      "stocks": [
+        "금양그린파워",
+        "디케이티",
+        "비나텍"
+      ]
+    },
+    {
+      "keyword": "전자부품(MLCC·스마트폰 부품)",
+      "days": 1,
+      "dates": [
+        "2026-11-24"
+      ],
+      "week_return": 14.68,
+      "leader": "아모텍",
+      "stocks": [
+        "삼성전기",
+        "삼화콘덴서",
+        "아모텍"
+      ]
+    },
+    {
+      "keyword": "반도체 후공정",
+      "days": 1,
+      "dates": [
+        "2026-11-23"
+      ],
+      "week_return": 11.35,
+      "leader": "SFA반도체",
+      "stocks": [
+        "SFA반도체",
+        "고영",
+        "피에스케이홀딩스"
+      ]
+    },
+    {
+      "keyword": "반도체 전공정 장비",
+      "days": 1,
+      "dates": [
+        "2026-11-23"
+      ],
+      "week_return": 7.59,
+      "leader": "테스",
+      "stocks": [
+        "유진테크",
+        "케이씨텍",
+        "테스"
+      ]
+    },
+    {
+      "keyword": "HBM",
+      "days": 1,
+      "dates": [
+        "2026-11-24"
+      ],
+      "week_return": 5.8,
+      "leader": "예스티",
+      "stocks": [
+        "예스티",
+        "와이씨",
+        "케이씨텍"
+      ]
+    },
+    {
+      "keyword": "완성차",
+      "days": 1,
+      "dates": [
+        "2026-11-24"
+      ],
+      "week_return": 5.21,
+      "leader": "현대모비스",
+      "stocks": [
+        "기아",
+        "현대글로비스",
+        "현대모비스",
+        "현대차"
+      ]
+    },
+    {
+      "keyword": "엔터테인먼트",
+      "days": 1,
+      "dates": [
+        "2026-11-26"
+      ],
+      "week_return": 4.93,
+      "leader": "에스엠",
+      "stocks": [
+        "JYP Ent.",
+        "에스엠",
+        "하이브"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "name": "휴림로봇",
+      "week_return": 65.15,
+      "days": 2,
+      "theme": "로봇"
+    },
+    {
+      "name": "안랩",
+      "week_return": 58.61,
+      "days": 1,
+      "theme": "보안주(정보)"
+    },
+    {
+      "name": "에이치브이엠",
+      "week_return": 51.01,
+      "days": 3,
+      "theme": "우주항공"
+    },
+    {
+      "name": "한국피아이엠",
+      "week_return": 50.2,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "클로봇",
+      "week_return": 47.26,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "스피어",
+      "week_return": 45.85,
+      "days": 3,
+      "theme": "우주항공"
+    },
+    {
+      "name": "LIG아큐버",
+      "week_return": 43.62,
+      "days": 1,
+      "theme": "통신장비"
+    },
+    {
+      "name": "올릭스",
+      "week_return": 41.38,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "라온시큐어",
+      "week_return": 39.48,
+      "days": 2,
+      "theme": "보안주(정보)"
+    },
+    {
+      "name": "지투지바이오",
+      "week_return": 37.47,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "인텔리안테크",
+      "week_return": 37.44,
+      "days": 1,
+      "theme": "우주항공"
+    },
+    {
+      "name": "에이비엘바이오",
+      "week_return": 36.66,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "케이엠더블유",
+      "week_return": 34.1,
+      "days": 1,
+      "theme": "통신장비"
+    },
+    {
+      "name": "리가켐바이오",
+      "week_return": 33.85,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "지씨지놈",
+      "week_return": 33.11,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "실리콘투",
+      "week_return": 33.04,
+      "days": 1,
+      "theme": "화장품"
+    },
+    {
+      "name": "레인보우로보틱스",
+      "week_return": 32.01,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "삼천당제약",
+      "week_return": 31.57,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "쎄트렉아이",
+      "week_return": 31.36,
+      "days": 2,
+      "theme": "우주항공"
+    },
+    {
+      "name": "모베이스전자",
+      "week_return": 31.33,
+      "days": 1,
+      "theme": "자동차 부품"
+    },
+    {
+      "name": "제닉스로보틱스",
+      "week_return": 31.26,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "앤로보틱스",
+      "week_return": 30.89,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "삼아알미늄",
+      "week_return": 30.42,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "로보티즈",
+      "week_return": 30.19,
+      "days": 2,
+      "theme": "로봇"
+    },
+    {
+      "name": "이수스페셜티케미컬",
+      "week_return": 30.03,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "현대무벡스",
+      "week_return": 28.9,
+      "days": 2,
+      "theme": "로봇"
+    },
+    {
+      "name": "에이피알",
+      "week_return": 28.82,
+      "days": 2,
+      "theme": "화장품"
+    },
+    {
+      "name": "RFHIC",
+      "week_return": 28.68,
+      "days": 2,
+      "theme": "통신장비"
+    },
+    {
+      "name": "에스피지",
+      "week_return": 28.43,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "디앤디파마텍",
+      "week_return": 27.69,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "엘티씨",
+      "week_return": 27.47,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "아톤",
+      "week_return": 27.18,
+      "days": 1,
+      "theme": "양자암호/양자컴퓨팅"
+    },
+    {
+      "name": "레이크머티리얼즈",
+      "week_return": 27.01,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "키움증권",
+      "week_return": 26.73,
+      "days": 1,
+      "theme": "증권"
+    },
+    {
+      "name": "태성",
+      "week_return": 26.12,
+      "days": 1,
+      "theme": "반도체 기판"
+    },
+    {
+      "name": "아모텍",
+      "week_return": 25.74,
+      "days": 1,
+      "theme": "전자부품(MLCC·스마트폰 부품)"
+    },
+    {
+      "name": "제닉",
+      "week_return": 25.26,
+      "days": 1,
+      "theme": "화장품"
+    },
+    {
+      "name": "나노팀",
+      "week_return": 25.19,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "대주전자재료",
+      "week_return": 25.07,
+      "days": 2,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "미래에셋증권",
+      "week_return": 24.2,
+      "days": 1,
+      "theme": "증권"
+    },
+    {
+      "name": "에임드바이오",
+      "week_return": 24.01,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "라온로보틱스",
+      "week_return": 23.74,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "디케이티",
+      "week_return": 23.29,
+      "days": 1,
+      "theme": "ESS"
+    },
+    {
+      "name": "한국화장품제조",
+      "week_return": 22.91,
+      "days": 2,
+      "theme": "화장품"
+    },
+    {
+      "name": "RF머트리얼즈",
+      "week_return": 20.78,
+      "days": 2,
+      "theme": "통신장비"
+    },
+    {
+      "name": "나노신소재",
+      "week_return": 20.69,
+      "days": 2,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "파수AI",
+      "week_return": 20.58,
+      "days": 1,
+      "theme": "보안주(정보)"
+    },
+    {
+      "name": "센서뷰",
+      "week_return": 20.17,
+      "days": 1,
+      "theme": "우주항공"
+    },
+    {
+      "name": "심텍홀딩스",
+      "week_return": 19.19,
+      "days": 2,
+      "theme": "반도체 기판"
+    },
+    {
+      "name": "한국금융지주",
+      "week_return": 19.01,
+      "days": 1,
+      "theme": "증권"
+    },
+    {
+      "name": "지니언스",
+      "week_return": 18.75,
+      "days": 1,
+      "theme": "보안주(정보)"
+    },
+    {
+      "name": "삼현",
+      "week_return": 18.13,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "코스메카코리아",
+      "week_return": 17.24,
+      "days": 2,
+      "theme": "화장품"
+    },
+    {
+      "name": "HL만도",
+      "week_return": 16.11,
+      "days": 1,
+      "theme": "자동차 부품"
+    },
+    {
+      "name": "덕산하이메탈",
+      "week_return": 14.17,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "롯데에너지머티리얼즈",
+      "week_return": 13.9,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "에코프로",
+      "week_return": 13.8,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "예스티",
+      "week_return": 13.69,
+      "days": 1,
+      "theme": "HBM"
+    },
+    {
+      "name": "고영",
+      "week_return": 13.68,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "금양그린파워",
+      "week_return": 13.39,
+      "days": 1,
+      "theme": "ESS"
+    },
+    {
+      "name": "피에스케이홀딩스",
+      "week_return": 13.22,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "한솔케미칼",
+      "week_return": 12.94,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "에코프로비엠",
+      "week_return": 12.48,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "해성디에스",
+      "week_return": 12.0,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "코스맥스",
+      "week_return": 11.74,
+      "days": 2,
+      "theme": "화장품"
+    },
+    {
+      "name": "삼화콘덴서",
+      "week_return": 10.98,
+      "days": 1,
+      "theme": "전자부품(MLCC·스마트폰 부품)"
+    },
+    {
+      "name": "비나텍",
+      "week_return": 10.58,
+      "days": 1,
+      "theme": "ESS"
+    },
+    {
+      "name": "포스코퓨처엠",
+      "week_return": 10.53,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "테스",
+      "week_return": 10.27,
+      "days": 1,
+      "theme": "반도체 전공정 장비"
+    },
+    {
+      "name": "삼성증권",
+      "week_return": 9.12,
+      "days": 1,
+      "theme": "증권"
+    },
+    {
+      "name": "기아",
+      "week_return": 8.81,
+      "days": 1,
+      "theme": "완성차"
+    },
+    {
+      "name": "JYP Ent.",
+      "week_return": 8.54,
+      "days": 1,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "동진쎄미켐",
+      "week_return": 8.45,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "심텍",
+      "week_return": 8.42,
+      "days": 1,
+      "theme": "반도체 기판"
+    },
+    {
+      "name": "한온시스템",
+      "week_return": 8.39,
+      "days": 1,
+      "theme": "자동차 부품"
+    },
+    {
+      "name": "NH투자증권",
+      "week_return": 7.56,
+      "days": 1,
+      "theme": "증권"
+    },
+    {
+      "name": "유진테크",
+      "week_return": 7.5,
+      "days": 1,
+      "theme": "반도체 전공정 장비"
+    },
+    {
+      "name": "삼성전기",
+      "week_return": 7.3,
+      "days": 1,
+      "theme": "전자부품(MLCC·스마트폰 부품)"
+    },
+    {
+      "name": "SFA반도체",
+      "week_return": 7.14,
+      "days": 1,
+      "theme": "반도체 후공정"
+    },
+    {
+      "name": "현대차",
+      "week_return": 6.92,
+      "days": 1,
+      "theme": "완성차"
+    },
+    {
+      "name": "현대모비스",
+      "week_return": 5.59,
+      "days": 1,
+      "theme": "완성차"
+    },
+    {
+      "name": "티씨케이",
+      "week_return": 5.33,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "케이씨텍",
+      "week_return": 5.01,
+      "days": 2,
+      "theme": "반도체 전공정 장비"
+    },
+    {
+      "name": "앱클론",
+      "week_return": 4.7,
+      "days": 1,
+      "theme": "바이오"
+    },
+    {
+      "name": "LG이노텍",
+      "week_return": 4.14,
+      "days": 1,
+      "theme": "반도체 기판"
+    },
+    {
+      "name": "엔켐",
+      "week_return": 3.92,
+      "days": 1,
+      "theme": "2차전지 소재"
+    },
+    {
+      "name": "에스엠",
+      "week_return": 3.19,
+      "days": 1,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "하이브",
+      "week_return": 3.05,
+      "days": 1,
+      "theme": "엔터테인먼트"
+    },
+    {
+      "name": "대덕전자",
+      "week_return": 1.66,
+      "days": 1,
+      "theme": "반도체 기판"
+    },
+    {
+      "name": "LG씨엔에스",
+      "week_return": 1.41,
+      "days": 1,
+      "theme": "양자암호/양자컴퓨팅"
+    },
+    {
+      "name": "이수페타시스",
+      "week_return": 0.29,
+      "days": 2,
+      "theme": "반도체 기판"
+    },
+    {
+      "name": "현대글로비스",
+      "week_return": -0.49,
+      "days": 1,
+      "theme": "완성차"
+    },
+    {
+      "name": "와이씨",
+      "week_return": -1.31,
+      "days": 1,
+      "theme": "HBM"
+    },
+    {
+      "name": "티에스이",
+      "week_return": -2.22,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "티엘비",
+      "week_return": -2.89,
+      "days": 1,
+      "theme": "반도체 기판"
+    },
+    {
+      "name": "원익홀딩스",
+      "week_return": -5.39,
+      "days": 1,
+      "theme": "로봇"
+    },
+    {
+      "name": "뉴파워프라즈마",
+      "week_return": -10.06,
+      "days": 1,
+      "theme": "반도체 소재·부품"
+    },
+    {
+      "name": "코리아써키트",
+      "week_return": -13.4,
+      "days": 1,
+      "theme": "반도체 기판"
+    }
+  ]
+}
